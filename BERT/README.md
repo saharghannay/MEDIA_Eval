@@ -3,7 +3,7 @@
 run_slu.py used for SLU task, it is based on the hugging face script [`run_ner.py`](https://github.com/huggingface/transformers/blob/master/examples/ner/run_ner.py) for Pytorch.
 This example fine-tune Bert (Camembert or Flaubert) base models on MEDIA task.
 
-##Experiments 
+## Experiments 
  BERT models can be downloaded from [here](https://huggingface.co/models?search=camembert)
  The bash scripts are used to run experiments on MEDIA task, using one of the french BERT models.  
 
