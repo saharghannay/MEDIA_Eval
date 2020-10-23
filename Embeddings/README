@@ -1,0 +1,7 @@
+# This file is part of Embeddings.
+# Data is a directory containing CBOW embeddings verctors used for the experiments. Those embeddings are trained on different data: media, wikipedia, and wikipedia+media (for more detailes see the paper). 
+
+
+###Embeddings training
+### Sahar Ghannay
+###
