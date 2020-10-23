@@ -25,15 +25,13 @@ The full prepared data can be downloaded from [here](https://perso.limsi.fr/ghan
 		scripts/prepare_MEDIA_data_wiki.csh 
 	```
 - Cammebert Embeddings 
-
 	1. Get Camembert Embeddings 
 	
 		```bash
 		scripts/get_Camembert_embed_media.csh
-		```
-		
+		```		
 	2. Prepare the data 
 	
 		```bash
-			scripts/prepare_MEDIA_data_camembert_embed.csh
+		scripts/prepare_MEDIA_data_camembert_embed.csh
 		```
