@@ -4,7 +4,7 @@ Deep neural models for core NLP tasks based on Pytorch(version 2). This tool was
 New data readers was created to manage MEDIA data, and to handill the different word embeddings configurations. In addition some updates have been made to output the results, models and logs.
 
 
-#Experiments 
+## Experiments 
 -- In exemples/MEDIA you can find all the mash scripts used to run all the expriments mentionned in the paper. 
 
 
