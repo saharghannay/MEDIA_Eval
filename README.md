@@ -5,13 +5,16 @@ The code used in those experiments  is basically based on ["NeuroNLP2"](https://
 
 
 ##Organisation
+
 This repository is composed of:
 - Data: contains all the data and the different configurations used in the experiments 
 - Embeddings: contains all the embeddings vectors trained on different data: media, wiki and wiki+media
 - NeuroNLP2: NeuroNLP2 tool adapated for MEDIA task
 - BERT: hugging face example adapated for MEDIA task
 
+
 ##Installation
+
 Please follow the installation instruction mentionned in the README file for both tools "NeuroNLP2" and "BERT". 
 
 
