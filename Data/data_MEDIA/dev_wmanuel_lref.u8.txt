@@ -1,0 +1,12135 @@
+alors null
+j null
+s' null
+il null
+vous null
+plaît null
+je command-tache-B
+voudrais command-tache-I
+une command-tache-I
+réservation command-tache-I
+pour temps-axeTps-B
+euh temps-axeTps-I
+les temps-axeTps-I
+premiers temps-axeTps-I
+jours temps-unite-B
+de temps-mois-B
+mai temps-mois-I
+à localisation-ville-B
+Marseille localisation-ville-I
+les nombre-temps-B
+trois nombre-temps-I
+premiers temps-axeTps-B
+jours temps-unite-B
+de temps-mois-B
+mai temps-mois-I
+
+oui reponse-B
+
+alors null
+j' null
+ai null
+déjà null
+une nombre-chambre-B
+je null
+veux null
+une nombre-chambre-B
+chambre chambre-type-B
+simple chambre-type-I
+de null
+cent paiement-montant-entier-B
+deux paiement-montant-entier-I
+euros paiement-monnaie-B
+de null
+préférence null
+et connectProp-B
+une null
+formule null
+près localisation-distanceRelative-B
+d' localisation-distanceRelative-I
+un localisation-lieuRelatif-B
+restaurant localisation-lieuRelatif-I
+c' null
+est null
+possible null
+
+combien objet-B
+d' objet-I
+étoiles objet-I
+
+d'accord reponse-B
+
+ça null
+fait null
+à comparatif-paiement-B
+à comparatif-paiement-I
+peu comparatif-paiement-I
+près comparatif-paiement-I
+combien objet-B
+pour null
+une nombre-chambre-B
+chambre chambre-type-B
+simple chambre-type-I
+
+huhum null
+
+voilà null
+alors null
+c' null
+est null
+celui-là lienRef-elsEns-B
+que null
+je null
+veux null
+
+oui reponse-B
+
+est-ce null
+qu' null
+il null
+y null
+a null
+un localisation-lieuRelatif-B
+restaurant localisation-lieuRelatif-I
+à localisation-distanceRelative-B
+côté localisation-distanceRelative-I
+
+oui reponse-B
+
+ah null
+dans null
+l' lienRef-coRef-B
+hôtel objetBD-B
+eh null
+ben null
+écoutez null
+c' null
+est null
+parfait null
+à localisation-ville-B
+Marseille localisation-ville-I
+hein null
+
+d'accord reponse-B
+
+ah null
+alors null
+le lienRef-elsEns-B
+l' lienRef-elsEns-I
+avant rang-B
+dernier rang-I
+
+voilà null
+
+est-ce null
+qu' null
+il null
+y null
+a null
+un localisation-lieuRelatif-B
+restaurant localisation-lieuRelatif-I
+à localisation-distanceRelative-B
+côté localisation-distanceRelative-I
+
+ah null
+ben null
+alors null
+c' null
+est null
+parfait null
+
+hum null
+oui reponse-B
+
+pour nombre-temps-B
+les nombre-temps-I
+trois nombre-temps-I
+jours temps-unite-B
+
+d'accord reponse-B
+
+eh null
+bien null
+écoutez null
+non reponse-B
+euh null
+donc null
+je null
+note null
+qu' null
+à localisation-ville-B
+Marseille localisation-ville-I
+les nombre-temps-B
+trois nombre-temps-I
+premiers temps-axeTps-B
+jours temps-unite-B
+euh null
+de temps-mois-B
+mai temps-mois-I
+euh null
+pour null
+un null
+séjour null
+euh null
+de null
+trois sejour-nbNuit-B
+jours sejour-nbNuit-I
+c' null
+est null
+ça null
+euh null
+donc null
+vous null
+me null
+disiez null
+quel objet-B
+prix objet-I
+deux paiement-montant-entier-B
+cent paiement-montant-entier-I
+dix paiement-montant-entier-I
+euros paiement-monnaie-B
+c' command-dial-B
+est command-dial-I
+ça command-dial-I
+
+très null
+bien null
+et null
+ben null
+je null
+vous null
+remercie null
+madame null
+
+merci null
+au null
+revoir null
+
+oui reponse-B
+je command-tache-B
+voudrais command-tache-I
+réserver command-tache-I
+une nombre-chambre-B
+chambre nombre-chambre-I
+à localisation-ville-B
+Paris localisation-ville-I
+
+alors null
+je command-tache-B
+voudrais command-tache-I
+réserver command-tache-I
+une nombre-chambre-B
+chambre nombre-chambre-I
+pour evenement-B
+la evenement-I
+conférence evenement-I
+d' evenement-I
+Amnesty evenement-I
+International evenement-I
+du temps-date-B
+vingt temps-date-I
+quatre temps-date-I
+au temps-date-B
+vingt temps-date-I
+six temps-date-I
+juillet temps-date-I
+et connectProp-B
+je null
+voudrais null
+que null
+ça null
+soit null
+près localisation-distanceRelative-B
+de localisation-distanceRelative-I
+la localisation-rue-B
+place localisation-rue-I
+d' localisation-rue-I
+Italie localisation-rue-I
+
+euh null
+je null
+voudrais null
+est-ce null
+qu' null
+y null
+a null
+un localisation-lieuRelatif-B
+restaurant localisation-lieuRelatif-I
+végétarien localisation-lieuRelatif-I
+à localisation-distanceRelative-B
+côté localisation-distanceRelative-I
+de localisation-distanceRelative-I
+l' lienRef-coRef-B
+hôtel objetBD-B
+
+et null
+euh null
+est-ce null
+qu' null
+on null
+peut null
+avoir null
+euh null
+six nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+
+oui reponse-B
+s' null
+il null
+vous null
+plaît null
+
+euh null
+c' null
+est null
+bien null
+donc null
+réservez command-tache-B
+euh null
+pour null
+la null
+nuit null
+du temps-jour-mois-B
+vingt temps-jour-mois-I
+quatre temps-jour-mois-I
+au temps-jour-mois-B
+vingt temps-jour-mois-I
+six temps-jour-mois-I
+au temps-plageTps-B
+matin temps-plageTps-I
+
+bien null
+je null
+vous null
+remercie null
+
+je command-tache-B
+souhaite command-tache-I
+réserver command-tache-I
+euh null
+une nombre-chambre-B
+chambre nombre-chambre-I
+dans localisation-quartier-B
+l' localisation-quartier-I
+île localisation-quartier-I
+Saint-Louis localisation-quartier-I
+pour sejour-nbNuit-B
+deux sejour-nbNuit-I
+nuits sejour-nbNuit-I
+en temps-mois-B
+mars temps-mois-I
+je null
+veux null
+deux nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+et connectProp-B
+trois nombre-chambre-B
+chambres chambre-type-B
+doubles chambre-type-I
+euh null
+cent paiement-montant-entier-B
+trente paiement-montant-entier-I
+francs paiement-monnaie-B
+cent paiement-montant-entier-B
+trente paiement-montant-entier-I
+euros paiement-monnaie-B
+la null
+chambre null
+
+absolument reponse-B
+euh null
+
+je null
+je null
+voudrais null
+
+en temps-mois-B
+mars temps-mois-I
+on null
+va null
+dire null
+le temps-date-B
+cinq temps-date-I
+mars temps-date-I
+
+celui lienRef-elsEns-B
+qui null
+est null
+à null
+cent paiement-montant-entier-B
+trente paiement-montant-entier-I
+euros paiement-monnaie-B
+la null
+chambre null
+
+et null
+l' lienRef-coDom-B
+autre lienRef-coDom-I
+
+donc null
+le lienRef-elsEns-B
+premier rang-B
+
+absolument reponse-B
+
+euh null
+je null
+je null
+veux null
+deux sejour-nbNuit-B
+nuits sejour-nbNuit-I
+je null
+veux null
+deux sejour-nbNuit-B
+nuits sejour-nbNuit-I
+et connectProp-B
+je null
+veux null
+deux nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+et connectProp-B
+trois nombre-chambre-B
+chambres chambre-type-B
+doubles chambre-type-I
+
+oui reponse-B
+
+absolument reponse-B
+absolument reponse-I
+oui reponse-I
+oui reponse-I
+
+je null
+les lienRef-coRef-B
+réserve command-tache-B
+
+absolument reponse-B
+
+oui reponse-B
+
+zéro nombre-B
+
+d'accord reponse-B
+
+non reponse-B
+merci null
+c' null
+est null
+très null
+bien null
+
+au null
+revoir null
+madame null
+
+au null
+revoir null
+madame null
+
+je command-tache-B
+souhaiterais command-tache-I
+réserver command-tache-I
+une nombre-chambre-B
+chambre nombre-chambre-I
+entre localisation-ville-B
+Narbonne localisation-ville-I
+et localisation-ville-B
+Limoges localisation-ville-I
+trois sejour-nbNuit-B
+jours sejour-nbNuit-I
+à temps-jourFerie-B
+Noël temps-jourFerie-I
+le temps-date-B
+vingt temps-date-I
+trois temps-date-I
+vingt temps-date-B
+quatre temps-date-I
+et temps-date-B
+vingt temps-date-I
+cinq temps-date-I
+décembre temps-date-I
+pour sejour-nbCouple-B
+un sejour-nbCouple-I
+couple sejour-nbCouple-I
+plus sejour-nbEnfant-B
+un sejour-nbEnfant-I
+enfant sejour-nbEnfant-I
+pour objet-B
+un objet-I
+prix objet-I
+de objet-I
+soixante paiement-montant-entier-B
+euros paiement-monnaie-B
+la null
+nuit null
+et connectProp-B
+je null
+souhaite null
+également null
+avoir null
+une localisation-lieuRelatif-B
+patinoire localisation-lieuRelatif-I
+en localisation-lieuRelatif-B
+ville localisation-lieuRelatif-I
+
+merci null
+
+oui reponse-B
+dites-moi null
+dans null
+quelle null
+ville objet-B
+j' null
+ai null
+une localisation-lieuRelatif-B
+patinoire localisation-lieuRelatif-I
+
+oui reponse-B
+
+oui reponse-B
+et connectProp-B
+le objet-B
+prix objet-I
+des lienRef-coRef-B
+chambres objet-B
+soixante paiement-montant-entier-B
+euros paiement-monnaie-B
+dans null
+quelle null
+ville objet-B
+je null
+l' null
+ai null
+ça null
+pour nombre-chambre-B
+une nombre-chambre-I
+chambre nombre-chambre-I
+pour sejour-nbCouple-B
+un sejour-nbCouple-I
+couple sejour-nbCouple-I
+plus sejour-nbEnfant-B
+un sejour-nbEnfant-I
+enfant sejour-nbEnfant-I
+
+eh null
+ben null
+on command-tache-B
+va command-tache-I
+prendre command-tache-I
+Limoges localisation-ville-B
+
+donc null
+vous command-tache-B
+me command-tache-I
+réservez command-tache-I
+
+oui reponse-B
+absolument reponse-I
+
+merci null
+
+et null
+Toulouse localisation-ville-B
+
+oui reponse-B
+
+oui reponse-B
+
+et null
+ben null
+on null
+la lienRef-coRef-B
+prend null
+je null
+la null
+prends null
+
+ok reponse-B
+
+absolument reponse-B
+
+d'accord reponse-B
+
+oui reponse-B
+
+d'accord reponse-B
+
+non reponse-B
+merci null
+merci null
+beaucoup null
+madame null
+
+au null
+revoir null
+madame null
+
+au null
+au null
+revoir null
+
+madame null
+
+je null
+voudrais null
+faire null
+plusieurs nombreNonDigit-B
+réservations command-tache-B
+sur temps-mois-B
+le temps-mois-I
+mois temps-mois-I
+d' temps-mois-I
+avril temps-mois-I
+la rang-reservation-B
+première rang-reservation-I
+du temps-date-B
+vingt temps-date-I
+et temps-date-I
+un temps-date-I
+au temps-date-B
+vingt temps-date-I
+trois temps-date-I
+avril temps-date-I
+à localisation-ville-B
+Béziers localisation-ville-I
+euh null
+une nombre-chambre-B
+chambre nombre-chambre-I
+un sejour-nbCouple-B
+couple sejour-nbCouple-I
+pour sejour-nbCouple-I
+un sejour-nbCouple-I
+couple sejour-nbCouple-I
+avec sejour-nbEnfant-B
+un sejour-nbEnfant-I
+enfant sejour-nbEnfant-I
+et hotel-services-B
+un hotel-services-I
+chien hotel-services-I
+
+ouais reponse-B
+
+euh null
+quel null
+est null
+le lienRef-coRef-B
+prix objet-B
+de null
+la lienRef-coRef-B
+chambre objet-B
+
+c' null
+est null
+bon null
+
+ok reponse-B
+
+euh null
+oui reponse-B
+je null
+suppose null
+qu' null
+il null
+y null
+a null
+une null
+possibilité null
+de null
+lit sejour-nbEnfant-B
+d' sejour-nbEnfant-I
+appoint sejour-nbEnfant-I
+etc sejour-nbEnfant-I
+pour sejour-nbEnfant-I
+l' sejour-nbEnfant-I
+enfant sejour-nbEnfant-I
+et connectProp-B
+qu' null
+ils lienRef-coRef-B
+acceptent null
+les hotel-services-B
+animaux hotel-services-I
+
+ok reponse-B
+c' null
+est null
+bon null
+je command-tache-B
+réserve command-tache-I
+
+euh null
+oui reponse-B
+il null
+me null
+faudrait null
+aussi null
+euh null
+euh null
+une nombre-chambre-B
+chambre nombre-chambre-I
+du temps-date-B
+vingt temps-date-I
+trois temps-date-I
+au temps-date-B
+vingt temps-date-I
+six temps-date-I
+avril temps-date-I
+à localisation-ville-B
+Tulle localisation-ville-I
+
+toujours null
+chambre objet-B
+pour sejour-nbCouple-B
+un sejour-nbCouple-I
+couple sejour-nbCouple-I
+avec sejour-nbEnfant-B
+un sejour-nbEnfant-I
+enfant sejour-nbEnfant-I
+et hotel-services-B
+un hotel-services-I
+chien hotel-services-I
+à null
+quatre paiement-montant-entier-B
+vingts paiement-montant-entier-I
+euros paiement-monnaie-B
+la null
+nuit null
+maximum comparatif-paiement-B
+
+huhum null
+
+c' null
+est null
+parfait null
+je command-tache-B
+réserve command-tache-I
+
+d'accord reponse-B
+
+oui reponse-B
+oui reponse-I
+oui reponse-I
+
+ah null
+c' null
+est null
+pas null
+fini null
+allô null
+
+c' null
+est null
+pas null
+fini null
+j' command-tache-B
+ai command-tache-I
+encore command-tache-I
+une command-tache-I
+réservation command-tache-I
+à command-tache-I
+faire command-tache-I
+
+à localisation-ville-B
+Angers localisation-ville-I
+du temps-date-B
+vingt temps-date-I
+six temps-date-I
+au temps-date-B
+vingt temps-date-I
+huit temps-date-I
+avril temps-date-I
+
+hum null
+bon null
+c' null
+est null
+encore null
+acceptable null
+ils lienRef-coRef-B
+acceptent null
+les hotel-services-B
+animaux hotel-services-I
+
+d'accord reponse-B
+je command-tache-B
+réserve command-tache-I
+et null
+cette null
+fois-ci null
+c' null
+est null
+fini null
+
+huhum null
+
+ok reponse-B
+
+non reponse-B
+ça null
+ira null
+merci null
+beaucoup null
+
+au null
+revoir null
+
+je null
+cherche null
+un objetBD-B
+hôtel objetBD-I
+à localisation-ville-B
+Paris localisation-ville-I
+près localisation-distanceRelative-B
+d' localisation-distanceRelative-I
+Ivry localisation-ville-B
+euh null
+pour null
+la null
+période null
+du temps-date-B
+dix temps-date-I
+neuf temps-date-I
+au temps-date-B
+vingt temps-date-I
+cinq temps-date-I
+juillet temps-date-I
+il null
+me null
+faudrait null
+quatre nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+à comparatif-paiement-B
+moins comparatif-paiement-I
+de comparatif-paiement-I
+cent paiement-montant-entier-B
+cinquante paiement-montant-entier-I
+euros paiement-monnaie-B
+la null
+nuit null
+
+non reponse-B
+
+non reponse-B
+à localisation-ville-B
+Paris localisation-ville-I
+près localisation-distanceRelative-B
+d' localisation-distanceRelative-I
+Ivry localisation-ville-B
+
+oui reponse-B
+
+quels null
+sont null
+les lienRef-coRef-B
+prix objet-B
+des lienRef-coRef-B
+chambres chambre-type-B
+simples chambre-type-I
+
+euh null
+alors null
+le lienRef-elsEns-B
+premier rang-B
+
+oui reponse-B
+quatre nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+
+est-ce null
+qu' null
+il null
+y null
+a null
+un localisation-lieuRelatif-B
+resto localisation-lieuRelatif-I
+dans null
+
+est-ce null
+qu' null
+il null
+y null
+a null
+un hotel-services-B
+restaurant hotel-services-I
+dans null
+cet lienRef-coRef-B
+hôtel objetBD-B
+ou connectAttr-B
+dans localisation-distanceRelative-B
+les localisation-distanceRelative-I
+environs localisation-distanceRelative-I
+de objetBD-B
+l' objetBD-I
+hôtel objetBD-I
+tout null
+près null
+
+et null
+un hotel-parking-B
+parking hotel-parking-I
+privé hotel-parking-I
+
+bon null
+ben null
+c' null
+est null
+bon null
+c' null
+est null
+parfait null
+
+d'accord reponse-B
+
+ok reponse-B
+
+d'accord reponse-B
+
+non reponse-B
+non reponse-I
+c' null
+est null
+tout null
+
+au null
+revoir null
+
+ce command-tache-B
+serait command-tache-I
+ce command-tache-I
+serait command-tache-I
+pour command-tache-I
+réserver command-tache-I
+une nombre-chambre-B
+chambre chambre-type-B
+simple chambre-type-I
+à comparatif-paiement-B
+moins comparatif-paiement-I
+de comparatif-paiement-I
+cent paiement-montant-entier-B
+euros paiement-monnaie-B
+
+à localisation-ville-B
+Marseille localisation-ville-I
+
+alors null
+ça null
+serait null
+pour temps-mois-B
+le temps-mois-I
+mois temps-mois-I
+d' temps-mois-I
+août temps-mois-I
+
+oui reponse-B
+ça null
+serait null
+pour evenement-B
+la evenement-I
+course evenement-I
+de evenement-I
+voiliers evenement-I
+surtout null
+au temps-axeTps-B
+moment temps-axeTps-I
+de temps-axeTps-I
+la evenement-B
+course evenement-I
+des evenement-I
+voiliers evenement-I
+
+une nombre-chambre-B
+chambre nombre-chambre-I
+
+pour sejour-nbPersonne-B
+une sejour-nbPersonne-I
+personne sejour-nbPersonne-I
+
+hum null
+oui reponse-B
+soixante paiement-montant-entier-B
+dix paiement-montant-entier-I
+euros paiement-monnaie-B
+c' null
+est null
+bien null
+
+huhum null
+
+alors null
+hum null
+l' lienRef-coDom-B
+autre lienRef-coDom-I
+la null
+gamme null
+au-dessus null
+à null
+quatre paiement-montant-entier-B
+vingt paiement-montant-entier-I
+dix paiement-montant-entier-I
+euros paiement-monnaie-B
+
+oui reponse-B
+
+d'accord reponse-B
+
+oui reponse-B
+tout reponse-I
+à reponse-I
+fait reponse-I
+
+huhum null
+
+qu' null
+elle lienRef-coRef-B
+soit null
+près localisation-distanceRelative-B
+des localisation-distanceRelative-I
+r null
+oui reponse-B
+qu' null
+elle null
+s null
+
+ok reponse-B
+d'accord reponse-I
+
+ok reponse-B
+
+entendu reponse-B
+
+non reponse-B
+je null
+voudrais null
+que null
+ça null
+soit null
+près localisation-distanceRelative-B
+d' localisation-distanceRelative-I
+un localisation-lieuRelatif-B
+restaurant localisation-lieuRelatif-I
+
+très null
+bien null
+
+impeccable null
+alors null
+
+non reponse-B
+c' null
+est null
+bon null
+merci null
+donc connectProp-B
+c' null
+est null
+ok reponse-B
+pour null
+la lienRef-coRef-B
+chambre objet-B
+
+oui null
+bonjour null
+je command-tache-B
+souhaiterais command-tache-I
+réserver command-tache-I
+un objetBD-B
+hôtel objetBD-I
+sur localisation-ville-B
+Marseille localisation-ville-I
+s' null
+il null
+vous null
+plaît null
+
+alors null
+le rang-temps-B
+troisième rang-temps-I
+jour temps-unite-B
+de temps-mois-B
+mai temps-mois-I
+
+merci null
+
+alors null
+il null
+me null
+faudrait null
+une nombre-chambre-B
+semb nombre-chambre-I
+une nombre-chambre-I
+chambre chambre-type-B
+simple chambre-type-I
+à comparatif-paiement-B
+moins comparatif-paiement-I
+de comparatif-paiement-I
+cent paiement-montant-entier-B
+euros paiement-monnaie-B
+
+hum reponse-B
+d'accord reponse-I
+
+alors null
+réserver command-tache-B
+un objetBD-B
+hôtel objetBD-I
+sur localisation-ville-B
+Marseille localisation-ville-I
+
+euh null
+le rang-temps-B
+troisième rang-temps-I
+jour temps-unite-B
+de temps-mois-B
+mai temps-mois-I
+
+merci null
+
+alors null
+il null
+me null
+faudrait null
+une nombre-chambre-B
+chambre chambre-type-B
+simple chambre-type-I
+à comparatif-paiement-B
+moins comparatif-paiement-I
+de comparatif-paiement-I
+cent paiement-montant-entier-B
+euros paiement-monnaie-B
+plus connectProp-B
+une hotel-services-B
+piscine hotel-services-I
+s' null
+il null
+vous null
+plaît null
+
+hum reponse-B
+d'accord reponse-I
+c' null
+est null
+un hotel-marque-B
+Formule hotel-marque-I
+Un hotel-marque-I
+
+c' null
+est null
+près localisation-distanceRelative-B
+des localisation-distanceRelative-I
+restaurants localisation-lieuRelatif-B
+
+d'accord reponse-B
+ben command-tache-B
+je command-tache-I
+vais command-tache-I
+réserver command-tache-I
+cet lienRef-coRef-B
+hôtel objetBD-B
+hein null
+
+merci null
+
+euh null
+ben null
+je command-tache-B
+vais command-tache-I
+prendre command-tache-I
+le lienRef-elsEns-B
+deuxième rang-hotel-B
+hôtel objetBD-B
+
+euh null
+c' null
+est null
+à null
+quatre paiement-montant-entier-B
+vingt paiement-montant-entier-I
+dix paiement-montant-entier-I
+euros paiement-monnaie-B
+la null
+chambre null
+
+d'accord reponse-B
+
+ah null
+et null
+le lienRef-elsEns-B
+premier rang-hotel-B
+hôtel objetBD-B
+
+d'accord reponse-B
+
+bon null
+ben null
+je command-tache-B
+vais command-tache-I
+réserver command-tache-I
+le lienRef-elsEns-B
+premier rang-hotel-B
+hôtel objetBD-B
+hein null
+
+oui reponse-B
+
+merci null
+
+c' null
+est null
+pour null
+les rang-temps-B
+troisièmes rang-temps-I
+jours temps-unite-B
+de temps-mois-B
+mai temps-mois-I
+
+d'accord reponse-B
+donc connectProp-B
+je command-tache-B
+veux command-tache-I
+bien command-tache-I
+réserver command-tache-I
+cette lienRef-coRef-B
+chambre objet-B
+
+merci null
+
+d'accord reponse-B
+
+d'accord reponse-B
+
+entendu reponse-B
+
+non reponse-B
+madame null
+
+au null
+revoir null
+
+bonjour null
+euh command-tache-B
+je command-tache-I
+serais command-tache-I
+intéressée command-tache-I
+par command-tache-I
+une command-tache-I
+réservation command-tache-I
+d' nombre-chambre-B
+une nombre-chambre-I
+chambre chambre-type-B
+simple chambre-type-I
+entre localisation-ville-B
+Lyon localisation-ville-I
+et localisation-ville-B
+Saintes localisation-ville-I
+pour rang-temps-B
+le rang-temps-I
+troisième rang-temps-I
+week-end temps-unite-B
+de temps-mois-B
+mars temps-mois-I
+s' null
+il null
+vous null
+plaît null
+
+hum reponse-B
+d'accord reponse-I
+donc null
+il null
+me null
+faudrait null
+un objetBD-B
+hôtel objetBD-I
+donc null
+louer command-tache-B
+une nombre-chambre-B
+chambre chambre-type-B
+simple chambre-type-I
+mais connectProp-B
+pour null
+cent paiement-montant-entier-B
+euros paiement-monnaie-B
+maximum comparatif-paiement-B
+et connectProp-B
+un objetBD-B
+hôtel objetBD-I
+ayant null
+une hotel-services-B
+piscine hotel-services-I
+
+si null
+possible null
+
+bon null
+alors null
+dans null
+ce null
+cas null
+euh null
+je command-tache-B
+vais command-tache-I
+réserver command-tache-I
+pour rang-temps-B
+le rang-temps-I
+troisième rang-temps-I
+week-end temps-unite-B
+de temps-mois-B
+mars temps-mois-I
+une nombre-chambre-B
+chambre chambre-type-B
+simple chambre-type-I
+à nom-hotel-B
+l' nom-hotel-I
+hôtel nom-hotel-I
+Aston nom-hotel-I
+de localisation-ville-B
+Lyon localisation-ville-I
+pour null
+cent paiement-montant-entier-B
+quarante paiement-montant-entier-I
+euros paiement-monnaie-B
+puisqu' connectProp-B
+il null
+y null
+a null
+une hotel-services-B
+piscine hotel-services-I
+
+euh null
+merci null
+
+ah null
+alors null
+si null
+c' null
+est null
+complet hotel-etat-complet-B
+et connectProp-B
+le null
+il null
+n' null
+y null
+a null
+pas lienRef-coDom-B
+d' lienRef-coDom-I
+autres lienRef-coDom-I
+euh null
+hôtels objetBD-B
+entre localisation-ville-B
+Lyon localisation-ville-I
+et localisation-ville-B
+Saintes localisation-ville-I
+il null
+n' null
+y null
+a null
+rien null
+d' null
+autre null
+euh null
+il null
+n' null
+y null
+a null
+que null
+ces nombre-B
+trois nombre-I
+possibilités objet-B
+Lyon localisation-ville-B
+Valence localisation-ville-B
+et localisation-ville-B
+Saintes localisation-ville-I
+
+d'accord reponse-B
+bon null
+ben null
+dans null
+ce null
+cas null
+je null
+vais null
+patienter null
+peut-être null
+qu' null
+il null
+y null
+aura null
+un null
+désistement null
+je null
+rappellerai null
+un null
+peu null
+plus null
+tard null
+
+d'accord reponse-B
+
+au null
+revoir null
+
+oui null
+bonjour null
+je null
+voudrais null
+pour null
+Lyon localisation-ville-B
+s' null
+il null
+vous null
+plaît null
+les nombre-temps-B
+trois nombre-temps-I
+premiers temps-axeTps-B
+jours temps-unite-B
+d' temps-mois-B
+octobre temps-mois-I
+une nombre-chambre-B
+chambre chambre-type-B
+simple chambre-type-I
+pas paiement-montantQualitatif-B
+trop paiement-montantQualitatif-I
+chère paiement-montantQualitatif-I
+de null
+préférence null
+un hotel-marque-B
+hôtel hotel-marque-I
+type hotel-marque-I
+Novotel hotel-marque-I
+avec hotel-services-B
+terrain hotel-services-I
+de hotel-services-I
+tennis hotel-services-I
+et connectProp-B
+près localisation-distanceRelative-B
+d' localisation-distanceRelative-I
+un localisation-lieuRelatif-B
+restaurant localisation-lieuRelatif-I
+
+bien null
+
+oui reponse-B
+
+et null
+bien null
+je null
+voudrais null
+euh null
+souhaiterais null
+je reponse-B
+ne reponse-I
+sais reponse-I
+pas reponse-I
+Beaugency nom-B
+est-ce null
+qu' null
+il null
+y null
+a null
+un hotel-services-B
+terrain hotel-services-I
+de hotel-services-I
+tennis hotel-services-I
+est-ce null
+que null
+c' null
+est null
+près localisation-distanceRelative-B
+d' localisation-distanceRelative-I
+un localisation-lieuRelatif-B
+restaurant localisation-lieuRelatif-I
+
+alors null
+dans null
+ce null
+cas null
+ça reponse-B
+me reponse-I
+convient reponse-I
+euh null
+je null
+j' command-tache-B
+aimerais command-tache-I
+que command-tache-I
+vous command-tache-I
+me command-tache-I
+réserviez command-tache-I
+une nombre-chambre-B
+chambre nombre-chambre-I
+
+merci null
+
+oui reponse-B
+
+oui reponse-B
+est-ce null
+que null
+je null
+peux null
+connaître null
+le lienRef-coRef-B
+tarif objet-B
+
+cinquante paiement-montant-entier-B
+euros paiement-monnaie-B
+d'accord reponse-B
+donc connectProp-B
+avec hotel-services-B
+terrain hotel-services-I
+tennis hotel-services-I
+de hotel-services-I
+tennis hotel-services-I
+et connectProp-B
+donc null
+euh null
+centre localisation-lieuRelatif-B
+ville localisation-lieuRelatif-I
+donc connectProp-B
+près localisation-distanceRelative-B
+d' localisation-distanceRelative-I
+un localisation-lieuRelatif-B
+restaurant localisation-lieuRelatif-I
+eh null
+bien null
+je null
+vous null
+
+remercie null
+je null
+compte null
+sur null
+vous null
+pour null
+la command-tache-B
+réservation command-tache-I
+
+hum null
+bien null
+sûr null
+
+cent nombre-B
+cinquante nombre-I
+et nombre-I
+un nombre-I
+cent nombre-I
+
+vingt nombre-B
+quatre nombre-I
+d'accord reponse-B
+
+c' null
+est null
+bien null
+cela null
+
+d'accord reponse-B
+
+non reponse-B
+je null
+vous null
+remercie null
+et null
+bonne null
+soirée null
+
+au null
+revoir null
+
+alors command-tache-B
+j' command-tache-I
+aimerais command-tache-I
+réserver command-tache-I
+dix nombre-chambre-B
+huit nombre-chambre-I
+chambres chambre-type-B
+d' chambre-type-I
+hôtel chambre-type-I
+individuelles chambre-type-I
+euh null
+à localisation-ville-B
+Sceaux localisation-ville-I
+du null
+dans null
+la null
+nuit null
+du temps-date-B
+treize temps-date-I
+au temps-date-B
+quatorze temps-date-I
+juin temps-date-I
+ben null
+de temps-unite-B
+cette temps-unite-I
+année temps-unite-I
+pour evenement-B
+le evenement-I
+festival evenement-I
+de evenement-I
+l' evenement-I
+orangerie evenement-I
+euh null
+donc null
+ça null
+serait null
+un objet-B
+prix objet-I
+maximum comparatif-paiement-B
+de comparatif-paiement-I
+cent paiement-montant-entier-B
+vingt paiement-montant-entier-I
+euros paiement-monnaie-B
+la null
+nuit null
+euh null
+j' null
+aimerais null
+un hotel-marque-B
+hôtel hotel-marque-I
+Sofitel hotel-marque-I
+alors null
+dans localisation-lieuRelatif-B
+un localisation-lieuRelatif-I
+endroit localisation-lieuRelatif-I
+euh localisation-lieuRelatif-I
+assez localisation-lieuRelatif-I
+animé localisation-lieuRelatif-I
+le temps-plageTps-B
+soir temps-plageTps-I
+hein null
+voilà null
+
+oui reponse-B
+
+non reponse-B
+j' command-tache-B
+aimerais command-tache-I
+réserver command-tache-I
+dans hotel-marque-B
+l' hotel-marque-I
+hôtel hotel-marque-I
+un hotel-marque-I
+hôtel hotel-marque-I
+Sofitel hotel-marque-I
+
+dix nombre-chambre-B
+huit nombre-chambre-I
+chambres chambre-type-B
+individuelles chambre-type-I
+
+bon null
+alors null
+à null
+la null
+limite null
+je command-tache-B
+vais command-tache-I
+prendre command-tache-I
+dix nombre-chambre-B
+chambres nombre-chambre-I
+euh null
+à null
+quel null
+prix objet-B
+euh null
+s' null
+il null
+vous null
+plaît null
+
+bon null
+donc null
+je command-tache-B
+vais command-tache-I
+prendre command-tache-I
+dix nombre-chambre-B
+chambres nombre-chambre-I
+euh null
+euh null
+à hotel-marque-B
+l' hotel-marque-I
+hôtel hotel-marque-I
+Sofitel hotel-marque-I
+et connectProp-B
+puis connectProp-I
+huit nombre-chambre-B
+chambres nombre-chambre-I
+euh null
+dans null
+un nombre-hotel-B
+des lienRef-coRef-B
+deux nombre-hotel-B
+autres lienRef-coDom-B
+hôtels objetBD-B
+est-ce null
+qu' null
+ils null
+se null
+trouvent null
+euh null
+oh null
+ça null
+doit null
+être null
+assez null
+près localisation-distanceRelative-B
+parce connectProp-B
+que connectProp-I
+la localisation-ville-B
+ville localisation-ville-I
+de localisation-ville-I
+Sceaux localisation-ville-I
+c' null
+est null
+c' null
+est null
+petit null
+
+oui reponse-B
+à comparatif-B
+peu comparatif-I
+près comparatif-I
+
+oui reponse-B
+et connectProp-B
+l' lienRef-coDom-B
+autre lienRef-coDom-I
+
+bon null
+ça null
+m' null
+arrange null
+pas null
+beaucoup null
+et null
+est-ce null
+que null
+vous null
+auriez null
+dix nombre-chambre-B
+huit nombre-chambre-I
+chambres nombre-chambre-I
+d' nombre-chambre-I
+hôtel nombre-chambre-I
+d' nombre-chambre-I
+hôtel nombre-chambre-I
+euh null
+euh null
+ou connectProp-B
+huit nombre-chambre-B
+chambres nombre-chambre-I
+donc nombre-chambre-I
+euh nombre-chambre-I
+dix nombre-chambre-I
+chambres nombre-chambre-I
+à hotel-marque-B
+l' hotel-marque-I
+hôtel hotel-marque-I
+Sofitel hotel-marque-I
+mais null
+tandis null
+et connectProp-B
+dix nombre-chambre-B
+huit nombre-chambre-I
+chambres nombre-chambre-I
+dont null
+dans null
+un nombre-hotel-B
+de lienRef-coRef-B
+ces lienRef-coRef-I
+deux nombre-hotel-B
+hôtels nombre-hotel-I
+
+bon null
+ben null
+écoutez null
+
+oui reponse-B
+
+donc null
+je command-tache-B
+réserve command-tache-I
+dix nombre-chambre-B
+chambres nombre-chambre-I
+au hotel-marque-B
+à hotel-marque-I
+l' hotel-marque-I
+hôtel hotel-marque-I
+Sofitel hotel-marque-I
+et connectProp-B
+puis connectProp-I
+euh null
+huit nombre-chambre-B
+chambres nombre-chambre-I
+à nom-hotel-B
+l' nom-hotel-I
+hôtel nom-hotel-I
+Papaye nom-hotel-I
+
+oui reponse-B
+
+cent nombre-B
+quarante nombre-I
+six nombre-I
+deux nombre-I
+cent nombre-I
+vingt nombre-I
+et nombre-I
+un nombre-I
+oui reponse-B
+
+euh null
+non reponse-B
+je null
+pense null
+que null
+euh null
+que null
+ça null
+sera null
+tout null
+
+au null
+revoir null
+
+je command-tache-B
+souhaiterais command-tache-I
+réserver command-tache-I
+euh null
+une nombre-chambre-B
+chambre nombre-chambre-I
+d' nombre-chambre-I
+hôtel nombre-chambre-I
+à localisation-ville-B
+Marseille localisation-ville-I
+pour evenement-B
+la evenement-I
+fête evenement-I
+de evenement-I
+la evenement-I
+bouillabaisse evenement-I
+le temps-axeTps-B
+premier temps-axeTps-I
+week-end temps-unite-B
+d' temps-mois-B
+avril temps-mois-I
+
+auriez-vous null
+une objet-B
+place objet-I
+hôtel hotel-marque-B
+Mercure hotel-marque-I
+
+oui reponse-B
+
+d'accord reponse-B
+euh null
+une nombre-chambre-B
+chambre nombre-chambre-I
+pour sejour-nbCouple-B
+un sejour-nbCouple-I
+couple sejour-nbCouple-I
+une nombre-chambre-B
+chambre nombre-chambre-I
+pour sejour-nbCouple-B
+un sejour-nbCouple-I
+couple sejour-nbCouple-I
+
+bon null
+ben null
+c' null
+est null
+euh null
+la lienRef-elsEns-B
+deuxième rang-B
+option objet-B
+
+oui reponse-B
+à null
+quatre paiement-montant-entier-B
+vingts paiement-montant-entier-I
+euros paiement-monnaie-B
+est-ce null
+qu' null
+il null
+y null
+a null
+une hotel-services-B
+salle hotel-services-I
+de hotel-services-I
+sports hotel-services-I
+
+bon null
+euh null
+ben null
+euh null
+donc null
+euh null
+j' command-tache-B
+opte command-tache-I
+pour command-tache-I
+euh command-tache-I
+le nom-B
+Prado nom-I
+à null
+quatre paiement-montant-entier-B
+vingts paiement-montant-entier-I
+euros paiement-monnaie-B
+
+et command-tache-B
+qu' command-tache-I
+avez-vous command-tache-I
+à command-tache-I
+me command-tache-I
+proposer command-tache-I
+d' command-tache-I
+autre command-tache-I
+
+oui reponse-B
+
+ah null
+euh null
+vous null
+n' null
+avez null
+pas null
+cet lienRef-coRef-B
+équivalent objet-B
+en null
+quatre paiement-montant-entier-B
+vingts paiement-montant-entier-I
+euros paiement-monnaie-B
+bon null
+
+oui reponse-B
+oui reponse-I
+
+oui reponse-B
+
+d'accord reponse-B
+
+oui reponse-B
+
+allô null
+
+voilà reponse-B
+c' reponse-I
+est reponse-I
+entendu reponse-I
+
+non reponse-B
+merci null
+c' null
+est null
+tout null
+
+au null
+revoir null
+
+je null
+cherche null
+un objetBD-B
+hôtel objetBD-I
+situé null
+entre localisation-ville-B
+Mâcon localisation-ville-I
+et localisation-ville-B
+Marseille localisation-ville-I
+
+Mâcon localisation-ville-B
+et localisation-ville-B
+Marseille localisation-ville-I
+oui reponse-B
+
+les nombre-temps-B
+quatre nombre-temps-I
+premiers temps-axeTps-B
+jours temps-unite-B
+de temps-mois-B
+mars temps-mois-I
+
+Montélimar localisation-ville-B
+
+hum null
+pour nombre-temps-B
+les nombre-temps-I
+quatre nombre-temps-I
+premiers temps-axeTps-B
+jours temps-unite-B
+de temps-mois-B
+mars temps-mois-I
+
+une nombre-chambre-B
+chambre chambre-type-B
+simple chambre-type-I
+
+oh null
+c' null
+est null
+parfait null
+
+oui reponse-B
+c' null
+est null
+très null
+bien null
+oui reponse-B
+oui reponse-I
+
+bon null
+
+il null
+n' null
+y null
+a null
+pas null
+du null
+tout null
+d' lienRef-coDom-B
+autres lienRef-coDom-I
+villes localisation-lieuRelatif-B
+entre null
+les lienRef-coRef-B
+deux nombre-hotel-B
+y null
+a null
+pas null
+d' lienRef-coDom-B
+autres lienRef-coDom-I
+possibilités objet-B
+
+alors null
+euh null
+ce null
+sera null
+ce null
+sera null
+Marseille localisation-ville-B
+
+alors null
+ce null
+sera null
+plutôt null
+Mâcon localisation-ville-B
+alors null
+
+Mâcon localisation-ville-B
+
+oui reponse-B
+
+oui reponse-B
+
+oui reponse-B
+
+pour nombre-temps-B
+les nombre-temps-I
+quatre nombre-temps-I
+premiers temps-axeTps-B
+jours temps-unite-B
+de temps-mois-B
+mars temps-mois-I
+
+entendu reponse-B
+
+d'accord reponse-B
+
+non reponse-B
+non reponse-I
+
+non reponse-B
+c' null
+est null
+très null
+bien null
+je null
+vous null
+remercie null
+
+au null
+revoir null
+
+merci null
+au null
+revoir null
+
+je command-tache-B
+souhaiterais command-tache-I
+réserver command-tache-I
+du temps-date-B
+dix temps-date-I
+sept temps-date-I
+mai temps-date-I
+au temps-date-B
+premier temps-date-I
+juin temps-date-I
+à localisation-ville-B
+Thonon-Les-Bains localisation-ville-I
+pour evenement-B
+les evenement-I
+nuits evenement-I
+romantiques evenement-I
+du evenement-I
+Léman evenement-I
+deux nombre-chambre-B
+chambres chambre-type-B
+couples chambre-type-I
+dans null
+euh null
+dont null
+une null
+avec sejour-nbEnfant-B
+enfant sejour-nbEnfant-I
+pas paiement-montantQualitatif-B
+chère paiement-montantQualitatif-I
+près localisation-distanceRelative-B
+de localisation-distanceRelative-I
+d' localisation-distanceRelative-I
+un localisation-lieuRelatif-B
+cinéma localisation-lieuRelatif-I
+et connectProp-B
+près localisation-distanceRelative-B
+d' localisation-distanceRelative-I
+une localisation-lieuRelatif-B
+plage localisation-lieuRelatif-I
+
+l' nom-hotel-B
+hôtel nom-hotel-I
+du nom-hotel-I
+lac nom-hotel-I
+
+cinquante paiement-montant-entier-B
+euros paiement-monnaie-B
+la null
+nuit null
+euh null
+est-ce null
+qu' null
+il null
+serait null
+possible null
+de null
+l' null
+avoir null
+à null
+quarante paiement-montant-entier-B
+cinq paiement-montant-entier-I
+euros paiement-monnaie-B
+
+bon null
+alors null
+pour null
+cinquante paiement-montant-entier-B
+euros paiement-monnaie-B
+
+oui reponse-B
+
+deux nombre-B
+
+oui reponse-B
+à null
+ce null
+moment-là null
+dans null
+l' lienRef-coDom-B
+autre lienRef-coDom-I
+hôtel objetBD-B
+
+ok reponse-B
+ça reponse-I
+marche reponse-I
+
+non reponse-B
+
+merci null
+au null
+revoir null
+
+euh null
+je null
+voudrais null
+être null
+à localisation-ville-B
+Sceaux localisation-ville-I
+pour evenement-B
+le evenement-I
+festival evenement-I
+de evenement-I
+l' evenement-I
+orangerie evenement-I
+du temps-date-B
+treize temps-date-I
+au temps-date-B
+quatorze temps-date-I
+juillet temps-date-I
+et connectProp-B
+donc null
+je null
+voudrais null
+donc null
+euh null
+un objetBD-B
+hôtel objetBD-I
+euh null
+de null
+plus null
+précisément null
+un hotel-marque-B
+Sofitel hotel-marque-I
+près localisation-distanceRelative-B
+d' localisation-distanceRelative-I
+un localisation-lieuRelatif-B
+endroit localisation-lieuRelatif-I
+animé localisation-lieuRelatif-I
+et connectProp-B
+donc null
+je null
+désire null
+avoir null
+dix nombre-chambre-B
+huit nombre-chambre-I
+chambres chambre-type-B
+euh chambre-type-I
+individuelles chambre-type-I
+au objet-B
+prix objet-I
+de objet-I
+cent paiement-montant-entier-B
+vingt paiement-montant-entier-I
+euros paiement-monnaie-B
+la null
+nuit null
+
+oui reponse-B
+
+merci null
+
+euh null
+est-ce null
+que null
+parmi null
+ces lienRef-coRef-B
+trois nombre-hotel-B
+hôtels nombre-hotel-I
+quel null
+est null
+l' lienRef-coRef-B
+hôtel objetBD-B
+qui null
+se null
+trouve null
+près localisation-distanceRelative-B
+d' localisation-distanceRelative-I
+un localisation-lieuRelatif-B
+endroit localisation-lieuRelatif-I
+animé localisation-lieuRelatif-I
+
+et null
+le hotel-marque-B
+Sofitel hotel-marque-I
+pas null
+du null
+tout null
+
+euh null
+vous command-dial-B
+pourrez command-dial-I
+me command-dial-I
+redonner command-dial-I
+vous null
+dites null
+Papaye nom-hotel-B
+et nom-hotel-B
+Sarasin nom-hotel-I
+ils null
+sont null
+à null
+combien objet-B
+ce null
+sont null
+des chambre-type-B
+chambres chambre-type-I
+individuelles chambre-type-I
+
+bon command-tache-B
+je command-tache-I
+vais command-tache-I
+prendre command-tache-I
+donc null
+la objet-B
+chambre objet-I
+euh objet-I
+la objet-I
+chambre objet-I
+euh null
+Sarasin nom-hotel-B
+du temps-date-B
+treize temps-date-I
+au temps-date-B
+quatorze temps-date-I
+euh temps-date-I
+juillet temps-date-I
+donc connectProp-B
+ça null
+me null
+fait null
+dix nombre-B
+ouais null
+excusez-moi null
+s command-tache-B
+je command-tache-I
+vais command-tache-I
+prendre command-tache-I
+donc command-tache-I
+la command-tache-I
+une command-tache-I
+réservation command-tache-I
+du temps-date-B
+treize temps-date-I
+au temps-date-B
+quatorze temps-date-I
+juillet temps-date-I
+dix nombre-chambre-B
+huit nombre-chambre-I
+chambres chambre-type-B
+individuelles chambre-type-I
+est-ce objet-B
+que objet-I
+vous objet-I
+est objet-I
+est-ce objet-I
+que objet-I
+c' objet-I
+est objet-I
+disponible objet-I
+
+oui reponse-B
+dix nombre-chambre-B
+huit nombre-chambre-I
+chambres nombre-chambre-I
+madame null
+
+non reponse-B
+c' null
+est null
+bon null
+madame null
+merci null
+
+au null
+revoir null
+
+au null
+revoir null
+
+oui reponse-B
+
+huit nombre-B
+cent nombre-I
+vingt nombre-I
+six nombre-I
+
+ah null
+ah null
+attends null
+excusez-moi null
+alors null
+mon objet-B
+code objet-I
+d' objet-I
+appel objet-I
+est null
+le nombre-B
+euh nombre-I
+deux nombre-I
+cent nombre-I
+vingt nombre-I
+six nombre-I
+
+deux nombre-B
+cents nombre-I
+
+alors null
+s' null
+il null
+vous null
+plaît null
+je command-tache-B
+voudrais command-tache-I
+une command-tache-I
+réservation command-tache-I
+d' sejour-nbNuit-B
+une sejour-nbNuit-I
+nuit sejour-nbNuit-I
+à localisation-ville-B
+Albi localisation-ville-I
+au temps-mois-B
+mois temps-mois-I
+d' temps-mois-I
+octobre temps-mois-I
+prochain temps-axeTps-B
+
+alors null
+
+oui reponse-B
+
+alors null
+une sejour-nbNuit-B
+nuit sejour-nbNuit-I
+une nombre-chambre-B
+chambre chambre-type-B
+simple chambre-type-I
+à comparatif-paiement-B
+moins comparatif-paiement-I
+de comparatif-paiement-I
+cent paiement-montant-entier-B
+euros paiement-monnaie-B
+
+alors null
+excusez-moi null
+il null
+y null
+a null
+un hotel-services-B
+handicapé hotel-services-I
+avec hotel-services-I
+il hotel-services-I
+y hotel-services-I
+a hotel-services-I
+un hotel-services-I
+handicap hotel-services-I
+euh hotel-services-I
+un hotel-services-I
+handicapé hotel-services-I
+avec null
+moi null
+alors connectProp-B
+donc connectProp-I
+euh null
+je null
+voudrais null
+la rang-B
+troisième rang-I
+euh null
+euh null
+le lienRef-elsEns-B
+troisième rang-hotel-B
+hôtel objetBD-B
+que null
+vous null
+venez null
+de null
+me null
+citer null
+
+alors null
+le lienRef-elsEns-B
+deuxième rang-B
+excusez-moi null
+
+oui reponse-B
+
+vous null
+pouvez null
+me null
+donner null
+son lienRef-coRef-B
+prix objet-B
+s' null
+il null
+vous null
+plaît null
+
+eh null
+ben null
+c' null
+est null
+parfait null
+
+très null
+bien null
+
+et null
+ben null
+non reponse-B
+c' null
+est null
+c' null
+est null
+c' null
+est null
+c' null
+est null
+tout null
+ce null
+qui null
+me null
+fallait null
+alors null
+donc null
+c' null
+est null
+Albi localisation-ville-B
+au temps-mois-B
+mois temps-mois-I
+d' temps-mois-I
+octobre temps-mois-I
+une nombre-chambre-B
+chambre nombre-chambre-I
+à comparatif-paiement-B
+moins comparatif-paiement-I
+de comparatif-paiement-I
+cent paiement-montant-entier-B
+euros paiement-monnaie-B
+c' null
+est null
+et connectProp-B
+il null
+y null
+a null
+avec null
+moi null
+un hotel-services-B
+handicapé hotel-services-I
+
+ah null
+ben null
+c' null
+est null
+parfait null
+
+merci null
+beaucoup null
+
+non reponse-B
+ça null
+
+me null
+convient null
+
+merci null
+
+pour null
+une null
+euh null
+pour null
+des command-tache-B
+réservations command-tache-I
+je null
+voudrais null
+du temps-date-B
+premier temps-date-I
+au temps-date-B
+deux temps-date-I
+avril temps-date-I
+une sejour-nbNuit-B
+nuit sejour-nbNuit-I
+à localisation-ville-B
+Albi localisation-ville-I
+du temps-date-B
+deux temps-date-I
+au temps-date-B
+quatre temps-date-I
+avril temps-date-I
+donc connectProp-B
+deux sejour-nbNuit-B
+nuits sejour-nbNuit-I
+à localisation-ville-B
+Nevers localisation-ville-I
+en chambre-type-B
+chambres chambre-type-I
+individuelles chambre-type-I
+euh null
+dans objetBD-B
+un objetBD-I
+hôtel objetBD-I
+ayant hotel-services-B
+des hotel-services-I
+accès hotel-services-I
+pour hotel-services-I
+les hotel-services-I
+handicapés hotel-services-I
+à comparatif-paiement-B
+moins comparatif-paiement-I
+de comparatif-paiement-I
+cent paiement-montant-entier-B
+euros paiement-monnaie-B
+s' null
+il null
+vous null
+plaît null
+
+m null
+
+il null
+y null
+a null
+un hotel-services-B
+accès hotel-services-I
+pour hotel-services-I
+les hotel-services-I
+handicapés hotel-services-I
+
+euh null
+même null
+pour null
+les lienRef-coRef-B
+chambres objet-B
+et null
+tout null
+pour null
+aller null
+dans null
+les objet-B
+chambres objet-I
+pour null
+se null
+véhiculer null
+dans null
+tout null
+l' lienRef-coRef-B
+hôtel objetBD-B
+
+oui reponse-B
+c' null
+est null
+répété null
+ok reponse-B
+je command-tache-B
+réserve command-tache-I
+
+pour localisation-ville-B
+Albi localisation-ville-I
+
+l' nom-hotel-B
+hôtel nom-hotel-I
+du nom-hotel-I
+mérite nom-hotel-I
+
+oui reponse-B
+
+oui reponse-B
+
+non reponse-B
+
+euh null
+il null
+n' null
+y null
+a null
+pas null
+moins comparatif-paiement-B
+cher comparatif-paiement-I
+pour localisation-ville-B
+Nevers localisation-ville-I
+
+ok reponse-B
+bon command-tache-B
+ben command-tache-I
+je command-tache-I
+réserve command-tache-I
+que null
+pour localisation-ville-B
+Albi localisation-ville-I
+
+oui reponse-B
+
+non reponse-B
+merci null
+
+au null
+revoir null
+
+voilà null
+je command-tache-B
+voudrais command-tache-I
+réserver command-tache-I
+plusieurs nombreNonDigit-B
+chambres objet-B
+d' objet-I
+hôtel objet-I
+du temps-date-B
+vingt temps-date-I
+et temps-date-I
+un temps-date-I
+quatre temps-date-I
+c' connectProp-B
+est-à-dire connectProp-I
+du temps-date-B
+vingt temps-date-I
+et temps-date-I
+un temps-date-I
+avril temps-date-I
+au temps-date-B
+vingt temps-date-I
+trois temps-date-I
+avril temps-date-I
+deux sejour-nbNuit-B
+nuits sejour-nbNuit-I
+à localisation-ville-B
+Béziers localisation-ville-I
+du temps-date-B
+vingt temps-date-I
+trois temps-date-I
+avril temps-date-I
+au temps-date-B
+vingt temps-date-I
+six temps-date-I
+avril temps-date-I
+trois sejour-nbNuit-B
+nuits sejour-nbNuit-I
+à localisation-ville-B
+Tulle localisation-ville-I
+et connectProp-B
+du temps-date-B
+vingt temps-date-I
+six temps-date-I
+avril temps-date-I
+au temps-date-B
+vingt temps-date-I
+huit temps-date-I
+avril temps-date-I
+deux sejour-nbNuit-B
+nuits sejour-nbNuit-I
+à localisation-ville-B
+Angers localisation-ville-I
+ça null
+serait null
+pour null
+un sejour-nbCouple-B
+couple sejour-nbCouple-I
+avec sejour-nbEnfant-B
+un sejour-nbEnfant-I
+enfant sejour-nbEnfant-I
+je null
+voudrais null
+mettre null
+quatre paiement-montant-entier-B
+vingts paiement-montant-entier-I
+euros paiement-monnaie-B
+maximum comparatif-paiement-B
+et connectProp-B
+j' null
+ai null
+un hotel-services-B
+petit hotel-services-I
+chat hotel-services-I
+voilà null
+pouvez-vous command-tache-B
+me command-tache-I
+renseigner command-tache-I
+
+oui reponse-B
+
+oui reponse-B
+
+oui reponse-B
+
+oui reponse-B
+
+hôtel objetBD-B
+des null
+z null
+
+c' null
+est null
+très null
+bien null
+
+tu null
+prends null
+tu null
+prends null
+note null
+c' null
+est null
+qui null
+
+oui reponse-B
+
+d'accord reponse-B
+
+c' null
+est null
+très null
+bien null
+
+ah null
+c' null
+est null
+très null
+bien null
+par null
+contre null
+est-ce null
+que null
+l' lienRef-coRef-B
+hôtel objetBD-B
+de localisation-ville-B
+Béziers localisation-ville-I
+accepte null
+le hotel-services-B
+petit hotel-services-I
+chat hotel-services-I
+
+d'accord reponse-B
+
+d'accord reponse-B
+
+ok reponse-B
+
+je command-dial-B
+confirme command-dial-I
+
+euh null
+vous null
+n' null
+auriez null
+pas null
+moins comparatif-paiement-B
+de comparatif-paiement-I
+quatre paiement-montant-entier-B
+vingt paiement-montant-entier-I
+cinq paiement-montant-entier-I
+euros paiement-monnaie-B
+
+bon null
+ben null
+écoutez null
+je null
+vais null
+je null
+vais null
+le lienRef-coRef-B
+prendre null
+
+deux nombre-B
+
+cents nombre-B
+
+non reponse-B
+
+merci null
+au null
+revoir null
+
+oui null
+bonjour null
+j' command-tache-B
+aurais command-tache-I
+voulu command-tache-I
+réserver command-tache-I
+quatre sejour-nbNuit-B
+nuits sejour-nbNuit-I
+à localisation-ville-B
+Cannes localisation-ville-I
+du temps-jour-mois-B
+quatorze temps-jour-mois-I
+au null
+
+dix temps-date-B
+huit temps-date-I
+mars temps-date-I
+
+j' command-tache-B
+aurais command-tache-I
+voulu command-tache-I
+euh command-tache-I
+réserver command-tache-I
+quatre sejour-nbNuit-B
+nuits sejour-nbNuit-I
+à localisation-ville-B
+Cannes localisation-ville-I
+du temps-date-B
+quatorze temps-date-I
+au temps-date-B
+dix temps-date-I
+huit temps-date-I
+mars temps-date-I
+et connectProp-B
+deux sejour-nbNuit-B
+nuits sejour-nbNuit-I
+à localisation-ville-B
+Vichy localisation-ville-I
+le temps-date-B
+dix temps-date-I
+huit temps-date-I
+et temps-date-B
+dix temps-date-I
+neuf temps-date-I
+mars temps-date-I
+pour nombre-chambre-B
+deux nombre-chambre-I
+chambres chambre-type-B
+individuelles chambre-type-I
+à comparatif-paiement-B
+moins comparatif-paiement-I
+de comparatif-paiement-I
+cinquante paiement-montant-entier-B
+euros paiement-monnaie-B
+la null
+nuit null
+euh null
+nous null
+viendrons null
+avec null
+un hotel-services-B
+chien hotel-services-I
+et connectProp-B
+nous null
+aimerions null
+une chambre-equipement-B
+baignoire chambre-equipement-I
+dans null
+la lienRef-coRef-B
+chambre objet-B
+
+euh null
+je command-tache-B
+voudrais command-tache-I
+obtenir command-tache-I
+plus command-tache-I
+de command-tache-I
+détails command-tache-I
+s' null
+il null
+vous null
+plaît null
+je null
+voudrais null
+savoir null
+s' null
+ils lienRef-coRef-B
+acceptent null
+les hotel-services-B
+chiens hotel-services-I
+et connectProp-B
+s' null
+il null
+y null
+a null
+une chambre-equipement-B
+baignoire chambre-equipement-I
+dans null
+la lienRef-coRef-B
+chambre objet-B
+
+donc null
+oui reponse-B
+je command-tache-B
+veux command-tache-I
+bien command-tache-I
+faire command-tache-I
+une command-tache-I
+réservation command-tache-I
+dans null
+cet lienRef-coRef-B
+hôtel objetBD-B
+mais connectProp-B
+avec chambre-equipement-B
+une chambre-equipement-I
+baignoire chambre-equipement-I
+dans null
+la lienRef-coRef-B
+chambre objet-B
+
+bon null
+ben null
+d'accord reponse-B
+j' command-tache-B
+accepte command-tache-I
+euh command-tache-I
+la command-tache-I
+réservation command-tache-I
+dans null
+cet lienRef-coRef-B
+hôtel objetBD-B
+
+ah null
+euh null
+non reponse-B
+je null
+vous null
+avais null
+demandé null
+à comparatif-paiement-B
+moins comparatif-paiement-I
+de comparatif-paiement-I
+cinquante paiement-montant-entier-B
+euros paiement-monnaie-B
+la null
+nuit null
+
+oui reponse-B
+
+oui reponse-B
+c' reponse-I
+est reponse-I
+bon reponse-I
+d'accord reponse-I
+excusez-moi null
+
+non reponse-B
+je null
+vous null
+remercie null
+
+bonne null
+journée null
+
+réserver command-tache-B
+un objetBD-B
+hôtel objetBD-I
+à localisation-ville-B
+Paris localisation-ville-I
+dix localisation-arrondissement-B
+huitième localisation-arrondissement-I
+
+les nombre-temps-B
+quatre nombre-temps-I
+premiers temps-axeTps-B
+jours temps-unite-B
+de temps-mois-B
+janvier temps-mois-I
+si null
+possible null
+
+oui reponse-B
+
+je null
+voudrais null
+une nombre-chambre-B
+chambre nombre-chambre-I
+pour sejour-nbEnfant-B
+avec sejour-nbEnfant-I
+un sejour-nbEnfant-I
+enfant sejour-nbEnfant-I
+s' null
+il null
+vous null
+plaît null
+
+oui reponse-B
+l' nom-hotel-B
+hôtel nom-hotel-I
+du nom-hotel-I
+temps nom-hotel-I
+perdu nom-hotel-I
+s' null
+il null
+vous null
+plaît null
+
+oui reponse-B
+
+réserver command-tache-B
+dans objetBD-B
+un objetBD-I
+hôtel objetBD-I
+s' null
+il null
+vous null
+plaît null
+
+oui reponse-B
+
+oui reponse-B
+
+j' null
+aimerais null
+savoir null
+s' null
+il null
+y null
+a null
+une hotel-services-B
+piscine hotel-services-I
+et hotel-services-B
+un hotel-services-I
+restaurant hotel-services-I
+dans null
+l' lienRef-coRef-B
+hôtel objetBD-B
+
+s' null
+il null
+ait null
+s' null
+il null
+y null
+a null
+d' lienRef-coDom-B
+autres lienRef-coDom-I
+hôtels objetBD-B
+avec hotel-services-B
+une hotel-services-I
+piscine hotel-services-I
+
+non reponse-B
+
+au null
+revoir null
+
+j' null
+aimerais null
+faire null
+plusieurs nombreNonDigit-B
+réservations command-tache-B
+du temps-date-B
+dix temps-date-I
+neuf temps-date-I
+au temps-date-B
+vingt temps-date-I
+deux temps-date-I
+octobre temps-date-I
+à localisation-ville-B
+Rochefort localisation-ville-I
+du temps-date-B
+vingt temps-date-I
+deux temps-date-I
+au temps-date-B
+vingt temps-date-I
+sept temps-date-I
+octobre temps-date-I
+à localisation-ville-B
+Perpignan localisation-ville-I
+et connectProp-B
+du temps-date-B
+vingt temps-date-I
+sept temps-date-I
+au temps-date-B
+vingt temps-date-I
+huit temps-date-I
+octobre temps-date-I
+à localisation-ville-B
+Toulouse localisation-ville-I
+dans hotel-etoile-B
+des hotel-etoile-I
+hôtels hotel-etoile-I
+deux hotel-etoile-I
+étoiles hotel-etoile-I
+
+une nombre-chambre-B
+chambre chambre-type-B
+double chambre-type-I
+dans null
+chacun null
+des lienRef-coRef-B
+hôtels objetBD-B
+
+oui reponse-B
+
+ça null
+me null
+parait null
+bien null
+
+parfait null
+
+oui reponse-B
+parfait null
+
+oui reponse-B
+
+je null
+n' null
+en lienRef-coRef-B
+ai null
+pas null
+besoin null
+
+au null
+revoir null
+
+j' null
+aimerais null
+savoir null
+s' null
+il null
+est null
+possible null
+de null
+réserver command-tache-B
+trente nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+avec chambre-equipement-B
+la chambre-equipement-I
+douche chambre-equipement-I
+dans null
+la lienRef-coRef-B
+chambre objet-B
+aux comparatif-paiement-B
+environs comparatif-paiement-I
+de comparatif-paiement-I
+soixante paiement-montant-entier-B
+quinze paiement-montant-entier-I
+euros paiement-monnaie-B
+du temps-date-B
+vingt temps-date-I
+cinq temps-date-I
+au temps-date-B
+vingt temps-date-I
+sept temps-date-I
+novembre temps-date-I
+près localisation-distanceRelative-B
+de localisation-distanceRelative-I
+la localisation-lieuRelatif-B
+gare localisation-lieuRelatif-I
+Saint-Lazare localisation-lieuRelatif-I
+à localisation-ville-B
+Paris localisation-ville-I
+
+non reponse-B
+
+je command-tache-B
+désire command-tache-I
+réserver command-tache-I
+trente nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+avec chambre-equipement-B
+douches chambre-equipement-I
+dans null
+les lienRef-coRef-B
+chambres objet-B
+aux comparatif-paiement-B
+environs comparatif-paiement-I
+de comparatif-paiement-I
+soixante paiement-montant-entier-B
+quinze paiement-montant-entier-I
+euros paiement-monnaie-B
+la null
+chambre null
+du temps-date-B
+vingt temps-date-I
+cinq temps-date-I
+au temps-date-B
+vingt temps-date-I
+sept temps-date-I
+novembre temps-date-I
+près localisation-distanceRelative-B
+de localisation-distanceRelative-I
+la localisation-lieuRelatif-B
+gare localisation-lieuRelatif-I
+Saint-Lazare localisation-lieuRelatif-I
+à localisation-ville-B
+Paris localisation-ville-I
+
+oui reponse-B
+le lienRef-elsEns-B
+premier rang-B
+
+une nombre-B
+trentaine nombre-I
+
+non reponse-B
+trente nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+
+oui reponse-B
+
+je null
+la lienRef-coRef-B
+confirme command-dial-B
+
+non reponse-B
+c' null
+est null
+bon null
+merci null
+
+au null
+revoir null
+
+je command-tache-B
+souhaiterais command-tache-I
+réserver command-tache-I
+un objetBD-B
+hôtel objetBD-I
+je command-tache-B
+souhaiterais command-tache-I
+réserver command-tache-I
+un objetBD-B
+hôtel objetBD-I
+du temps-date-B
+vingt temps-date-I
+cinq temps-date-I
+au temps-date-B
+vingt temps-date-I
+sept temps-date-I
+novembre temps-date-I
+deux sejour-nbNuit-B
+nuits sejour-nbNuit-I
+à localisation-ville-B
+Douai localisation-ville-I
+et connectProp-B
+du temps-date-B
+vingt temps-date-I
+sept temps-date-I
+novembre temps-date-I
+au temps-date-B
+premier temps-date-I
+décembre temps-date-I
+quatre sejour-nbNuit-B
+nuits sejour-nbNuit-I
+à localisation-B
+Nogent-Sur-Oise localisation-I
+je null
+voudrais null
+une nombre-chambre-B
+chambre chambre-type-B
+individuelle chambre-type-I
+à comparatif-paiement-B
+moins comparatif-paiement-I
+de comparatif-paiement-I
+soixante paiement-montant-entier-B
+quinze paiement-montant-entier-I
+euros paiement-monnaie-B
+je null
+voudrais null
+une hotel-services-B
+piscine hotel-services-I
+plus hotel-services-B
+un hotel-services-I
+jacuzzi hotel-services-I
+et connectProp-B
+la chambre-equipement-B
+douche chambre-equipement-I
+dans null
+la lienRef-coRef-B
+chambre objet-B
+et connectProp-B
+j' hotel-services-B
+ai hotel-services-I
+deux hotel-services-I
+chats hotel-services-I
+donc connectProp-B
+il null
+faudrait null
+que null
+les hotel-services-B
+chats hotel-services-I
+sont null
+autorisés null
+
+y null
+a-t-il null
+une hotel-services-B
+piscine hotel-services-I
+un hotel-services-B
+jacuzzi hotel-services-I
+est-ce null
+que null
+les hotel-services-B
+chats hotel-services-I
+sont null
+autorisés null
+et connectProp-B
+est-ce null
+que null
+la chambre-equipement-B
+douche chambre-equipement-I
+est null
+dans null
+la lienRef-coRef-B
+chambre objet-B
+
+y null
+a-t-il null
+une hotel-services-B
+piscine hotel-services-I
+
+je null
+s null
+
+oui reponse-B
+
+y null
+a-t-il null
+hun null
+une hotel-services-B
+piscine hotel-services-I
+un hotel-services-B
+jacuzzi hotel-services-I
+est-ce null
+que null
+les hotel-services-B
+chats hotel-services-I
+sont null
+acceptés null
+et connectProp-B
+est-ce null
+que null
+il null
+y null
+a null
+une chambre-equipement-B
+douche chambre-equipement-I
+dans null
+la lienRef-coRef-B
+chambre objet-B
+
+y null
+a-t-il null
+une hotel-services-B
+piscine hotel-services-I
+
+oui reponse-B
+
+non reponse-B
+
+oui null
+bonjour null
+je command-tache-B
+souhaiterais command-tache-I
+réserver command-tache-I
+pour rang-temps-B
+la rang-temps-I
+quatrième rang-temps-I
+semaine temps-unite-B
+de temps-mois-B
+mai temps-mois-I
+entre localisation-ville-B
+Amiens localisation-ville-I
+et localisation-ville-B
+Valenciennes localisation-ville-I
+trois nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+avec objet-B
+un objet-I
+prix objet-I
+maximum comparatif-paiement-B
+de comparatif-paiement-I
+quatre paiement-montant-entier-B
+vingts paiement-montant-entier-I
+euros paiement-monnaie-B
+s' null
+il null
+vous null
+plaît null
+
+oui reponse-B
+
+non reponse-B
+
+non reponse-B
+non reponse-I
+non reponse-I
+je null
+Amiens localisation-ville-B
+et localisation-ville-B
+Valenciennes localisation-ville-I
+
+oui reponse-B
+
+c' null
+est null
+ça null
+
+oui reponse-B
+
+oui reponse-B
+
+oui reponse-B
+
+Ibis hotel-marque-B
+
+oui reponse-B
+
+oui reponse-B
+
+oui reponse-B
+je command-tache-B
+vais command-tache-I
+prendre command-tache-I
+euh null
+le hotel-marque-B
+Novotel hotel-marque-I
+le hotel-marque-I
+Novotel hotel-marque-I
+Novotel hotel-marque-I
+Valenciennes nom-hotel-B
+il null
+me null
+faudrait null
+trois nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+
+oui reponse-B
+oui reponse-I
+oui reponse-I
+trois nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+
+s' null
+il null
+vous null
+plaît null
+
+ah null
+
+donc null
+ben null
+
+réservez-moi command-tache-B
+l' lienRef-coDom-B
+autre lienRef-coDom-I
+ch null
+
+oui reponse-B
+non reponse-I
+non reponse-I
+n reponse-I
+
+non reponse-B
+non reponse-I
+je null
+préfère null
+garder null
+la lienRef-coRef-B
+même lienRef-coRef-I
+date objet-B
+mais connectProp-B
+réserver command-tache-B
+à localisation-ville-B
+Reims localisation-ville-I
+
+oui reponse-B
+
+oui reponse-B
+
+il null
+me null
+faudrait null
+
+trois nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+s' null
+il null
+vous null
+plaît null
+
+trois nombre-chambre-B
+chambres nombre-chambre-I
+
+oui reponse-B
+c' null
+est null
+ça null
+
+bien null
+mais null
+j' null
+aurais null
+je null
+
+oui reponse-B
+je null
+le lienRef-coRef-B
+confirme command-dial-B
+
+oui reponse-B
+
+deux nombre-B
+cent nombre-I
+
+vingt nombre-B
+six nombre-I
+
+non reponse-B
+c' null
+est null
+très null
+bien null
+merci null
+
+au null
+revoir null
+
+bonjour null
+je command-tache-B
+désirerais command-tache-I
+euh command-tache-I
+une command-tache-I
+réservation command-tache-I
+pour localisation-ville-B
+Orléans localisation-ville-I
+une nombre-temps-B
+semaine temps-unite-B
+au temps-mois-B
+mois temps-mois-I
+d' temps-mois-I
+août temps-mois-I
+euh null
+pendant temps-axeTps-B
+le evenement-B
+festival evenement-I
+du evenement-I
+film evenement-I
+alors null
+ce null
+serait null
+trois nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+à comparatif-paiement-B
+moins comparatif-paiement-I
+de comparatif-paiement-I
+cinquante paiement-montant-entier-B
+euros paiement-monnaie-B
+au localisation-lieuRelatif-B
+calme localisation-lieuRelatif-I
+si null
+possible null
+
+oui reponse-B
+
+euh null
+j' command-tache-B
+aimerais command-tache-I
+avoir command-tache-I
+une command-tache-I
+petite command-tache-I
+euh command-tache-I
+information command-tache-I
+en command-tache-I
+plus command-tache-I
+lequel null
+de lienRef-coRef-B
+ces lienRef-coRef-I
+deux nombre-hotel-B
+hôtels nombre-hotel-I
+est null
+euh null
+pour null
+vous null
+le localisation-lieuRelatif-B
+plus localisation-lieuRelatif-I
+calme localisation-lieuRelatif-I
+euh null
+euh null
+en localisation-lieuRelatif-B
+périphérie localisation-lieuRelatif-I
+ou localisation-lieuRelatif-I
+ou localisation-lieuRelatif-I
+au localisation-lieuRelatif-I
+centre localisation-lieuRelatif-I
+ville localisation-lieuRelatif-I
+par null
+exemple null
+
+rappelez-moi command-dial-B
+le lienRef-coRef-B
+prix objet-B
+s' null
+il null
+vous null
+plaît null
+
+et null
+l' lienRef-coDom-B
+autre lienRef-coDom-I
+hôtel objetBD-B
+euh null
+est-il null
+au localisation-lieuRelatif-B
+calme localisation-lieuRelatif-I
+ou null
+également null
+
+donc null
+euh null
+nous command-tache-B
+prendrons command-tache-I
+euh null
+l' lienRef-coRef-B
+hôtel objetBD-B
+à null
+cinquante paiement-montant-entier-B
+cinq paiement-montant-entier-I
+euros paiement-monnaie-B
+au localisation-lieuRelatif-B
+calme localisation-lieuRelatif-I
+
+je command-dial-B
+confirme command-dial-I
+cette command-tache-B
+réservation command-tache-I
+pour nombre-temps-B
+une nombre-temps-I
+semaine temps-unite-B
+trois nombre-chambre-B
+chambres nombre-chambre-I
+tout reponse-B
+à reponse-I
+fait reponse-I
+
+je null
+vous null
+remercie null
+je null
+j' null
+ai null
+tout null
+ce null
+qu' null
+il null
+me null
+faut null
+
+au null
+revoir null
+
+bonjour null
+je command-tache-B
+désirerais command-tache-I
+réserver command-tache-I
+c' connectProp-B
+est-à-dire connectProp-I
+deux nombre-hotel-B
+réservations nombre-hotel-I
+du temps-date-B
+dix temps-date-I
+neuf temps-date-I
+au temps-date-B
+vingt temps-date-I
+deux temps-date-I
+octobre temps-date-I
+à localisation-ville-B
+Rochefort localisation-ville-I
+et connectProp-B
+du temps-date-B
+vingt temps-date-I
+deux temps-date-I
+au temps-date-B
+vingt temps-date-I
+sept temps-date-I
+octobre temps-date-I
+à localisation-ville-B
+Toulouse localisation-ville-I
+une nombre-chambre-B
+chambre chambre-type-B
+double chambre-type-I
+à null
+quatre paiement-montant-entier-B
+vingt paiement-montant-entier-I
+dix paiement-montant-entier-I
+euros paiement-monnaie-B
+maximum comparatif-paiement-B
+avec hotel-etoile-B
+un hotel-etoile-I
+hôtel hotel-etoile-I
+euh hotel-etoile-I
+deux hotel-etoile-I
+étoiles hotel-etoile-I
+où null
+les hotel-services-B
+animaux hotel-services-I
+sont null
+acceptés null
+
+pouvez-vous null
+me null
+dire null
+si null
+cet lienRef-coRef-B
+hôtel objetBD-B
+est null
+un hotel-etoile-B
+hôtel hotel-etoile-I
+deux hotel-etoile-I
+étoiles hotel-etoile-I
+et connectProp-B
+qu null
+s' null
+il null
+accepte null
+les hotel-services-B
+animaux hotel-services-I
+
+alors command-tache-B
+nous command-tache-I
+faisons command-tache-I
+cette command-tache-I
+réservation command-tache-I
+du temps-date-B
+dix temps-date-I
+neuf temps-date-I
+au temps-date-B
+vingt temps-date-I
+deux temps-date-I
+octobre temps-date-I
+c' null
+est null
+d'accord reponse-B
+
+nous command-dial-B
+confirmons command-dial-I
+cette command-tache-B
+réservation command-tache-I
+
+oui reponse-B
+pouvez-vous null
+me null
+dire null
+s' null
+il lienRef-coRef-B
+est null
+également null
+deux hotel-etoile-B
+étoiles hotel-etoile-I
+et connectProp-B
+si null
+les hotel-services-B
+animaux hotel-services-I
+sont null
+acceptés null
+
+dans null
+ce null
+cas-là null
+nous command-tache-B
+prenons command-tache-I
+la command-tache-I
+réservation command-tache-I
+euh null
+du temps-jour-mois-B
+vingt temps-jour-mois-I
+deux temps-jour-mois-I
+au temps-jour-mois-B
+vingt temps-jour-mois-I
+sept temps-jour-mois-I
+
+je null
+vous null
+remercie null
+ce null
+sera null
+tout null
+
+la null
+je command-tache-B
+voudrais command-tache-I
+réserver command-tache-I
+euh null
+à localisation-ville-B
+Sceaux localisation-ville-I
+près localisation-distanceRelative-B
+de localisation-distanceRelative-I
+festival evenement-B
+de evenement-I
+l' evenement-I
+orangerie evenement-I
+l' evenement-I
+orangerie evenement-I
+du null
+
+treize nombre-B
+
+je command-tache-B
+voudrais command-tache-I
+faire command-tache-I
+une command-tache-I
+réservation command-tache-I
+à localisation-ville-B
+Sceaux localisation-ville-I
+près localisation-distanceRelative-B
+de localisation-distanceRelative-I
+festival evenement-B
+de evenement-I
+l' evenement-I
+orangerie evenement-I
+du temps-date-B
+treize temps-date-I
+au temps-date-B
+quatorze temps-date-I
+juillet temps-date-I
+pour nombre-chambre-B
+dix nombre-chambre-I
+huit nombre-chambre-I
+chambres chambre-type-B
+simples chambre-type-I
+à null
+cent paiement-montant-entier-B
+vingt paiement-montant-entier-I
+euros paiement-monnaie-B
+la null
+chambre null
+environ comparatif-paiement-B
+de null
+préférence null
+dans hotel-marque-B
+un hotel-marque-I
+hôtel hotel-marque-I
+Sofitel hotel-marque-I
+près localisation-distanceRelative-B
+d' localisation-distanceRelative-I
+un localisation-lieuRelatif-B
+endroit localisation-lieuRelatif-I
+animé localisation-lieuRelatif-I
+s' null
+il null
+vous null
+plaît null
+
+oui reponse-B
+Papaye nom-B
+
+dix nombre-chambre-B
+huit nombre-chambre-I
+chambres chambre-type-B
+simples chambre-type-I
+
+merci null
+
+euh null
+et null
+Sarasin nom-hotel-B
+vous null
+pourrez null
+me null
+regarder null
+ne null
+me null
+regarder null
+euh null
+je null
+préfère null
+avoir null
+euh null
+avoir null
+les lienRef-coRef-B
+dix nombre-chambre-B
+huit nombre-chambre-I
+chambres nombre-chambre-I
+dans objetBD-B
+le objetBD-I
+même objetBD-I
+hôtel objetBD-I
+s' null
+il null
+vous null
+plaît null
+
+est-ce null
+que null
+ça null
+répond null
+aux lienRef-coRef-B
+mêmes lienRef-coRef-I
+critères objet-B
+euh null
+que null
+ceux lienRef-elsEns-B
+à null
+cent paiement-montant-entier-B
+vingt paiement-montant-entier-I
+euros paiement-monnaie-B
+s' null
+il null
+vous null
+plaît null
+
+oui reponse-B
+alors command-tache-B
+je command-tache-I
+je command-tache-I
+faire command-tache-I
+une command-tache-I
+réservation command-tache-I
+alors command-tache-I
+
+cent nombre-B
+quarante nombre-I
+
+merci null
+
+au null
+revoir null
+
+oui null
+bonjour null
+je command-tache-B
+souhaiterais command-tache-I
+réserver command-tache-I
+pour nombre-temps-B
+les nombre-temps-I
+trois nombre-temps-I
+derniers temps-axeTps-B
+jours temps-unite-B
+de temps-mois-B
+janvier temps-mois-I
+à localisation-ville-B
+La localisation-ville-I
+Ciotat localisation-ville-I
+pour evenement-B
+la evenement-I
+conférence evenement-I
+une nombre-chambre-B
+chambre nombre-chambre-I
+pour sejour-nbCouple-B
+couple sejour-nbCouple-I
+avec sejour-nbEnfant-B
+enfant sejour-nbEnfant-I
+environ comparatif-paiement-B
+dans comparatif-paiement-I
+les comparatif-paiement-I
+cinquante paiement-montant-entier-B
+euros paiement-monnaie-B
+et connectProp-B
+il null
+faut null
+que null
+ce null
+soit null
+proche localisation-distanceRelative-B
+d' localisation-distanceRelative-I
+un localisation-lieuRelatif-B
+casino localisation-lieuRelatif-I
+et connectProp-B
+il null
+faut null
+que null
+le lienRef-coRef-B
+l' lienRef-coRef-I
+hôtel objetBD-B
+ait hotel-services-B
+un hotel-services-I
+restaurant hotel-services-I
+ait hotel-services-I
+un hotel-services-I
+restaurant hotel-services-I
+et hotel-services-B
+un hotel-services-I
+sauna hotel-services-I
+
+oui reponse-B
+
+oh null
+c'est null
+cher paiement-montantQualitatif-B
+
+oui reponse-B
+
+est-ce null
+que null
+
+oui reponse-B
+dites-moi null
+est-ce null
+que null
+c' null
+est null
+près localisation-distanceRelative-B
+de localisation-distanceRelative-I
+de localisation-distanceRelative-I
+la evenement-B
+conférence evenement-I
+et connectProp-B
+est-ce null
+qu' null
+il null
+y null
+a null
+un localisation-lieuRelatif-B
+casino localisation-lieuRelatif-I
+à localisation-distanceRelative-B
+proximité localisation-distanceRelative-I
+
+oui reponse-B
+et connectProp-B
+est-ce null
+que null
+il null
+y null
+a null
+un hotel-services-B
+sauna hotel-services-I
+et hotel-services-B
+un hotel-services-I
+restaurant hotel-services-I
+dans null
+l' lienRef-coRef-B
+hôtel objetBD-B
+
+oui reponse-B
+c' null
+est null
+très null
+bien null
+bon command-tache-B
+ben command-tache-I
+je command-tache-I
+vais command-tache-I
+réserver command-tache-I
+ce objetBD-B
+cet objetBD-I
+hôtel objetBD-I
+l' nom-hotel-B
+hôtel nom-hotel-I
+du nom-hotel-I
+cap nom-hotel-I
+alors null
+
+oui reponse-B
+
+oui reponse-B
+oui reponse-I
+je command-dial-B
+confirme command-dial-I
+
+cent nombre-B
+soixante nombre-I
+dix nombre-I
+neuf nombre-I
+
+euh null
+non reponse-B
+non reponse-I
+c' null
+est null
+bien null
+c'est null
+bien null
+c' null
+est null
+bien null
+la evenement-B
+conférence evenement-I
+qu' null
+il null
+y null
+a null
+à null
+cette lienRef-coRef-B
+époque-là objet-B
+hein null
+à localisation-ville-B
+La localisation-ville-I
+Ciotat localisation-ville-I
+
+très null
+bien null
+ben null
+c' null
+est null
+parfait null
+
+merci null
+
+à null
+bientôt null
+au null
+revoir null
+
+j' command-tache-B
+aurais command-tache-I
+voulu command-tache-I
+faire command-tache-I
+une command-tache-I
+réservation command-tache-I
+d' objetBD-B
+hôtel objetBD-I
+à localisation-ville-B
+Paris localisation-ville-I
+du temps-date-B
+treize temps-date-I
+juillet temps-date-I
+au temps-date-B
+quatorze temps-date-I
+juillet temps-date-I
+près localisation-distanceRelative-B
+du localisation-distanceRelative-I
+festival evenement-B
+de evenement-I
+l' evenement-I
+orangerie evenement-I
+
+d'accord reponse-B
+il null
+me null
+faudrait null
+cinq nombre-chambre-B
+chambres chambre-type-B
+doubles chambre-type-I
+à comparatif-paiement-B
+peu comparatif-paiement-I
+près comparatif-paiement-I
+soixante paiement-montant-entier-B
+quinze paiement-montant-entier-I
+euros paiement-monnaie-B
+la null
+chambre null
+
+d'accord reponse-B
+euh null
+le lienRef-elsEns-B
+premier rang-B
+s' null
+il null
+vous null
+plaît null
+
+cinq nombre-B
+
+chambres chambre-type-B
+doubles chambre-type-I
+
+hum null
+alors null
+le lienRef-elsEns-B
+deuxième rang-hotel-B
+hôtel objetBD-B
+c' null
+était null
+combien objet-B
+la lienRef-coRef-B
+chambre objet-B
+
+est-ce null
+qu' null
+il lienRef-coRef-B
+est null
+situé null
+près localisation-distanceRelative-B
+des localisation-distanceRelative-I
+restaurants localisation-lieuRelatif-B
+et localisation-lieuRelatif-B
+des localisation-lieuRelatif-I
+cafés localisation-lieuRelatif-I
+
+d'accord reponse-B
+ben command-tache-B
+on command-tache-I
+va command-tache-I
+réserver command-tache-I
+pour null
+cet lienRef-coRef-B
+hôtel objetBD-B
+
+oui reponse-B
+
+d'accord reponse-B
+
+d'accord reponse-B
+
+non reponse-B
+
+au null
+revoir null
+
+je command-tache-B
+voudrais command-tache-I
+réserver command-tache-I
+des objetBD-B
+hôtels objetBD-I
+euh null
+pour temps-mois-B
+le temps-mois-I
+mois temps-mois-I
+d' temps-mois-I
+octobre temps-mois-I
+
+sur localisation-ville-B
+Rochefort localisation-ville-I
+
+Périgueux localisation-ville-B
+et localisation-ville-B
+Toulouse localisation-ville-I
+
+alors null
+euh null
+à localisation-ville-B
+Rochefort localisation-ville-I
+d'abord null
+
+alors null
+du temps-jour-mois-B
+dix temps-jour-mois-I
+neuf temps-jour-mois-I
+au temps-jour-mois-B
+vingt temps-jour-mois-I
+deux temps-jour-mois-I
+pour sejour-nbNuit-B
+trois sejour-nbNuit-I
+nuits sejour-nbNuit-I
+
+alors null
+il null
+me null
+faudrait null
+une nombre-chambre-B
+chambre nombre-chambre-I
+pour sejour-nbCouple-B
+un sejour-nbCouple-I
+couple sejour-nbCouple-I
+avec sejour-nbEnfant-B
+un sejour-nbEnfant-I
+enfant sejour-nbEnfant-I
+si null
+possible null
+deux hotel-etoile-B
+étoiles hotel-etoile-I
+et connectProp-B
+un objetBD-B
+hôtel objetBD-I
+qui null
+accepte null
+les hotel-services-B
+animaux hotel-services-I
+s' null
+il null
+vous null
+plaît null
+
+euh null
+à null
+combien objet-B
+est null
+la null
+nuit null
+s' null
+il null
+vous null
+plaît null
+
+hum null
+c' null
+est null
+un objetBD-B
+hôtel objetBD-I
+combien null
+il null
+y null
+a null
+combien objet-B
+d' objet-I
+étoiles objet-I
+
+euh null
+c' null
+est null
+un objetBD-B
+hôtel objetBD-I
+qui null
+accepte null
+qui null
+accepte null
+les hotel-services-B
+animaux hotel-services-I
+
+d'accord reponse-B
+alors command-tache-B
+je command-tache-I
+vais command-tache-I
+réserver command-tache-I
+
+merci null
+
+oui reponse-B
+
+oui reponse-B
+à localisation-ville-B
+Périgueux localisation-ville-I
+du temps-jour-mois-B
+vingt temps-jour-mois-I
+deux temps-jour-mois-I
+au temps-jour-mois-B
+vingt temps-jour-mois-I
+sept temps-jour-mois-I
+
+octobre temps-mois-B
+
+alors null
+à null
+combien objet-B
+c' null
+est null
+la null
+nuit null
+
+d'accord reponse-B
+il lienRef-coRef-B
+a null
+il null
+avait null
+combien objet-B
+d' objet-I
+étoiles objet-I
+
+ok reponse-B
+très null
+bien null
+
+euh null
+oui reponse-B
+je command-tache-B
+vais command-tache-I
+réserver command-tache-I
+s' null
+il null
+vous null
+plaît null
+
+oui reponse-B
+
+du temps-jour-mois-B
+vingt temps-jour-mois-I
+sept temps-jour-mois-I
+au temps-jour-mois-B
+vingt temps-jour-mois-I
+huit temps-jour-mois-I
+
+du temps-date-B
+vingt temps-date-I
+sept temps-date-I
+au temps-date-B
+vingt temps-date-I
+huit temps-date-I
+octobre temps-date-I
+
+une sejour-nbNuit-B
+nuit sejour-nbNuit-I
+
+alors null
+une nombre-chambre-B
+chambre nombre-chambre-I
+toujours null
+pour sejour-nbCouple-B
+un sejour-nbCouple-I
+couple sejour-nbCouple-I
+avec sejour-nbEnfant-B
+un sejour-nbEnfant-I
+enfant sejour-nbEnfant-I
+
+euh null
+hum null
+je null
+voudrais null
+il null
+y null
+a null
+combien objet-B
+d' objet-I
+étoiles objet-I
+
+trois hotel-etoile-B
+étoiles hotel-etoile-I
+à null
+quatre paiement-montant-entier-B
+vingt paiement-montant-entier-I
+dix paiement-montant-entier-I
+euros paiement-monnaie-B
+la null
+nuit null
+c' command-dial-B
+est command-dial-I
+ça command-dial-I
+
+d'accord reponse-B
+oui reponse-I
+je command-tache-B
+vais command-tache-I
+réserver command-tache-I
+s' null
+il null
+vous null
+plaît null
+
+donc null
+c' null
+est null
+bon null
+
+s' null
+il null
+vous null
+plaît null
+
+oui reponse-B
+je null
+voudrais null
+euh null
+savoir null
+quel null
+est null
+le objet-B
+mon objet-I
+coût objet-I
+le objet-I
+coût objet-I
+total objet-I
+de objet-I
+la objet-I
+réservation objet-I
+que null
+j' null
+ai null
+fait null
+sur localisation-ville-B
+Rochefort localisation-ville-I
+s' null
+il null
+vous null
+plaît null
+
+oui reponse-B
+
+d'accord reponse-B
+
+non reponse-B
+c' null
+est null
+bon null
+merci null
+
+au null
+revoir null
+
+oui reponse-B
+je command-tache-B
+voudrais command-tache-I
+réserver command-tache-I
+euh null
+euh null
+deux nombre-chambre-B
+chambres nombre-chambre-I
+à localisation-ville-B
+Thonon-Les-Bains localisation-ville-I
+du temps-date-B
+dix temps-date-I
+sept temps-date-I
+mai temps-date-I
+au temps-date-B
+premier temps-date-I
+juin temps-date-I
+voilà null
+donc null
+euh null
+la lienRef-elsEns-B
+chambre objet-B
+la comparatif-paiement-B
+plus comparatif-paiement-I
+chère comparatif-paiement-I
+possible comparatif-paiement-I
+et connectProp-B
+il null
+faut null
+que null
+ce null
+soit null
+près localisation-distanceRelative-B
+d' localisation-distanceRelative-I
+un localisation-lieuRelatif-B
+cinéma localisation-lieuRelatif-I
+et connectProp-B
+près localisation-distanceRelative-B
+d' localisation-distanceRelative-I
+une localisation-lieuRelatif-B
+plage localisation-lieuRelatif-I
+
+oui reponse-B
+
+oui reponse-B
+euh null
+bon null
+ben null
+euh null
+hôtel nom-hotel-B
+du nom-hotel-I
+lac nom-hotel-I
+
+alors null
+deux nombre-chambre-B
+chambres chambre-type-B
+doubles chambre-type-I
+les lienRef-elsEns-B
+plus comparatif-paiement-B
+chères comparatif-paiement-I
+hein null
+et chambre-standing-B
+les chambre-standing-I
+mieux chambre-standing-I
+
+oui reponse-B
+
+moi null
+je command-tache-B
+vais command-tache-I
+prendre command-tache-I
+l' nom-hotel-B
+hôtel nom-hotel-I
+du nom-hotel-I
+lac nom-hotel-I
+est-ce null
+qu' null
+il null
+y null
+a null
+est-ce null
+que null
+c' null
+est null
+près localisation-distanceRelative-B
+d' localisation-distanceRelative-I
+un localisation-lieuRelatif-B
+cinéma localisation-lieuRelatif-I
+
+d'accord reponse-B
+et connectProp-B
+il null
+y null
+a null
+une localisation-lieuRelatif-B
+plage localisation-lieuRelatif-I
+
+d'accord reponse-B
+et null
+bien null
+c' null
+est null
+parfait null
+donc null
+je command-tache-B
+prends command-tache-I
+cette command-tache-I
+réservation command-tache-I
+
+oui reponse-B
+
+donc null
+euh null
+ben null
+on null
+essaye null
+essayons null
+le nom-hotel-B
+la nom-hotel-I
+rotonde nom-hotel-I
+hôtel nom-hotel-I
+la nom-hotel-I
+rotonde nom-hotel-I
+
+voilà null
+
+euh null
+oui reponse-B
+oui reponse-I
+tout reponse-I
+à reponse-I
+fait reponse-I
+
+voilà null
+
+merci null
+
+oui reponse-B
+
+d'accord reponse-B
+merci null
+
+au null
+revoir null
+
+voilà null
+j' command-tache-B
+aurais command-tache-I
+besoin command-tache-I
+de command-tache-I
+réserver command-tache-I
+euh null
+douze nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+à localisation-ville-B
+Carpentras localisation-ville-I
+du temps-date-B
+quinze temps-date-I
+mars temps-date-I
+au temps-date-B
+dix temps-date-I
+sept temps-date-I
+mai temps-date-I
+des objet-B
+chambres objet-I
+à null
+environ comparatif-paiement-B
+cinquante paiement-montant-entier-B
+euros paiement-monnaie-B
+
+oui reponse-B
+
+Ambassador nom-B
+oui reponse-B
+euh null
+est-ce null
+que null
+c'est null
+possible null
+d' null
+avoir null
+douze nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+
+oui reponse-B
+
+oui reponse-B
+parfaitement reponse-I
+
+quel null
+est null
+le lienRef-coRef-B
+prix objet-B
+de null
+la lienRef-coRef-B
+chambre objet-B
+
+quel null
+est null
+le lienRef-coRef-B
+prix objet-B
+de null
+la lienRef-coRef-B
+chambre objet-B
+
+et null
+ben null
+c' null
+est null
+parfait null
+voilà null
+merci null
+et command-tache-B
+j' command-tache-I
+ai command-tache-I
+besoin command-tache-I
+euh command-tache-I
+d' command-tache-I
+autres command-tache-I
+réservations command-tache-I
+
+à localisation-ville-B
+Mende localisation-ville-I
+
+alors null
+
+pour temps-date-B
+le temps-date-I
+dix temps-date-I
+neuf temps-date-I
+mars temps-date-I
+également null
+douze nombre-chambre-B
+chambres nombre-chambre-I
+également null
+uniquement null
+pour temps-date-B
+le temps-date-I
+dix temps-date-I
+neuf temps-date-I
+mars temps-date-I
+
+hum null
+
+oui reponse-B
+
+oui reponse-B
+
+douze nombre-B
+
+oui reponse-B
+et null
+ben null
+je null
+
+à localisation-ville-B
+Moulins localisation-ville-I
+
+alors null
+
+euh null
+ben null
+du temps-jour-mois-B
+dix temps-jour-mois-I
+neuf temps-jour-mois-I
+au temps-jour-mois-B
+vingt temps-jour-mois-I
+donc connectProp-B
+pour sejour-nbNuit-B
+une sejour-nbNuit-I
+nuit sejour-nbNuit-I
+
+mars temps-mois-B
+
+euh null
+ben null
+en null
+fait null
+c'est null
+une sejour-nbNuit-B
+une sejour-nbNuit-I
+une sejour-nbNuit-I
+nuit sejour-nbNuit-I
+seulement null
+au temps-mois-B
+mois temps-mois-I
+de temps-mois-I
+pour temps-mois-I
+le temps-mois-I
+mois temps-mois-I
+c' temps-mois-I
+est temps-mois-I
+pour temps-mois-I
+le temps-mois-I
+mois temps-mois-I
+de temps-mois-I
+mars temps-mois-I
+hein null
+à localisation-ville-B
+Moulins localisation-ville-I
+et connectProp-B
+également null
+douze nombre-chambre-B
+chambres nombre-chambre-I
+aussi null
+
+oui reponse-B
+
+soixante nombre-B
+bon null
+oui reponse-B
+ça null
+va null
+ça null
+ça null
+ira null
+donc null
+voilà null
+c' null
+est null
+bon null
+
+oui reponse-B
+tout reponse-I
+à reponse-I
+fait reponse-I
+voilà reponse-I
+
+très null
+bien null
+
+d'accord reponse-B
+
+non reponse-B
+ça null
+va null
+je null
+vous null
+remercie null
+
+au null
+revoir null
+
+je command-tache-B
+voudrais command-tache-I
+réserver command-tache-I
+à localisation-ville-B
+Paris localisation-ville-I
+près localisation-distanceRelative-B
+de localisation-distanceRelative-I
+la evenement-B
+conférence evenement-I
+Amnesty evenement-I
+International evenement-I
+du temps-date-B
+quinze temps-date-I
+au temps-date-B
+dix temps-date-I
+sept temps-date-I
+mars temps-date-I
+
+des command-tache-B
+informations command-tache-I
+supplémentaires command-tache-I
+supplémentaires command-tache-I
+
+je null
+voudrais null
+six nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+à null
+quatre paiement-montant-entier-B
+vingt paiement-montant-entier-I
+dix paiement-montant-entier-I
+euros paiement-monnaie-B
+maximum comparatif-paiement-B
+avec hotel-services-B
+un hotel-services-I
+restaurant hotel-services-I
+végétarien hotel-services-I
+dans null
+l' lienRef-coRef-B
+hôtel objetBD-B
+
+six nombre-B
+
+oui reponse-B
+
+hôtel nom-hotel-B
+Chénier nom-hotel-I
+
+euh null
+j' command-tache-B
+aurais command-tache-I
+voulu command-tache-I
+d' command-tache-I
+autres command-tache-I
+informations command-tache-I
+
+avec hotel-services-B
+un hotel-services-I
+restaurant hotel-services-I
+végétarien hotel-services-I
+dans null
+l' lienRef-coRef-B
+hôtel objetBD-B
+
+oui reponse-B
+
+non reponse-B
+merci null
+
+au null
+revoir null
+
+souhaitons command-tache-B
+une command-tache-I
+réservation command-tache-I
+d' nombre-chambre-B
+une nombre-chambre-I
+chambre nombre-chambre-I
+à localisation-ville-B
+Nevers localisation-ville-I
+du localisation-ville-I
+ah localisation-ville-I
+pardon localisation-ville-I
+à localisation-ville-I
+Nevers localisation-ville-I
+du temps-date-B
+deux temps-date-I
+au temps-date-B
+quatre temps-date-I
+octobre temps-date-I
+en chambre-type-B
+chambre chambre-type-I
+simple chambre-type-I
+à null
+cent paiement-montant-entier-B
+euros paiement-monnaie-B
+voire connectAttr-B
+plus comparatif-paiement-B
+s' connectProp-B
+il null
+y null
+a null
+piscine hotel-services-B
+avec hotel-services-B
+un hotel-services-I
+accès hotel-services-I
+aux hotel-services-I
+handicapés hotel-services-I
+
+oui reponse-B
+
+ben null
+j' null
+aimerais null
+savoir null
+s' null
+il null
+y null
+a null
+un null
+accès null
+à null
+la hotel-services-B
+piscine hotel-services-I
+un hotel-services-B
+accès hotel-services-I
+aux hotel-services-I
+handicapés hotel-services-I
+
+d'accord reponse-B
+est-ce null
+qu' null
+il null
+y null
+a null
+une hotel-services-B
+piscine hotel-services-I
+
+oui reponse-B
+je command-tache-B
+voudrais command-tache-I
+réservation command-tache-I
+aussi command-tache-I
+du temps-date-B
+premier temps-date-I
+au temps-date-B
+deux temps-date-I
+octobre temps-date-I
+à localisation-ville-B
+Albi localisation-ville-I
+
+ok reponse-B
+et connectProp-B
+pareil null
+s' null
+il null
+y null
+a null
+une hotel-services-B
+piscine hotel-services-I
+et hotel-services-B
+avec hotel-services-I
+un hotel-services-I
+accès hotel-services-I
+handicapés hotel-services-I
+
+ok reponse-B
+bon null
+ben null
+c' null
+est null
+très null
+bien null
+et connectProp-B
+donc null
+une nombre-chambre-B
+chambre chambre-type-B
+simple chambre-type-I
+aux comparatif-paiement-B
+alentours comparatif-paiement-I
+des comparatif-paiement-I
+cent paiement-montant-entier-B
+euros paiement-monnaie-B
+
+oui reponse-B
+c' null
+est null
+un paiement-montantQualitatif-B
+petit paiement-montantQualitatif-I
+peu paiement-montantQualitatif-I
+cher paiement-montantQualitatif-I
+ça null
+est-ce null
+qu' null
+il null
+y null
+a null
+pas null
+en-dessous comparatif-paiement-B
+
+bon null
+ben null
+on null
+va null
+dire null
+ok reponse-B
+alors null
+hein null
+
+merci null
+
+ok reponse-B
+d'accord reponse-I
+
+non reponse-B
+c' null
+est null
+bon null
+ça null
+ira null
+merci null
+
+au null
+revoir null
+
+oui null
+bonjour null
+j' command-tache-B
+aimerais command-tache-I
+réserver command-tache-I
+à localisation-ville-B
+Albi localisation-ville-I
+une nombre-chambre-B
+chambre nombre-chambre-I
+en null
+du temps-date-B
+trois temps-date-I
+au temps-date-B
+cinq temps-date-I
+juillet temps-date-I
+une nombre-chambre-B
+chambre chambre-type-B
+simple chambre-type-I
+avec objet-B
+parking objet-I
+et connectProp-B
+j' null
+aimerais null
+qu' null
+elle null
+soit null
+à comparatif-paiement-B
+moins comparatif-paiement-I
+de comparatif-paiement-I
+cinquante paiement-montant-entier-B
+euros paiement-monnaie-B
+
+oui reponse-B
+oui reponse-I
+ça reponse-I
+m' reponse-I
+irait reponse-I
+oui reponse-I
+et connectProp-B
+est-ce null
+que null
+c' null
+est null
+à comparatif-paiement-B
+moins comparatif-paiement-I
+de comparatif-paiement-I
+cinquante paiement-montant-entier-B
+euros paiement-monnaie-B
+
+c' null
+est null
+parfait null
+est-ce null
+qu' null
+il null
+y null
+a null
+un objet-B
+parking objet-I
+
+ben null
+c' null
+est null
+parfait null
+
+merci null
+beaucoup null
+
+une nombre-B
+seule nombre-I
+
+mais null
+je null
+voulais null
+du temps-jour-mois-B
+trois temps-jour-mois-I
+au temps-jour-mois-B
+cinq temps-jour-mois-I
+moi null
+
+ah null
+c' null
+est null
+très null
+bien null
+c' null
+est null
+ce null
+que null
+je null
+veux null
+oui reponse-B
+c' null
+est null
+ce null
+
+que null
+je null
+souhaite null
+
+absolument reponse-B
+oui reponse-I
+
+oui reponse-B
+oui reponse-I
+
+deux nombre-B
+cent nombre-I
+trente nombre-I
+quatre nombre-I
+zéro nombre-I
+soixante nombre-I
+cinq nombre-I
+merci null
+beaucoup null
+
+au null
+revoir null
+
+euh null
+je null
+je null
+vais null
+je null
+voudrais null
+être null
+à localisation-ville-B
+Paris localisation-ville-I
+du temps-date-B
+premier temps-date-I
+au temps-date-B
+deux temps-date-I
+euh temps-date-I
+août temps-date-I
+dans localisation-quartier-B
+le localisation-quartier-I
+quartier localisation-quartier-I
+de localisation-quartier-I
+Montparnasse localisation-quartier-I
+et connectProp-B
+je null
+désirais null
+donc null
+une nombre-chambre-B
+chambre chambre-type-B
+individuelle chambre-type-I
+environ comparatif-paiement-B
+euh null
+euh null
+de null
+cinquante paiement-montant-entier-B
+euros paiement-monnaie-B
+près localisation-distanceRelative-B
+d' localisation-distanceRelative-I
+un localisation-lieuRelatif-B
+endroit localisation-lieuRelatif-I
+animé localisation-lieuRelatif-I
+le temps-plageTps-B
+soir temps-plageTps-I
+et connectProp-B
+de null
+préférence null
+avec null
+une null
+précision null
+avec null
+une nombre-chambre-B
+chambre chambre-fumeur-B
+fumeurs chambre-fumeur-I
+
+pas localisation-ville-B
+à localisation-ville-I
+Nancy localisation-ville-I
+madame null
+à localisation-ville-B
+Paris localisation-ville-I
+
+ah reponse-B
+oui reponse-I
+
+merci null
+
+c' null
+est null
+dans localisation-quartier-B
+le localisation-quartier-I
+quartier localisation-quartier-I
+de localisation-quartier-I
+Montparnasse localisation-quartier-I
+
+hum null
+d'accord reponse-B
+euh null
+vous null
+m' null
+avez null
+dit null
+environ comparatif-paiement-B
+cinquante paiement-montant-entier-B
+euros paiement-monnaie-B
+donc null
+une nombre-chambre-B
+chambre chambre-type-B
+individuelle chambre-type-I
+c' null
+est null
+animé null
+près localisation-distanceRelative-B
+d' localisation-distanceRelative-I
+un localisation-lieuRelatif-B
+endroit localisation-lieuRelatif-I
+animé localisation-lieuRelatif-I
+le temps-plageTps-B
+soir temps-plageTps-I
+avec chambre-fumeur-B
+chambres chambre-fumeur-I
+fumeurs chambre-fumeur-I
+
+vous command-dial-B
+pouvez command-dial-I
+me command-dial-I
+redire command-dial-I
+les lienRef-coRef-B
+hôtels objetBD-B
+madame null
+s' null
+il null
+vous null
+plaît null
+
+euh null
+je command-tache-B
+réserve command-tache-I
+donc null
+sur null
+la lienRef-coRef-B
+chambre objet-B
+Roissy nom-hotel-B
+madame null
+
+non reponse-B
+
+au null
+revoir null
+merci null
+au null
+revoir null
+
+oui reponse-B
+
+bonjour null
+je null
+voudrais null
+une sejour-nbNuit-B
+nuit sejour-nbNuit-I
+euh null
+du temps-date-B
+premier temps-date-I
+au temps-date-B
+deux temps-date-I
+mars temps-date-I
+à localisation-ville-B
+Paris localisation-ville-I
+dans localisation-arrondissement-B
+le localisation-arrondissement-I
+treizième localisation-arrondissement-I
+arrondissement localisation-arrondissement-I
+pour nombre-chambre-B
+vingt nombre-chambre-I
+huit nombre-chambre-I
+chambres chambre-type-B
+simples chambre-type-I
+à comparatif-paiement-B
+environ comparatif-paiement-I
+cinquante paiement-montant-entier-B
+francs paiement-monnaie-B
+cinquante paiement-montant-entier-B
+euros paiement-monnaie-B
+la null
+nuit null
+il null
+faut null
+prévoir null
+une hotel-services-B
+salle hotel-services-I
+de hotel-services-I
+réunion hotel-services-I
+dans null
+l' lienRef-coRef-B
+hôtel objetBD-B
+des localisation-lieuRelatif-B
+transports localisation-lieuRelatif-I
+en localisation-lieuRelatif-I
+commun localisation-lieuRelatif-I
+près localisation-distanceRelative-B
+de localisation-distanceRelative-I
+l' objetBD-B
+hôtel objetBD-I
+
+non reponse-B
+à localisation-ville-B
+Paris localisation-ville-I
+
+euh null
+ben null
+cinquante paiement-montant-entier-B
+cinq paiement-montant-entier-I
+euros paiement-monnaie-B
+oui reponse-B
+
+oui reponse-B
+
+alors null
+vingt nombre-chambre-B
+huit nombre-chambre-I
+chambres chambre-type-B
+simples chambre-type-I
+
+oui reponse-B
+mais connectProp-B
+je null
+voudrais null
+aussi null
+une hotel-services-B
+salle hotel-services-I
+de hotel-services-I
+réunion hotel-services-I
+dans null
+l' lienRef-coRef-B
+hôtel objetBD-B
+et connectProp-B
+des localisation-lieuRelatif-B
+transports localisation-lieuRelatif-I
+en localisation-lieuRelatif-I
+commun localisation-lieuRelatif-I
+près localisation-distanceRelative-B
+de localisation-distanceRelative-I
+l' objetBD-B
+hôtel objetBD-I
+
+d'accord reponse-B
+
+vingt nombre-chambre-B
+huit nombre-chambre-I
+chambres nombre-chambre-I
+pas nombre-chambre-B
+huit nombre-chambre-I
+vingt nombre-chambre-B
+huit nombre-chambre-I
+
+non reponse-B
+merci null
+beaucoup null
+
+au null
+revoir null
+
+oui null
+bonjour null
+
+alors null
+je command-tache-B
+je command-tache-I
+voudrais command-tache-I
+s' command-tache-I
+il command-tache-I
+vous command-tache-I
+plaît command-tache-I
+réserver command-tache-I
+vingt nombre-chambre-B
+huit nombre-chambre-I
+chambres chambre-type-B
+simples chambre-type-I
+à null
+moins null
+à null
+cinquante paiement-montant-entier-B
+euros paiement-monnaie-B
+à comparatif-paiement-B
+peu comparatif-paiement-I
+près comparatif-paiement-I
+avec hotel-services-B
+une hotel-services-I
+salle hotel-services-I
+de hotel-services-I
+réunion hotel-services-I
+à null
+l' lienRef-coRef-B
+hôtel objetBD-B
+près localisation-distanceRelative-B
+d' localisation-distanceRelative-I
+un localisation-lieuRelatif-B
+métro localisation-lieuRelatif-I
+
+oui reponse-B
+dans localisation-arrondissement-B
+le localisation-arrondissement-I
+treizième localisation-arrondissement-I
+arrondissement localisation-arrondissement-I
+oui reponse-B
+du temps-date-B
+quatorze temps-date-I
+au temps-date-B
+deux temps-date-I
+juin temps-date-I
+
+hum null
+hum null
+euh null
+vingt nombre-chambre-B
+huit nombre-chambre-I
+chambres nombre-chambre-I
+
+ah null
+alors null
+je null
+l' lienRef-coRef-B
+ai null
+mal null
+écrite null
+alors null
+alors null
+quatorze nombre-B
+
+au null
+deux nombre-B
+
+et null
+bien null
+écoutez null
+elle lienRef-coRef-B
+est null
+mal null
+écrite null
+elle null
+est null
+mal null
+écrite null
+alors null
+du temps-date-B
+quatorze temps-date-I
+au temps-date-B
+deux temps-date-I
+euh temps-date-I
+mai temps-date-I
+peut-être reponse-B
+
+quatorze temps-jour-mois-B
+au temps-jour-mois-B
+deux temps-jour-mois-I
+ce null
+n' null
+est null
+pas objet-B
+une objet-I
+date objet-I
+correcte objet-I
+alors null
+alors null
+donc null
+euh null
+alors null
+peut-être reponse-B
+que null
+c' null
+est null
+c' null
+est null
+s null
+euh null
+quatorze nombre-B
+dans localisation-arrondissement-B
+le localisation-arrondissement-I
+treizième localisation-arrondissement-I
+ah localisation-arrondissement-I
+treizième localisation-arrondissement-I
+arrondissement localisation-arrondissement-I
+
+et null
+ben null
+écoutez null
+je null
+eh null
+la null
+demande null
+elle null
+est null
+de null
+vingt nombre-chambre-B
+huit nombre-chambre-I
+chambres chambre-type-B
+simples chambre-type-I
+à null
+cinquante paiement-montant-entier-B
+euros paiement-monnaie-B
+la null
+chambre null
+avec hotel-services-B
+une hotel-services-I
+salle hotel-services-I
+de hotel-services-I
+réunion hotel-services-I
+à null
+l' lienRef-coRef-B
+hôtel objetBD-B
+près localisation-distanceRelative-B
+du localisation-distanceRelative-I
+métro localisation-lieuRelatif-B
+
+eh null
+ma objet-B
+mes objet-I
+dates objet-I
+de null
+séjour null
+je null
+alors null
+il null
+y null
+a null
+marqué null
+du temps-date-B
+quatorze temps-date-I
+au temps-date-B
+deux temps-date-I
+ch temps-date-I
+ch temps-date-I
+m temps-date-I
+mai temps-date-I
+juin temps-date-I
+alors null
+janvier temps-mois-B
+février temps-mois-B
+mars temps-mois-B
+mars temps-mois-I
+avril temps-mois-B
+mai temps-mois-B
+juin temps-mois-B
+juillet temps-mois-B
+août temps-mois-B
+
+et null
+ben null
+écoutez null
+je null
+n' null
+arrive null
+pas null
+à null
+trouver null
+le temps-unite-B
+jour temps-unite-I
+c' null
+est null
+ça null
+le null
+problème null
+et temps-unite-B
+le temps-unite-I
+mois temps-unite-I
+le temps-unite-I
+mois temps-unite-I
+eh null
+il null
+m' null
+a null
+pas null
+été null
+donné null
+j' null
+ai null
+j' null
+ai null
+marqué null
+juin temps-mois-B
+juin temps-mois-I
+vous null
+dites null
+qu' null
+il null
+n' null
+existe null
+pas null
+
+alors null
+
+ouais reponse-B
+n' null
+est null
+pas objet-B
+une objet-I
+date objet-I
+correcte objet-I
+bon null
+et null
+ben null
+écoutez null
+je command-dial-B
+je command-dial-I
+vous command-dial-I
+je command-dial-I
+vous command-dial-I
+réitérerai command-dial-I
+ma command-dial-I
+demande command-dial-I
+après comparatif-temps-B
+après comparatif-temps-I
+
+avoir null
+connu null
+
+et null
+bien null
+est-ce null
+que null
+est-ce null
+que null
+je null
+peux null
+vous null
+rappeler null
+avec null
+la null
+précision null
+de null
+la lienRef-coRef-B
+date objet-B
+je null
+peux null
+vous null
+rappeler null
+après null
+la null
+précision null
+de null
+la lienRef-coRef-B
+date objet-B
+
+et null
+ben null
+écoutez null
+je null
+vous null
+remercie null
+
+merci null
+
+au null
+revoir null
+
+j' command-tache-B
+aurais command-tache-I
+voulu command-tache-I
+réserver command-tache-I
+pour null
+la null
+période null
+du temps-date-B
+dix temps-date-I
+huit temps-date-I
+au temps-date-B
+vingt temps-date-I
+trois temps-date-I
+novembre temps-date-I
+en localisation-lieuRelatif-B
+banlieue localisation-lieuRelatif-I
+est localisation-cardinal-B
+euh null
+quatre nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+et connectProp-B
+une nombre-chambre-B
+chambre chambre-type-B
+double chambre-type-I
+à comparatif-paiement-B
+moins comparatif-paiement-I
+de comparatif-paiement-I
+cinquante paiement-montant-entier-B
+euros paiement-monnaie-B
+la null
+nuit null
+avec chambre-equipement-B
+téléphone chambre-equipement-I
+s' null
+il null
+vous null
+plaît null
+
+est-ce null
+qu' null
+il lienRef-coRef-B
+est null
+bien null
+en localisation-lieuRelatif-B
+banlieue localisation-lieuRelatif-I
+est localisation-cardinal-B
+
+bon reponse-B
+d'accord reponse-I
+je null
+veux null
+bien null
+donc null
+quatre nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+et connectProp-B
+une nombre-chambre-B
+chambre chambre-type-B
+double chambre-type-I
+avec chambre-equipement-B
+téléphone chambre-equipement-I
+s' null
+il null
+vous null
+plaît null
+
+oui reponse-B
+
+euh null
+vous null
+m' null
+avez null
+dit null
+quatre nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+il null
+me null
+faudrait null
+aussi null
+une nombre-chambre-B
+chambre chambre-type-B
+double chambre-type-I
+
+oui reponse-B
+et connectProp-B
+est-ce null
+qu' null
+il null
+y null
+a null
+le chambre-equipement-B
+téléphone chambre-equipement-I
+
+bon null
+ben null
+c' null
+est null
+d'accord reponse-B
+je null
+vous null
+remercie null
+
+merci null
+au null
+revoir null
+
+je command-tache-B
+voudrais command-tache-I
+réserver command-tache-I
+euh null
+six nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+à localisation-ville-B
+Paris localisation-ville-I
+place localisation-rue-B
+d' localisation-rue-I
+Italie localisation-rue-I
+près localisation-distanceRelative-B
+de localisation-distanceRelative-I
+la evenement-B
+conférence evenement-I
+Amnesty evenement-I
+Amnesty evenement-I
+International evenement-I
+euh null
+du temps-date-B
+vingt temps-date-I
+quatre temps-date-I
+au temps-date-B
+vingt temps-date-I
+six temps-date-I
+juillet temps-date-I
+avec objet-B
+un objet-I
+prix objet-I
+euh null
+maximum comparatif-paiement-B
+euh null
+quatre paiement-montant-entier-B
+vingt paiement-montant-entier-I
+dix paiement-montant-entier-I
+euros paiement-monnaie-B
+et connectProp-B
+également null
+je null
+souhaiterais null
+avoir null
+un hotel-services-B
+restaurant hotel-services-I
+végétarien hotel-services-I
+
+six nombre-chambre-B
+chambres nombre-chambre-I
+pardon null
+
+oui reponse-B
+
+oui reponse-B
+
+ah reponse-B
+non reponse-I
+c' null
+est null
+pas localisation-ville-B
+à localisation-ville-I
+Nancy localisation-ville-I
+c' null
+est null
+à localisation-ville-B
+Paris localisation-ville-I
+place localisation-rue-B
+d' localisation-rue-I
+Italie localisation-rue-I
+à localisation-ville-B
+Paris localisation-ville-I
+
+oui reponse-B
+
+est-ce null
+que null
+l' nom-hotel-B
+hôtel nom-hotel-I
+Chenier nom-hotel-I
+est null
+près localisation-distanceRelative-B
+de localisation-distanceRelative-I
+la localisation-distanceRelative-I
+de localisation-distanceRelative-I
+la evenement-B
+conférence evenement-I
+Amnesty evenement-I
+International evenement-I
+
+bon null
+c' null
+est null
+parfait null
+hum null
+est-ce null
+qu' null
+il null
+y null
+a null
+un hotel-services-B
+restaurant hotel-services-I
+végétarien hotel-services-I
+dans null
+ce null
+euh null
+dans null
+cet lienRef-coRef-B
+hôtel objetBD-B
+ou connectAttr-B
+aux localisation-distanceRelative-B
+alentours localisation-distanceRelative-I
+
+bon null
+c' null
+est null
+parfait null
+est-ce null
+qu' null
+il null
+y null
+a null
+bien null
+six nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+de nombre-chambre-disponible-B
+libres nombre-chambre-disponible-I
+à null
+
+oui reponse-B
+alors command-tache-B
+je command-tache-I
+réserve command-tache-I
+
+oui reponse-B
+
+oui reponse-B
+
+non reponse-B
+c' null
+est null
+tout null
+
+au null
+revoir null
+
+oui reponse-B
+
+je command-tache-B
+voudrais command-tache-I
+réserver command-tache-I
+pour sejour-nbNuit-B
+six sejour-nbNuit-I
+nuits sejour-nbNuit-I
+du temps-date-B
+dix temps-date-I
+neuf temps-date-I
+au temps-date-B
+vingt temps-date-I
+cinq temps-date-I
+juillet temps-date-I
+à localisation-ville-B
+Paris localisation-ville-I
+près localisation-distanceRelative-B
+d' localisation-distanceRelative-I
+Ivry localisation-ville-B
+pour evenement-B
+la evenement-I
+conférence evenement-I
+altermondialiste evenement-I
+quatre nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+à comparatif-paiement-B
+moins comparatif-paiement-I
+de comparatif-paiement-I
+cent paiement-montant-entier-B
+cinquante paiement-montant-entier-I
+euros paiement-monnaie-B
+la null
+chambre null
+plus connectProp-B
+le hotel-services-B
+restaurant hotel-services-I
+et objet-B
+le objet-I
+parking objet-I
+dans null
+l' lienRef-coRef-B
+hôtel objetBD-B
+
+oui reponse-B
+je null
+sais null
+pas null
+pourquoi null
+j' null
+ai null
+dit null
+oui null
+parce null
+que null
+elle null
+m' null
+entend null
+pas null
+c'est null
+un null
+serveur null
+vocal null
+
+à localisation-ville-B
+Paris localisation-ville-I
+
+oui reponse-B
+
+il null
+y null
+a null
+le hotel-services-B
+restaurant hotel-services-I
+et objet-B
+le objet-I
+parking objet-I
+dans null
+l' lienRef-coRef-B
+hôtel objetBD-B
+
+oui reponse-B
+ben command-tache-B
+je command-tache-I
+réserve command-tache-I
+
+oui reponse-B
+
+oui reponse-B
+
+non reponse-B
+c' null
+est null
+tout null
+merci null
+
+au null
+revoir null
+
+je command-tache-B
+souhaiterais command-tache-I
+réserver command-tache-I
+euh null
+vingt nombre-chambre-B
+cinq nombre-chambre-I
+chambres chambre-type-B
+simples chambre-type-I
+à comparatif-paiement-B
+moins comparatif-paiement-I
+de comparatif-paiement-I
+cinquante paiement-montant-entier-B
+euros paiement-monnaie-B
+du temps-date-B
+cinq temps-date-I
+au temps-date-B
+sept temps-date-I
+avril temps-date-I
+à localisation-ville-B
+Paris localisation-ville-I
+gare localisation-lieuRelatif-B
+de localisation-lieuRelatif-I
+Montparnasse localisation-lieuRelatif-I
+donc connectProp-B
+tout localisation-distanceRelative-B
+près localisation-distanceRelative-I
+de localisation-distanceRelative-I
+la localisation-lieuRelatif-B
+gare localisation-lieuRelatif-I
+dans hotel-etoile-B
+un hotel-etoile-I
+hôtel hotel-etoile-I
+deux hotel-etoile-I
+étoiles hotel-etoile-I
+
+non reponse-B
+c' null
+est null
+pas null
+ça null
+
+je command-tache-B
+souhaiterais command-tache-I
+faire command-tache-I
+une command-tache-I
+réservation command-tache-I
+du temps-date-B
+cinq temps-date-I
+au temps-date-B
+sept temps-date-I
+avril temps-date-I
+à localisation-ville-B
+Paris localisation-ville-I
+près localisation-distanceRelative-B
+de localisation-distanceRelative-I
+la localisation-lieuRelatif-B
+gare localisation-lieuRelatif-I
+de localisation-lieuRelatif-I
+Montparnasse localisation-lieuRelatif-I
+pour nombre-reservation-B
+vingt nombre-reservation-I
+
+cinq nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+
+dans null
+le lienRef-elsEns-B
+deuxième rang-B
+
+vingt nombre-chambre-B
+cinq nombre-chambre-I
+chambres chambre-type-B
+simples chambre-type-I
+
+non reponse-B
+vingt nombre-B
+cinq nombre-I
+
+vingt nombre-chambre-B
+cinq nombre-chambre-I
+chambres chambre-type-B
+simples chambre-type-I
+
+est-ce null
+que null
+c' null
+est null
+près localisation-distanceRelative-B
+de localisation-distanceRelative-I
+la localisation-lieuRelatif-B
+gare localisation-lieuRelatif-I
+
+est-ce null
+que null
+c' null
+est null
+un hotel-etoile-B
+hôtel hotel-etoile-I
+deux hotel-etoile-I
+étoiles hotel-etoile-I
+
+je command-tache-B
+souhaite command-tache-I
+réserver command-tache-I
+
+c' command-tache-B
+est command-tache-I
+bien command-tache-I
+réservé command-tache-I
+pour nombre-chambre-B
+vingt nombre-chambre-I
+cinq nombre-chambre-I
+chambres chambre-type-B
+simples chambre-type-I
+hein command-dial-B
+
+c' null
+est null
+bien null
+moins comparatif-paiement-B
+de comparatif-paiement-I
+cinquante paiement-montant-entier-B
+euros paiement-monnaie-B
+
+c' null
+est null
+bon null
+alors null
+c' null
+est null
+ok reponse-B
+
+voilà command-tache-B
+je command-tache-I
+souhaite command-tache-I
+réserver command-tache-I
+dans localisation-quartier-B
+le localisation-quartier-I
+quartier localisation-quartier-I
+Montparnasse localisation-quartier-I
+une nombre-chambre-B
+chambre chambre-type-B
+simple chambre-type-I
+fumeurs chambre-fumeur-B
+environ comparatif-paiement-B
+cinquante paiement-montant-entier-B
+euros paiement-monnaie-B
+et connectProp-B
+près localisation-distanceRelative-B
+d' localisation-distanceRelative-I
+un localisation-lieuRelatif-B
+endroit localisation-lieuRelatif-I
+animé localisation-lieuRelatif-I
+le temps-plageTps-B
+soir temps-plageTps-I
+s' null
+il null
+vous null
+plaît null
+
+non reponse-B
+
+une command-tache-B
+réservation command-tache-I
+dans localisation-quartier-B
+le localisation-quartier-I
+quartier localisation-quartier-I
+Montparnasse localisation-quartier-I
+d' nombre-chambre-B
+une nombre-chambre-I
+chambre chambre-type-B
+simple chambre-type-I
+fumeurs chambre-fumeur-B
+environ comparatif-paiement-B
+cinquante paiement-montant-entier-B
+euros paiement-monnaie-B
+et connectProp-B
+près localisation-distanceRelative-B
+d' localisation-distanceRelative-I
+un localisation-lieuRelatif-B
+endroit localisation-lieuRelatif-I
+animé localisation-lieuRelatif-I
+le temps-plageTps-B
+soir temps-plageTps-I
+
+à nom-hotel-B
+l' nom-hotel-I
+hôtel nom-hotel-I
+Roissy nom-hotel-I
+
+une nombre-chambre-B
+chambre chambre-type-B
+simple chambre-type-I
+fumeurs chambre-fumeur-B
+
+non reponse-B
+une nombre-chambre-B
+chambre chambre-type-B
+simple chambre-type-I
+fumeurs chambre-fumeur-B
+
+oui reponse-B
+
+ça null
+sera null
+tout null
+
+au null
+revoir null
+
+bonjour null
+je command-tache-B
+désire command-tache-I
+réserver command-tache-I
+du temps-date-B
+sept temps-date-I
+euh temps-date-I
+du temps-date-I
+sept temps-date-I
+au temps-date-B
+neuf temps-date-I
+novembre temps-date-I
+à localisation-ville-B
+Gap localisation-ville-I
+quatre nombre-chambre-B
+chambres chambre-type-B
+doubles chambre-type-I
+à comparatif-paiement-B
+moins comparatif-paiement-I
+de comparatif-paiement-I
+soixante paiement-montant-entier-B
+dix paiement-montant-entier-I
+euros paiement-monnaie-B
+avec objet-B
+parking objet-I
+dans objet-I
+l' objet-I
+hôtel objet-I
+parking objet-I
+dans null
+l' lienRef-coRef-B
+hôtel objetBD-B
+s' null
+il null
+vous null
+plaît null
+
+oui reponse-B
+
+vous null
+n' null
+avez null
+pas null
+de null
+chambres chambre-type-B
+doubles chambre-type-I
+à null
+soixante paiement-montant-entier-B
+dix paiement-montant-entier-I
+euros paiement-monnaie-B
+euh null
+je null
+désire null
+quatre nombre-chambre-B
+chambres chambre-type-B
+doubles chambre-type-I
+
+ah null
+c' null
+est null
+bon null
+alors null
+d'accord reponse-B
+je null
+suis null
+avec objet-B
+parking objet-I
+
+c' null
+est null
+bon null
+je command-tache-B
+réserve command-tache-I
+je null
+
+je command-dial-B
+maintiens command-dial-I
+
+oui reponse-B
+
+je command-dial-B
+confirme command-dial-I
+
+non reponse-B
+
+j' command-tache-B
+aurais command-tache-I
+voulu command-tache-I
+faire command-tache-I
+une command-tache-I
+réservation command-tache-I
+euh null
+d' objetBD-B
+hôtel objetBD-I
+à localisation-ville-B
+Gap localisation-ville-I
+du temps-date-B
+sept temps-date-I
+au temps-date-B
+neuf temps-date-I
+novembre temps-date-I
+
+oui reponse-B
+euh null
+quel null
+prix objet-B
+à objet-I
+quel objet-I
+prix objet-I
+est null
+la lienRef-coRef-B
+chambre chambre-type-B
+double chambre-type-I
+
+oui reponse-B
+est-ce null
+que null
+il null
+y null
+a null
+un hotel-parking-B
+parking hotel-parking-I
+privé hotel-parking-I
+dans null
+l' lienRef-coRef-B
+hôtel objetBD-B
+
+d'accord reponse-B
+donc connectProp-B
+j' null
+aurais null
+voulu null
+quatre nombre-chambre-B
+chambres chambre-type-B
+doubles chambre-type-I
+s' null
+il null
+vous null
+plaît null
+
+oui reponse-B
+
+d'accord reponse-B
+
+ok reponse-B
+
+oui reponse-B
+
+oui reponse-B
+j' command-tache-B
+aurais command-tache-I
+voulu command-tache-I
+réserver command-tache-I
+d null
+
+une nombre-B
+pareille null
+du temps-date-B
+neuf temps-date-I
+au temps-date-B
+douze temps-date-I
+novembre temps-date-I
+à localisation-ville-B
+Rodez localisation-ville-I
+
+hum null
+hum null
+
+quel null
+prix objet-B
+à objet-I
+quel objet-I
+prix objet-I
+est null
+la lienRef-coRef-B
+chambre chambre-type-B
+double chambre-type-I
+
+pardon null
+à null
+quel null
+prix objet-B
+est null
+la lienRef-coRef-B
+chambre chambre-type-B
+double chambre-type-I
+
+d'accord reponse-B
+est-ce null
+qu' null
+il null
+y null
+a null
+un hotel-parking-B
+parking hotel-parking-I
+privé hotel-parking-I
+
+d'accord reponse-B
+donc connectProp-B
+j' command-tache-B
+aurais command-tache-I
+voulu command-tache-I
+réserver command-tache-I
+pareil null
+quatre nombre-chambre-B
+chambres chambre-type-B
+doubles chambre-type-I
+
+hum null
+hum null
+
+oui reponse-B
+
+ok reponse-B
+
+oui reponse-B
+j' command-tache-B
+aurais command-tache-I
+voulu command-tache-I
+faire command-tache-I
+encore command-tache-I
+une command-tache-I
+réservation command-tache-I
+du temps-date-B
+douze temps-date-I
+au temps-date-B
+quinze temps-date-I
+novembre temps-date-I
+à localisation-ville-B
+Limoges localisation-ville-I
+
+quatre nombre-chambre-B
+chambres nombre-chambre-I
+
+doubles chambre-type-B
+j' null
+aurais null
+d' null
+abord null
+voulu null
+savoir null
+le lienRef-coRef-B
+prix objet-B
+
+hum null
+
+vous null
+n' null
+avez null
+pas null
+moins comparatif-paiement-B
+cher comparatif-paiement-I
+
+d'accord reponse-B
+y null
+a-t-il null
+un hotel-parking-B
+parking hotel-parking-I
+privé hotel-parking-I
+
+d'accord reponse-B
+ben null
+on null
+va null
+faire null
+pareil null
+alors null
+quatre nombre-chambre-B
+quatre nombre-chambre-I
+chambres chambre-type-B
+doubles chambre-type-I
+
+hum null
+
+oui reponse-B
+s' null
+il null
+vous null
+plaît null
+
+d'accord reponse-B
+
+non reponse-B
+c' null
+est null
+bon null
+
+au null
+revoir null
+
+attends command-dial-B
+attends command-dial-I
+
+oui null
+bonjour null
+j' command-tache-B
+aurais command-tache-I
+voulu command-tache-I
+faire command-tache-I
+une command-tache-I
+réservation command-tache-I
+dans localisation-cardinal-B
+le localisation-cardinal-I
+nord localisation-cardinal-I
+de localisation-ville-B
+Paris localisation-ville-I
+
+du temps-date-B
+cinq temps-date-I
+au temps-date-B
+sept temps-date-I
+juillet temps-date-I
+
+au null
+sept temps-date-B
+juillet temps-date-I
+
+oui reponse-B
+
+hum null
+hum null
+
+pouvez-vous null
+me null
+donner null
+les lienRef-coRef-B
+prix objet-B
+
+euh null
+deux nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+
+est-ce null
+que null
+c' null
+est null
+situé null
+près localisation-distanceRelative-B
+d' localisation-distanceRelative-I
+un localisation-lieuRelatif-B
+UGC localisation-lieuRelatif-I
+et localisation-lieuRelatif-B
+d' localisation-lieuRelatif-I
+un localisation-lieuRelatif-I
+restaurant localisation-lieuRelatif-I
+
+d'accord reponse-B
+ben null
+à null
+
+l' nom-hotel-B
+hôtel nom-hotel-I
+le nom-hotel-I
+phare nom-hotel-I
+alors null
+
+oui reponse-B
+
+non reponse-B
+c' null
+est null
+tout null
+
+au null
+revoir null
+
+je command-tache-B
+voudrais command-tache-I
+réserver command-tache-I
+un objetBD-B
+hôtel objetBD-I
+
+à localisation-ville-B
+Rochefort localisation-ville-I
+
+du temps-date-B
+dix temps-date-I
+neuf temps-date-I
+au temps-date-B
+vingt temps-date-I
+deux temps-date-I
+octobre temps-date-I
+et connectProp-B
+à localisation-ville-B
+Périgueux localisation-ville-I
+du temps-date-B
+vingt temps-date-I
+deux temps-date-I
+au temps-date-B
+vingt temps-date-I
+sept temps-date-I
+octobre temps-date-I
+puis connectProp-B
+à localisation-ville-B
+Toulouse localisation-ville-I
+du temps-date-B
+vingt temps-date-I
+sept temps-date-I
+au temps-date-B
+vingt temps-date-I
+huit temps-date-I
+octobre temps-date-I
+
+obtenir command-tache-B
+des command-tache-I
+informations command-tache-I
+
+je null
+voudrais null
+une nombre-chambre-B
+chambre nombre-chambre-I
+pour sejour-nbCouple-B
+un sejour-nbCouple-I
+couple sejour-nbCouple-I
+avec sejour-nbEnfant-B
+un sejour-nbEnfant-I
+enfant sejour-nbEnfant-I
+quatre paiement-montant-entier-B
+vingt paiement-montant-entier-I
+dix paiement-montant-entier-I
+euros paiement-monnaie-B
+environ comparatif-paiement-B
+de null
+préférence null
+un null
+deux hotel-etoile-B
+étoiles hotel-etoile-I
+et connectProp-B
+qui null
+accepte null
+les hotel-services-B
+animaux hotel-services-I
+
+oui reponse-B
+
+une nombre-chambre-B
+chambre nombre-chambre-I
+pour sejour-nbCouple-B
+un sejour-nbCouple-I
+couple sejour-nbCouple-I
+et sejour-nbEnfant-B
+un sejour-nbEnfant-I
+enfant sejour-nbEnfant-I
+
+oui reponse-B
+
+oui reponse-B
+je command-tache-B
+voudrais command-tache-I
+réserver command-tache-I
+une nombre-chambre-B
+chambre nombre-chambre-I
+à localisation-ville-B
+Périgueux localisation-ville-I
+du temps-date-B
+vingt temps-date-I
+deux temps-date-I
+au temps-date-B
+vingt temps-date-I
+sept temps-date-I
+octobre temps-date-I
+
+oui reponse-B
+
+oui reponse-B
+
+obtenir command-tache-B
+des command-tache-I
+informations command-tache-I
+supplémentaires command-tache-I
+
+j' null
+aimerais null
+une nombre-chambre-B
+chambre nombre-chambre-I
+à comparatif-paiement-B
+moins comparatif-paiement-I
+de comparatif-paiement-I
+quatre paiement-montant-entier-B
+vingt paiement-montant-entier-I
+dix paiement-montant-entier-I
+euros paiement-monnaie-B
+dans hotel-etoile-B
+un hotel-etoile-I
+hôtel hotel-etoile-I
+deux hotel-etoile-I
+étoiles hotel-etoile-I
+qui null
+accepte null
+les hotel-services-B
+animaux hotel-services-I
+
+non reponse-B
+
+oui reponse-B
+
+oui reponse-B
+
+non reponse-B
+
+je command-tache-B
+voudrais command-tache-I
+réserver command-tache-I
+une nombre-chambre-B
+chambre nombre-chambre-I
+à localisation-ville-B
+Paris localisation-ville-I
+gare localisation-lieuRelatif-B
+Saint-Lazare localisation-lieuRelatif-I
+
+du temps-date-B
+vingt temps-date-I
+cinq temps-date-I
+au temps-date-B
+vingt temps-date-I
+sept temps-date-I
+novembre temps-date-I
+il null
+me null
+faudrait null
+trente nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+pour objet-B
+un objet-I
+montant objet-I
+de objet-I
+soixante paiement-montant-entier-B
+quinze paiement-montant-entier-I
+euros paiement-monnaie-B
+environ comparatif-paiement-B
+par null
+chambre null
+
+non reponse-B
+trente nombre-B
+
+oui reponse-B
+
+obtenir command-tache-B
+des command-tache-I
+informations command-tache-I
+supplémentaires command-tache-I
+
+je null
+voudrais null
+des objet-B
+chambres objet-I
+avec chambre-equipement-B
+douche chambre-equipement-I
+
+à nom-hotel-B
+l' nom-hotel-I
+hôtel nom-hotel-I
+de nom-hotel-I
+Laeken nom-hotel-I
+
+oui reponse-B
+
+non reponse-B
+
+au null
+revoir null
+
+euh null
+je command-tache-B
+souhaiterais command-tache-I
+réserver command-tache-I
+une nombre-chambre-B
+chambre nombre-chambre-I
+du temps-date-B
+treize temps-date-I
+au temps-date-B
+dix temps-date-I
+huit temps-date-I
+décembre temps-date-I
+une nombre-chambre-B
+chambre chambre-type-B
+double chambre-type-I
+euh null
+à comparatif-paiement-B
+moins comparatif-paiement-I
+de comparatif-paiement-I
+quatre paiement-montant-entier-B
+vingts paiement-montant-entier-I
+euros paiement-monnaie-B
+avec hotel-services-B
+euh hotel-services-I
+une hotel-services-I
+piscine hotel-services-I
+et objet-B
+un objet-I
+parking objet-I
+dans null
+l' lienRef-coRef-B
+hôtel objetBD-B
+à localisation-ville-B
+Carcassonne localisation-ville-I
+s' null
+il null
+vous null
+plaît null
+
+pourais-je null
+
+pourrais-je command-tache-B
+avoir command-tache-I
+des command-tache-I
+renseignements command-tache-I
+sur null
+les lienRef-coRef-B
+les lienRef-coRef-I
+prix objet-B
+et null
+
+une nombre-chambre-B
+chambre chambre-type-B
+double chambre-type-I
+
+euh null
+à nom-hotel-B
+l' nom-hotel-I
+hôtel nom-hotel-I
+Elisabeth nom-hotel-I
+s' null
+il null
+vous null
+plaît null
+
+oui reponse-B
+est-ce null
+qu' null
+il null
+y null
+a null
+une hotel-services-B
+piscine hotel-services-I
+
+et null
+un objet-B
+parking objet-I
+
+et null
+hum null
+le lienRef-elsEns-B
+troisième rang-hotel-B
+hôtel objetBD-B
+hum null
+euh null
+a-t- null
+il null
+une hotel-services-B
+piscine hotel-services-I
+et objet-B
+un objet-I
+parking objet-I
+
+et null
+il lienRef-coRef-B
+est null
+à null
+quatre paiement-montant-entier-B
+vingts paiement-montant-entier-I
+euros paiement-monnaie-B
+
+euh null
+je command-tache-B
+vais command-tache-I
+réserver command-tache-I
+dans null
+celui-là lienRef-elsEns-B
+s' null
+il null
+vous null
+plaît null
+
+euh null
+oui reponse-B
+s' null
+il null
+vous null
+plaît null
+
+euh null
+non reponse-B
+merci null
+
+merci null
+au null
+revoir null
+
+euh null
+je command-tache-B
+souhaiterais command-tache-I
+réserver command-tache-I
+vingt nombre-chambre-B
+huit nombre-chambre-I
+chambres nombre-chambre-I
+à null
+cinquante paiement-montant-entier-B
+euros paiement-monnaie-B
+la null
+chambre null
+dans localisation-ville-B
+Paris localisation-ville-I
+treizième localisation-arrondissement-B
+s' null
+il null
+vous null
+plaît null
+du temps-date-B
+premier temps-date-I
+au temps-date-B
+deux temps-date-I
+mars temps-date-I
+
+ah reponse-B
+non reponse-I
+c' null
+est null
+le localisation-arrondissement-B
+treizième localisation-arrondissement-I
+arrondissement localisation-arrondissement-I
+
+oui reponse-B
+
+quels null
+sont null
+les lienRef-coRef-B
+tarifs objet-B
+
+salle hotel-services-B
+de hotel-services-I
+réunion hotel-services-I
+une nombre-chambre-B
+chambre nombre-chambre-I
+à null
+cinquante paiement-montant-entier-B
+euros paiement-monnaie-B
+la null
+chambre null
+salle hotel-services-B
+de hotel-services-I
+réunion hotel-services-I
+
+d'accord reponse-B
+
+d'accord reponse-B
+je null
+dois null
+en lienRef-coRef-B
+réserver command-tache-B
+vingt nombre-reservation-B
+huit nombre-reservation-I
+hein null
+
+vingt nombre-chambre-B
+huit nombre-chambre-I
+chambres chambre-type-B
+simples chambre-type-I
+
+oui reponse-B
+
+hum null
+près localisation-distanceRelative-B
+du localisation-distanceRelative-I
+métro localisation-lieuRelatif-B
+euh null
+est-ce null
+qu' null
+il null
+y null
+a null
+un objetBD-B
+hôtel objetBD-I
+près localisation-distanceRelative-B
+du localisation-distanceRelative-I
+métro localisation-lieuRelatif-B
+
+d'accord reponse-B
+du temps-date-B
+premier temps-date-I
+au temps-date-B
+deux temps-date-I
+mars temps-date-I
+
+oui reponse-B
+
+elles lienRef-coRef-B
+sont null
+à null
+quel null
+tarif objet-B
+
+soixante paiement-montant-entier-B
+euros paiement-monnaie-B
+hum null
+d'accord reponse-B
+ben command-tache-B
+je command-tache-I
+veux command-tache-I
+bien command-tache-I
+réserver command-tache-I
+
+merci null
+
+oui reponse-B
+
+cent nombre-B
+quatre nombre-I
+vingt nombre-I
+quatorze nombre-I
+deux nombre-I
+cent nombre-I
+vingt nombre-I
+
+sept nombre-B
+
+d' reponse-B
+accord reponse-I
+
+oui reponse-B
+
+non reponse-B
+merci null
+
+je null
+vous null
+en null
+prie null
+au null
+revoir null
+
+je command-tache-B
+souhaiterais command-tache-I
+réserver command-tache-I
+une nombre-chambre-B
+chambre nombre-chambre-I
+à localisation-ville-B
+Cannes localisation-ville-I
+pour evenement-B
+la evenement-I
+conférence evenement-I
+du evenement-I
+prêt evenement-I
+à evenement-I
+porter evenement-I
+les nombre-temps-B
+quatre nombre-temps-I
+derniers temps-axeTps-B
+jours temps-unite-B
+de temps-mois-B
+septembre temps-mois-I
+
+oui reponse-B
+
+hum null
+
+je command-tache-B
+souhaiterais command-tache-I
+avoir command-tache-I
+avoir command-tache-I
+des command-tache-I
+informations command-tache-I
+
+sur null
+le lienRef-coRef-B
+prix objet-B
+
+le lienRef-coRef-B
+prix objet-B
+
+d' null
+une null
+part null
+
+alors null
+une nombre-chambre-B
+chambre chambre-type-B
+simple chambre-type-I
+
+et null
+le evenement-B
+festival evenement-I
+n' null
+est null
+pas localisation-distanceRelative-B
+loin localisation-distanceRelative-I
+de localisation-distanceRelative-I
+la localisation-lieuRelatif-B
+plage localisation-lieuRelatif-I
+je null
+pense null
+
+oui reponse-B
+et null
+bien null
+ce null
+sera null
+pour null
+le evenement-B
+festival evenement-I
+pour nombre-temps-B
+les nombre-temps-I
+quatre nombre-temps-I
+derniers temps-axeTps-B
+jours temps-unite-B
+de temps-mois-B
+septembre temps-mois-I
+une nombre-chambre-B
+chambre chambre-type-B
+simple chambre-type-I
+
+oui reponse-B
+
+oui reponse-B
+
+hum null
+
+c' null
+est null
+parfait null
+
+non reponse-B
+ce null
+sera null
+parfait null
+c' null
+est null
+tout null
+
+je null
+
+au null
+revoir null
+
+deux nombre-B
+cent nombre-I
+quarante nombre-I
+
+ben command-tache-B
+je command-tache-I
+souhaiterais command-tache-I
+réserver command-tache-I
+euh null
+des objet-B
+chambres objet-I
+une nombre-chambre-B
+douzaine nombre-chambre-I
+de nombre-chambre-I
+chambres nombre-chambre-I
+pour null
+un null
+circuit null
+pour null
+plusieurs nombreNonDigit-B
+jours temps-unite-B
+différents temps-unite-I
+dans null
+différentes nombreNonDigit-B
+villes localisation-lieuRelatif-B
+
+alors null
+je command-tache-B
+voudrais command-tache-I
+réserver command-tache-I
+du temps-date-B
+quinze temps-date-I
+au temps-date-B
+dix temps-date-I
+sept temps-date-I
+mars temps-date-I
+à localisation-ville-B
+Carpentras localisation-ville-I
+du temps-date-B
+dix temps-date-I
+sept temps-date-I
+au temps-date-B
+dix temps-date-I
+neuf temps-date-I
+à localisation-ville-B
+Mendès localisation-ville-I
+Mende localisation-ville-I
+et connectProp-B
+du temps-date-B
+dix temps-date-I
+neuf temps-date-I
+au temps-date-B
+vingt temps-date-I
+à localisation-ville-B
+Moulins localisation-ville-I
+
+je null
+voudrais null
+une nombre-chambre-B
+douzaine nombre-chambre-I
+de nombre-chambre-I
+chambres nombre-chambre-I
+et connectProp-B
+si null
+possible null
+toutes null
+au chambre-voisine-B
+même chambre-voisine-I
+étage chambre-voisine-I
+
+euh null
+à null
+quel null
+prix objet-B
+
+et null
+elles lienRef-coRef-B
+sont null
+toutes null
+au objet-B
+même objet-I
+étage objet-I
+
+d'accord reponse-B
+alors reponse-I
+ok reponse-I
+pour nom-hotel-B
+le nom-hotel-I
+l' nom-hotel-I
+Ambassador nom-hotel-I
+à localisation-ville-B
+Mendès localisation-ville-I
+
+à localisation-ville-B
+Mende localisation-ville-I
+oui reponse-B
+du temps-jour-mois-B
+dix temps-jour-mois-I
+sept temps-jour-mois-I
+au temps-jour-mois-B
+dix temps-jour-mois-I
+neuf temps-jour-mois-I
+
+et null
+vous null
+avez null
+pas null
+moins comparatif-paiement-B
+cher comparatif-paiement-I
+
+vous null
+avez null
+moins comparatif-paiement-B
+cher comparatif-paiement-I
+un hotel-marque-B
+hôtel hotel-marque-I
+Formule hotel-marque-I
+Un hotel-marque-I
+par null
+exemple null
+
+d'accord reponse-B
+donc connectProp-B
+c' null
+est null
+du temps-jour-mois-B
+dix temps-jour-mois-I
+sept temps-jour-mois-I
+au temps-jour-mois-B
+dix temps-jour-mois-I
+neuf temps-jour-mois-I
+hein null
+douze nombre-chambre-B
+chambres nombre-chambre-I
+
+d'accord reponse-B
+toujours null
+le objet-B
+même objet-I
+au objet-I
+même objet-I
+étage objet-I
+
+on null
+verra null
+sur null
+place null
+
+d'accord reponse-B
+et connectProp-B
+pour localisation-ville-B
+Moulins localisation-ville-I
+
+hum null
+hum null
+
+c' null
+est null
+un hotel-marque-B
+Formule hotel-marque-I
+Un hotel-marque-I
+aussi null
+
+et null
+vous null
+avez null
+un hotel-marque-B
+Formule hotel-marque-I
+Un hotel-marque-I
+à localisation-ville-B
+Moulins localisation-ville-I
+
+d'accord reponse-B
+ils lienRef-coRef-B
+ont null
+douze nombre-chambre-disponible-B
+chambres nombre-chambre-disponible-I
+de nombre-chambre-disponible-I
+disponibles nombre-chambre-disponible-I
+
+d'accord reponse-B
+
+euh null
+oui reponse-B
+
+d'accord reponse-B
+dans null
+chaque objetBD-B
+hôtel objetBD-I
+hein null
+
+ok reponse-B
+euh null
+qu' null
+est-ce null
+que null
+je null
+voulais null
+dire null
+il null
+y null
+a null
+les objet-B
+parkings objet-I
+pour null
+ces null
+dans null
+ces lienRef-coRef-B
+hôtels-là objetBD-B
+
+oui reponse-B
+
+d'accord reponse-B
+
+et null
+les hotel-services-B
+petits hotel-services-I
+déjeuners hotel-services-I
+sont hotel-services-I
+compris hotel-services-I
+
+hum null
+
+oui reponse-B
+est-ce null
+que null
+les hotel-services-B
+les hotel-services-I
+petits hotel-services-I
+déjeuners hotel-services-I
+sont hotel-services-I
+compris hotel-services-I
+dans null
+les lienRef-coRef-B
+chambres objet-B
+
+d'accord reponse-B
+je null
+vous null
+remercie null
+
+au null
+revoir null
+
+euh null
+alors null
+ce command-tache-B
+serait command-tache-I
+pour command-tache-I
+euh command-tache-I
+réserver command-tache-I
+euh null
+une nombre-chambre-B
+chambre nombre-chambre-I
+enfin nombre-chambre-I
+trois nombre-chambre-I
+chambres chambre-type-B
+pour chambre-type-I
+une chambre-type-I
+personne chambre-type-I
+euh null
+pour rang-temps-B
+la rang-temps-I
+deuxième rang-temps-I
+semaine temps-unite-B
+de temps-mois-B
+mars temps-mois-I
+euh null
+hum null
+enfin null
+le rang-temps-B
+deuxième rang-temps-I
+week-end temps-unite-B
+de temps-mois-B
+mars temps-mois-I
+en null
+fait null
+non null
+le rang-temps-B
+deuxième rang-temps-I
+week-end temps-unite-B
+de temps-mois-B
+mars temps-mois-I
+euh null
+à localisation-ville-B
+Bourges localisation-ville-I
+et connectProp-B
+là null
+il null
+faudrait null
+bon null
+il null
+y null
+a null
+deux null
+exigences null
+que null
+ça null
+soit null
+pas localisation-distanceRelative-B
+trop localisation-distanceRelative-I
+près localisation-distanceRelative-I
+de localisation-distanceRelative-I
+l' localisation-lieuRelatif-B
+autoroute localisation-lieuRelatif-I
+et connectProp-B
+euh null
+éventuellement null
+que null
+ce null
+soit null
+près localisation-distanceRelative-B
+d' localisation-distanceRelative-I
+un localisation-lieuRelatif-B
+restaurant localisation-lieuRelatif-I
+euh localisation-lieuRelatif-I
+de localisation-lieuRelatif-I
+cuisine localisation-lieuRelatif-I
+locale localisation-lieuRelatif-I
+éventuellement null
+voilà null
+
+oui reponse-B
+
+alors null
+il null
+faudrait null
+que null
+ce null
+soit null
+euh null
+trois nombre-chambre-B
+chambres chambre-type-B
+pour chambre-type-I
+une chambre-type-I
+personne chambre-type-I
+et connectProp-B
+que null
+ce null
+soit null
+euh null
+pas paiement-montantQualitatif-B
+trop paiement-montantQualitatif-I
+cher paiement-montantQualitatif-I
+euh null
+donc null
+enfin null
+d' comparatif-paiement-B
+environs comparatif-paiement-I
+de comparatif-paiement-I
+soixante paiement-montant-entier-B
+quinze paiement-montant-entier-I
+euros paiement-monnaie-B
+si null
+possible null
+
+ben null
+là lienRef-coRef-B
+où null
+c' null
+est null
+soixante paiement-montant-entier-B
+dix paiement-montant-entier-I
+euros paiement-monnaie-B
+
+euh null
+oui reponse-B
+est-ce null
+que null
+enfin null
+est-ce null
+que null
+c' null
+est null
+pas localisation-distanceRelative-B
+trop localisation-distanceRelative-I
+près localisation-distanceRelative-I
+de localisation-distanceRelative-I
+l' localisation-lieuRelatif-B
+autoroute localisation-lieuRelatif-I
+et connectProp-B
+est-ce null
+qu' null
+il null
+y null
+a null
+bien null
+un localisation-lieuRelatif-B
+restaurant localisation-lieuRelatif-I
+à localisation-distanceRelative-B
+côté localisation-distanceRelative-I
+ou null
+pas null
+
+bon null
+c' null
+est null
+bien null
+et null
+euh null
+autre command-tache-B
+question command-tache-I
+est-ce null
+que null
+ces lienRef-coRef-B
+chambres objet-B
+sont null
+non chambre-fumeur-B
+fumeurs chambre-fumeur-I
+
+d'accord reponse-B
+mais null
+très null
+bien null
+
+euh null
+oui reponse-B
+parfait null
+
+euh null
+non reponse-B
+ça null
+va null
+merci null
+beaucoup null
+
+au null
+revoir null
+
+euh null
+alors null
+ce command-tache-B
+serait command-tache-I
+pour command-tache-I
+réserver command-tache-I
+hum null
+euh null
+une nombre-chambre-B
+une nombre-chambre-I
+chambre chambre-type-B
+double chambre-type-I
+si null
+possible null
+euh null
+la rang-temps-B
+deuxième rang-temps-I
+semaine temps-unite-B
+de temps-mois-B
+novembre temps-mois-I
+euh null
+à localisation-ville-B
+Paris localisation-ville-I
+euh null
+dans localisation-lieuRelatif-B
+la localisation-lieuRelatif-I
+banlieue localisation-lieuRelatif-I
+sud localisation-cardinal-B
+voilà null
+
+euh null
+oui reponse-B
+une nombre-chambre-B
+chambre chambre-type-B
+double chambre-type-I
+si null
+possible null
+
+euh null
+y null
+a null
+p null
+c' null
+est null
+pas null
+possible null
+l' hotel-marque-B
+hôtel hotel-marque-I
+Novotel hotel-marque-I
+
+ah null
+euh null
+ben null
+c' null
+est null
+très null
+bien null
+est-ce null
+que null
+enfin null
+qu' null
+est null
+ce null
+qu' null
+il null
+y null
+a null
+dans null
+l' lienRef-coRef-B
+hôtel objetBD-B
+je null
+voudrais null
+savoir null
+comme null
+euh null
+comme null
+services objet-B
+
+enfin null
+j' null
+aurais null
+voulu null
+savoir null
+s' null
+il null
+y null
+a null
+piscine hotel-services-B
+jacuzzi hotel-services-B
+euh null
+des null
+des null
+activités null
+dans null
+ce null
+genre-là null
+
+bon null
+euh null
+et null
+c' null
+est null
+quoi null
+les lienRef-coRef-B
+prix objet-B
+
+l' nom-hotel-B
+hôtel nom-hotel-I
+du nom-hotel-I
+mont nom-hotel-I
+c' null
+est null
+celui null
+qui null
+est null
+Novotel hotel-marque-B
+c' command-dial-B
+est command-dial-I
+ça command-dial-I
+
+bon null
+euh null
+et null
+moi null
+j' null
+aurais null
+préféré null
+cent nombre-reservation-B
+vingt nombre-reservation-I
+ben null
+non reponse-B
+mais reponse-I
+oui reponse-I
+ça null
+va null
+alors command-tache-B
+je command-tache-I
+prends command-tache-I
+je command-tache-I
+fais command-tache-I
+quand command-tache-I
+même command-tache-I
+la command-tache-I
+réservation command-tache-I
+
+euh null
+ben null
+oui reponse-B
+oui reponse-I
+alors null
+
+ben null
+je null
+voudrais null
+celui lienRef-elsEns-B
+qui null
+est null
+le localisation-distanceRelative-B
+plus localisation-distanceRelative-I
+près localisation-distanceRelative-I
+des objet-B
+services objet-I
+euh null
+tels null
+que null
+la hotel-services-B
+piscine hotel-services-I
+jacuzzi hotel-services-B
+et connectProp-B
+le objet-B
+prix objet-I
+de comparatif-paiement-B
+plus comparatif-paiement-I
+ou comparatif-paiement-I
+moins comparatif-paiement-I
+cent paiement-montant-entier-B
+vingt paiement-montant-entier-I
+euros paiement-monnaie-B
+c' null
+est null
+possible null
+
+euh null
+oui reponse-B
+
+euh null
+je reponse-B
+sais reponse-I
+pas reponse-I
+l' nombre-B
+un nombre-I
+des lienRef-coRef-B
+deux nombre-B
+si null
+possible null
+je reponse-B
+sais reponse-I
+pas reponse-I
+non reponse-B
+euh null
+
+n' null
+importe null
+enfin null
+l' nombre-B
+un nombre-I
+des lienRef-coRef-B
+deux nombre-B
+c' reponse-B
+est reponse-I
+équivalent reponse-I
+
+oui reponse-B
+très null
+bien null
+
+euh null
+non reponse-B
+ça null
+va null
+merci null
+
+au null
+revoir null
+
+ah null
+alors null
+ce command-tache-B
+serait command-tache-I
+pour command-tache-I
+euh command-tache-I
+faire command-tache-I
+une command-tache-I
+réservation command-tache-I
+euh null
+alors null
+c' null
+est null
+cinq nombre-chambre-B
+il nombre-chambre-I
+faudrait nombre-chambre-I
+cinq nombre-chambre-I
+chambres chambre-type-B
+doubles chambre-type-I
+voilà null
+à localisation-ville-B
+Paris localisation-ville-I
+ou connectAttr-B
+peut-être null
+proche localisation-distanceRelative-B
+de localisation-distanceRelative-I
+Sceaux localisation-ville-B
+en null
+fait null
+c'est null
+à null
+l' null
+occasion null
+du null
+festival evenement-B
+de evenement-I
+l' evenement-I
+orangerie evenement-I
+de evenement-I
+Sceaux evenement-I
+donc connectProp-B
+ce null
+serait null
+bien null
+si null
+c' null
+était null
+dans objet-B
+ce objet-I
+coin-là objet-I
+euh null
+du temps-date-B
+treize temps-date-I
+au temps-date-B
+quatorze temps-date-I
+juillet temps-date-I
+voilà null
+
+ben null
+eh null
+en null
+fait null
+c' null
+est null
+c' null
+est null
+c'est null
+ça null
+serait null
+intéressant null
+de null
+savoir null
+s' null
+ils lienRef-coRef-B
+sont null
+près localisation-distanceRelative-B
+du localisation-distanceRelative-I
+euh null
+festival evenement-B
+de evenement-I
+l' evenement-I
+orangerie evenement-I
+de evenement-I
+Sceaux evenement-I
+
+bon null
+ben null
+très null
+bien null
+alors null
+est-ce null
+qu' null
+il null
+y null
+a null
+cinq nombre-chambre-B
+chambres chambre-type-B
+doubles chambre-type-I
+libres nombre-chambre-disponible-B
+pour null
+ces lienRef-coRef-B
+dates-là objet-B
+
+euh null
+en null
+fait null
+il null
+faudrait null
+que null
+je null
+sache null
+les lienRef-coRef-B
+prix objet-B
+euh null
+vous null
+avez null
+les lienRef-coRef-B
+prix objet-B
+de nombre-chambre-B
+d' nombre-chambre-I
+une nombre-chambre-I
+chambre chambre-type-B
+double chambre-type-I
+dans objetBD-B
+un objetBD-I
+hôtel objetBD-I
+
+et null
+dans null
+les lienRef-coRef-B
+hôtels objetBD-B
+
+ben null
+je null
+prends null
+le lienRef-elsEns-B
+premier rang-B
+alors null
+à null
+soixante paiement-montant-entier-B
+dix paiement-montant-entier-I
+euros paiement-monnaie-B
+
+euh null
+oui reponse-B
+éventuellement reponse-B
+
+oui reponse-B
+euh null
+est-ce null
+que null
+est-ce null
+que null
+ce null
+sont null
+dans null
+un objet-B
+quartier objet-I
+où null
+il null
+y null
+a null
+des localisation-lieuRelatif-B
+restaurants localisation-lieuRelatif-I
+et localisation-lieuRelatif-B
+les localisation-lieuRelatif-I
+cafés localisation-lieuRelatif-I
+où localisation-lieuRelatif-B
+c' localisation-lieuRelatif-I
+est localisation-lieuRelatif-I
+possible localisation-lieuRelatif-I
+de localisation-lieuRelatif-I
+sortir localisation-lieuRelatif-I
+ou connectProp-B
+euh connectProp-I
+ou connectProp-I
+c' null
+est null
+plutôt null
+un localisation-lieuRelatif-B
+quartier localisation-lieuRelatif-I
+calme localisation-lieuRelatif-I
+
+bon null
+mais null
+ça null
+va null
+alors null
+je command-tache-B
+vais command-tache-I
+faire command-tache-I
+la command-tache-I
+réservation command-tache-I
+
+non reponse-B
+ça null
+va null
+très null
+bien null
+merci null
+
+au null
+revoir null
+
+allô null
+je command-tache-B
+souhaite command-tache-I
+une command-tache-I
+réservation command-tache-I
+pour nombre-chambre-B
+euh nombre-chambre-I
+une nombre-chambre-I
+pour nombre-chambre-I
+une nombre-chambre-I
+une nombre-chambre-I
+chambre nombre-chambre-I
+pour localisation-ville-B
+Rennes localisation-ville-I
+début temps-plageRelative-B
+septembre temps-mois-B
+deux nombre-chambre-B
+chambres nombre-chambre-I
+pour localisation-ville-B
+Rennes localisation-ville-I
+début temps-plageRelative-B
+septembre temps-mois-B
+minimum comparatif-paiement-B
+au comparatif-paiement-I
+maximum comparatif-paiement-I
+cent paiement-montant-entier-B
+cinquante paiement-montant-entier-I
+euros paiement-monnaie-B
+dans localisation-lieuRelatif-B
+un localisation-lieuRelatif-I
+quartier localisation-lieuRelatif-I
+touristique localisation-lieuRelatif-I
+
+oui reponse-B
+
+oui reponse-B
+
+oui reponse-B
+
+oui reponse-B
+
+la lienRef-elsEns-B
+première rang-B
+chambre objet-B
+à null
+cent paiement-montant-entier-B
+cinquante paiement-montant-entier-I
+euros paiement-monnaie-B
+
+allô null
+
+euh null
+la lienRef-elsEns-B
+première rang-B
+chambre objet-B
+
+euh null
+s paiement-montant-entier-B
+mille paiement-montant-entier-I
+huit paiement-montant-entier-I
+cents paiement-montant-entier-I
+euros paiement-monnaie-B
+attendez command-dial-B
+hum null
+mille paiement-montant-entier-B
+huit paiement-montant-entier-I
+cents paiement-montant-entier-I
+euros paiement-monnaie-B
+c' null
+est null
+non reponse-B
+c' null
+est null
+trop comparatif-paiement-B
+cher comparatif-paiement-I
+
+oui reponse-B
+tout reponse-I
+à reponse-I
+fait reponse-I
+ah reponse-I
+oui reponse-I
+oui reponse-I
+tout reponse-I
+à reponse-I
+fait reponse-I
+s reponse-I
+oui reponse-I
+oui reponse-I
+oui reponse-I
+je command-dial-B
+confirme command-dial-I
+
+d'accord reponse-B
+
+non reponse-B
+merci null
+par connectProp-B
+contre connectProp-I
+si connectProp-I
+par connectProp-I
+contre connectProp-I
+je null
+voudrais null
+savoir null
+je null
+je null
+je null
+suis null
+bien null
+dans localisation-lieuRelatif-B
+le localisation-lieuRelatif-I
+quartier localisation-lieuRelatif-I
+touristique localisation-lieuRelatif-I
+
+d'accord reponse-B
+ben null
+c' null
+est null
+parfait null
+
+au null
+revoir null
+
+alors null
+je null
+voudrais null
+désirais null
+avoir null
+une nombre-chambre-B
+chambre nombre-chambre-I
+pour localisation-ville-B
+Paris localisation-ville-I
+pour sejour-nbNuit-B
+quatre sejour-nbNuit-I
+jours sejour-nbNuit-I
+euh null
+l temps-axeTps-B
+le temps-axeTps-I
+premier temps-axeTps-I
+jour temps-unite-B
+c' null
+est null
+ça null
+serait null
+en temps-mois-B
+janvier temps-mois-I
+euh temps-mois-I
+au temps-mois-I
+je temps-mois-I
+je temps-mois-I
+re temps-mois-I
+au temps-mois-I
+janvier temps-mois-I
+euh null
+j' null
+aimerais null
+bien null
+avoir null
+une nombre-chambre-B
+chambre chambre-type-B
+double chambre-type-I
+euh null
+max comparatif-paiement-B
+hum comparatif-paiement-I
+minimum comparatif-paiement-I
+quatre paiement-montant-entier-B
+vingt paiement-montant-entier-I
+dix paiement-montant-entier-I
+euros paiement-monnaie-B
+par null
+jour null
+et connectProp-B
+euh null
+avec hotel-services-B
+piscine hotel-services-I
+et hotel-services-B
+restaurant hotel-services-I
+et null
+situé null
+au null
+voilà null
+
+oui reponse-B
+
+oui reponse-B
+avec objet-B
+chambre objet-I
+une nombre-chambre-B
+chambre chambre-type-B
+double chambre-type-I
+
+avec hotel-services-B
+piscine hotel-services-I
+et hotel-services-B
+restaurant hotel-services-I
+
+oui reponse-B
+
+euh null
+y null
+a-t-il null
+la hotel-services-B
+piscine hotel-services-I
+et hotel-services-B
+les hotel-services-I
+restaurants hotel-services-I
+le hotel-services-I
+restaurant hotel-services-I
+
+alors null
+dispose-t- null
+il lienRef-coRef-B
+d' hotel-services-B
+une hotel-services-I
+piscine hotel-services-I
+
+et null
+à null
+l' lienRef-coDom-B
+autre lienRef-coDom-I
+
+ben command-tache-B
+je command-tache-I
+réserverai command-tache-I
+dans null
+le lienRef-elsEns-B
+premier rang-reservation-B
+mais connectProp-B
+par connectProp-I
+contre connectProp-I
+et null
+c' null
+était null
+bien null
+c' null
+est null
+bien null
+une nombre-chambre-B
+chambre chambre-type-B
+double chambre-type-I
+y null
+a-t-il null
+bien null
+une nombre-chambre-B
+chambre chambre-type-B
+double chambre-type-I
+à nom-hotel-B
+l' nom-hotel-I
+hôtel nom-hotel-I
+René nom-hotel-I
+
+d'accord reponse-B
+euh reponse-I
+d'accord reponse-I
+ben command-tache-B
+je command-tache-I
+vais command-tache-I
+réserver command-tache-I
+pour null
+le lienRef-elsEns-B
+premier rang-hotel-B
+hôtel objetBD-B
+
+ah reponse-B
+non reponse-I
+
+euh null
+non reponse-B
+je command-tache-B
+ne command-tache-I
+souhaite command-tache-I
+pas command-tache-I
+d' command-tache-I
+autres command-tache-I
+renseignements command-tache-I
+mais connectProp-B
+par connectProp-I
+contre connectProp-I
+euh null
+je command-tache-B
+je command-tache-I
+ne command-tache-I
+souhaite command-tache-I
+pas command-tache-I
+réserver command-tache-I
+parce connectProp-B
+que connectProp-I
+je null
+voulais null
+m comparatif-paiement-B
+le comparatif-paiement-I
+maximum comparatif-paiement-I
+quatre paiement-montant-entier-B
+vingt paiement-montant-entier-I
+dix paiement-montant-entier-I
+euros paiement-monnaie-B
+donc connectProp-B
+ça reponse-B
+ne reponse-I
+me reponse-I
+convient reponse-I
+pas reponse-I
+en connectProp-B
+plus connectProp-I
+il null
+y null
+a null
+pas hotel-services-B
+de hotel-services-I
+piscine hotel-services-I
+
+merci null
+beaucoup null
+
+au null
+revoir null
+
+alors null
+je command-tache-B
+souhaite command-tache-I
+faire command-tache-I
+souhaite command-tache-I
+faire command-tache-I
+une command-tache-I
+réservation command-tache-I
+pour localisation-ville-B
+Paris localisation-ville-I
+pendant temps-axeTps-B
+quatre sejour-nbNuit-B
+jours sejour-nbNuit-I
+euh null
+en temps-mois-B
+janvier temps-mois-I
+quatre sejour-nbNuit-B
+jours sejour-nbNuit-I
+en temps-mois-B
+janvier temps-mois-I
+euh null
+et connectProp-B
+je null
+voudrais null
+une nombre-chambre-B
+chambre nombre-chambre-I
+dans localisation-arrondissement-B
+le localisation-arrondissement-I
+dix localisation-arrondissement-I
+huitième localisation-arrondissement-I
+arrondissement localisation-arrondissement-I
+une nombre-chambre-B
+chambre chambre-type-B
+double chambre-type-I
+avec hotel-services-B
+piscine hotel-services-I
+et hotel-services-B
+restaurant hotel-services-I
+et connectProp-B
+maxi comparatif-paiement-B
+quatre paiement-montant-entier-B
+vingt paiement-montant-entier-I
+dix paiement-montant-entier-I
+euros paiement-monnaie-B
+par null
+jour null
+
+oui reponse-B
+pendant temps-axeTps-B
+quatre sejour-nbNuit-B
+jours sejour-nbNuit-I
+dans localisation-arrondissement-B
+le localisation-arrondissement-I
+dix localisation-arrondissement-I
+huitième localisation-arrondissement-I
+arrondissement localisation-arrondissement-I
+avec hotel-services-B
+piscine hotel-services-I
+et hotel-services-B
+restaurant hotel-services-I
+une nombre-chambre-B
+chambre chambre-type-B
+double chambre-type-I
+dans localisation-arrondissement-B
+le localisation-arrondissement-I
+dix localisation-arrondissement-I
+huitième localisation-arrondissement-I
+
+oui reponse-B
+
+oui reponse-B
+
+est-ce null
+que null
+l' nom-hotel-B
+hôtel nom-hotel-I
+des nom-hotel-I
+vignes nom-hotel-I
+euh null
+y null
+a-t-il null
+la hotel-services-B
+piscine hotel-services-I
+et hotel-services-B
+le hotel-services-I
+restaurant hotel-services-I
+
+dispose-t- null
+il lienRef-coRef-B
+
+dispose-t- null
+il lienRef-coRef-B
+d' hotel-services-B
+une hotel-services-I
+piscine hotel-services-I
+
+d'accord reponse-B
+et connectProp-B
+dans null
+l' lienRef-coDom-B
+autre lienRef-coDom-I
+y null
+a-t-il null
+piscine hotel-services-B
+et hotel-services-B
+restaurant hotel-services-I
+
+hum null
+hum null
+d'accord reponse-B
+y null
+a-t-il null
+une nombre-chambre-B
+chambre chambre-type-B
+double chambre-type-I
+
+d'accord reponse-B
+là null
+je command-tache-B
+vais command-tache-I
+réserver command-tache-I
+le lienRef-coRef-B
+le lienRef-coRef-I
+prix objet-B
+est null
+de null
+de null
+combien null
+
+par null
+jour temps-unite-B
+
+et null
+ben null
+je command-tache-B
+vais command-tache-I
+prendre command-tache-I
+le lienRef-elsEns-B
+le lienRef-elsEns-I
+deuxième rang-hotel-B
+hôtel objetBD-B
+
+cet lienRef-coRef-B
+hôtel objetBD-B
+
+je command-tache-B
+souhaite command-tache-I
+réserver command-tache-I
+euh null
+le lienRef-elsEns-B
+deuxième rang-hotel-B
+hôtel objetBD-B
+que null
+vous null
+m' null
+avez null
+dit null
+où null
+qui null
+a null
+tous null
+les lienRef-coRef-B
+critères objet-B
+qui null
+correspond null
+à null
+ma lienRef-coRef-B
+à lienRef-coRef-I
+ma lienRef-coRef-I
+à lienRef-coRef-I
+ma lienRef-coRef-I
+demande objet-B
+
+non reponse-B
+
+je command-tache-B
+ne command-tache-I
+souhaite command-tache-I
+pas command-tache-I
+d' command-tache-I
+autres command-tache-I
+renseignements command-tache-I
+je null
+vous null
+
+remercie null
+
+au null
+revoir null
+
+cent nombre-B
+soixante nombre-I
+quatorze nombre-I
+
+réserver command-tache-B
+une nombre-chambre-B
+chambre nombre-chambre-I
+à command-tache-B
+n command-tache-I
+n command-tache-I
+réserver command-tache-I
+à localisation-ville-B
+Nantes localisation-ville-I
+les nombre-temps-B
+trois nombre-temps-I
+derniers temps-axeTps-B
+jours temps-unite-B
+de temps-mois-B
+mars temps-mois-I
+
+oui reponse-B
+
+six nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+
+six nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+aux comparatif-paiement-B
+alentours comparatif-paiement-I
+de comparatif-paiement-I
+quatre paiement-montant-entier-B
+vingts paiement-montant-entier-I
+euros paiement-monnaie-B
+
+non reponse-B
+je null
+veux null
+aux comparatif-paiement-B
+environs comparatif-paiement-I
+de comparatif-paiement-I
+quatre paiement-montant-entier-B
+vingts paiement-montant-entier-I
+euros paiement-monnaie-B
+
+donc null
+lequel null
+vous null
+me null
+dites null
+recommencez command-dial-B
+
+oui reponse-B
+bon null
+celui-là lienRef-elsEns-B
+celui-là lienRef-elsEns-I
+
+donc null
+le lienRef-elsEns-B
+premier rang-B
+
+six nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+
+alors null
+j' null
+ai null
+un hotel-services-B
+chat hotel-services-I
+et connectProp-B
+je null
+veux null
+un hotel-services-B
+restaurant hotel-services-I
+
+je command-dial-B
+confirme command-dial-I
+
+non reponse-B
+c' null
+est null
+bon null
+
+merci null
+
+oui null
+bonjour null
+je command-tache-B
+désirais command-tache-I
+réserver command-tache-I
+deux nombre-chambre-B
+chambres chambre-type-B
+doubles chambre-type-I
+à localisation-ville-B
+Colmar localisation-ville-I
+pour rang-temps-B
+le rang-temps-I
+quatrième rang-temps-I
+jour temps-unite-B
+de temps-mois-B
+janvier temps-mois-I
+des objet-B
+chambres objet-I
+euh null
+à null
+cent paiement-montant-entier-B
+euros paiement-monnaie-B
+environ comparatif-paiement-B
+avec chambre-equipement-B
+une chambre-equipement-I
+baignoire chambre-equipement-I
+et chambre-equipement-B
+un chambre-equipement-I
+accès chambre-equipement-I
+à chambre-equipement-I
+internet chambre-equipement-I
+s' null
+il null
+vous null
+plaît null
+
+pour rang-temps-B
+le rang-temps-I
+quatrième rang-temps-I
+jour temps-unite-B
+de temps-mois-B
+janvier temps-mois-I
+un nombre-temps-B
+seul nombre-temps-I
+jour temps-unite-B
+le rang-temps-B
+quatrième rang-temps-I
+jour temps-unite-B
+
+merci null
+
+oui reponse-B
+
+euh null
+je null
+voudrais null
+simplement null
+savoir null
+s' null
+il null
+y null
+a null
+baignoires chambre-equipement-B
+et chambre-equipement-B
+surtout chambre-equipement-I
+un chambre-equipement-I
+accès chambre-equipement-I
+à chambre-equipement-I
+internet chambre-equipement-I
+
+alors null
+c' null
+est null
+parfait null
+à null
+cent paiement-montant-entier-B
+euros paiement-monnaie-B
+environ comparatif-paiement-B
+la null
+chambre null
+
+ah null
+mais null
+c' null
+est null
+parfait null
+
+c' reponse-B
+est reponse-I
+entendu reponse-I
+
+je command-tache-B
+réserve command-tache-I
+
+deux nombre-chambre-B
+chambres nombre-chambre-I
+
+merci null
+
+c'est null
+parfait null
+
+oui reponse-B
+oui reponse-I
+tout reponse-I
+à reponse-I
+fait reponse-I
+
+oui reponse-B
+
+tout reponse-B
+à reponse-I
+fait reponse-I
+
+non reponse-B
+s null
+ce null
+sera null
+tout null
+
+je null
+vous null
+remercie null
+
+merci null
+au null
+revoir null
+madame null
+
+bonjour null
+madame null
+je command-tache-B
+désirais command-tache-I
+réserver command-tache-I
+des objet-B
+chambres objet-I
+à localisation-ville-B
+Paris localisation-ville-I
+près localisation-distanceRelative-B
+du localisation-distanceRelative-I
+centre localisation-lieuRelatif-B
+Pompidou localisation-lieuRelatif-I
+s' null
+il null
+vous null
+plaît null
+
+tout reponse-B
+à reponse-I
+fait reponse-I
+
+le temps-axeTps-B
+dernier temps-axeTps-I
+week-end temps-unite-B
+du temps-mois-B
+mois temps-mois-I
+d' temps-mois-I
+août temps-mois-I
+
+merci null
+
+alors null
+je null
+désirais null
+que null
+cet null
+hôtel null
+euh null
+ces lienRef-coRef-B
+chambres objet-B
+coûtent null
+cent paiement-montant-entier-B
+vingt paiement-montant-entier-I
+euros paiement-monnaie-B
+environ comparatif-paiement-B
+la null
+chambre null
+et connectProp-B
+je null
+souhaiterais null
+également null
+le objet-B
+parking objet-I
+et hotel-services-B
+la hotel-services-I
+piscine hotel-services-I
+s' null
+il null
+vous null
+plaît null
+
+ah null
+je null
+désirais null
+alors null
+un nombre-hotel-B
+autre lienRef-coDom-B
+hôtel objetBD-B
+
+je null
+désirais null
+le null
+
+ah null
+c' null
+est null
+parfait null
+c' null
+est null
+parfait null
+et null
+quel null
+est null
+le lienRef-coRef-B
+montant objet-B
+de objet-I
+chaque objet-I
+chambre objet-I
+
+des chambre-type-B
+chambres chambre-type-I
+doubles chambre-type-I
+s' null
+il null
+vous null
+plaît null
+cinq nombre-chambre-B
+chambres chambre-type-B
+doubles chambre-type-I
+
+ah null
+c' null
+est null
+parfait null
+c' null
+est null
+parfait null
+
+oui reponse-B
+je command-tache-B
+désire command-tache-I
+réserver command-tache-I
+dans null
+cet lienRef-coRef-B
+hôtel objetBD-B
+
+oui reponse-B
+
+merci null
+madame null
+
+ah command-tache-B
+alors command-tache-I
+qu' command-tache-I
+avez-vous command-tache-I
+d' command-tache-I
+autre command-tache-I
+à command-tache-I
+me command-tache-I
+proposer command-tache-I
+
+et null
+il null
+y null
+a-t-il null
+parking objet-B
+parking objet-I
+et hotel-services-B
+piscine hotel-services-I
+
+ah null
+je null
+suis null
+bien null
+ennuyée null
+car null
+je null
+désirais null
+avoir null
+les lienRef-coRef-B
+deux nombre-B
+
+et null
+bien null
+écoutez null
+je null
+prends null
+celui lienRef-elsEns-B
+avec objet-B
+parking objet-I
+
+oui reponse-B
+c' null
+est null
+ça null
+
+hein reponse-B
+oui reponse-I
+évidemment reponse-I
+s connectProp-B
+étant connectProp-I
+donné connectProp-I
+qu' null
+il null
+y null
+a null
+pas hotel-services-B
+la hotel-services-I
+piscine hotel-services-I
+oui reponse-B
+et reponse-I
+bien reponse-I
+d'accord reponse-I
+entendu reponse-I
+
+merci null
+
+oui reponse-B
+
+oui reponse-B
+oui reponse-I
+oui reponse-I
+tout reponse-I
+à reponse-I
+fait reponse-I
+puisque connectProp-B
+vous null
+n' null
+avez null
+pas hotel-services-B
+avec hotel-services-I
+piscine hotel-services-I
+oui reponse-B
+oui reponse-I
+tout reponse-I
+à reponse-I
+fait reponse-I
+
+merci null
+
+oui reponse-B
+
+entendu reponse-B
+madame null
+
+tout reponse-B
+à reponse-I
+fait reponse-I
+
+non reponse-B
+non reponse-I
+non reponse-I
+ça null
+ira null
+
+au null
+revoir null
+madame null
+
+oui null
+bonjour null
+j' command-tache-B
+aurais command-tache-I
+voulu command-tache-I
+réserver command-tache-I
+trois nombre-chambre-B
+chambres chambre-type-B
+pour chambre-type-I
+une chambre-type-I
+personne chambre-type-I
+le comparatif-paiement-B
+moins comparatif-paiement-I
+cher comparatif-paiement-I
+possible comparatif-paiement-I
+à localisation-ville-B
+Arles localisation-ville-I
+pendant temps-axeTps-B
+les evenement-B
+rencontres evenement-I
+de evenement-I
+foot evenement-I
+
+hein null
+hein null
+euh null
+pendant temps-axeTps-B
+les objet-B
+dates objet-I
+du temps-date-B
+six temps-date-I
+au temps-date-B
+quatorze temps-date-I
+re temps-date-I
+quatorze temps-date-I
+juillet temps-date-I
+euh null
+est-ce null
+qu' null
+il null
+y null
+a null
+un objet-B
+hôtel objet-I
+qui objet-I
+a objet-I
+des objet-I
+chambres objet-I
+
+trois nombre-chambre-B
+chambres chambre-type-B
+pour chambre-type-I
+une chambre-type-I
+personne chambre-type-I
+
+d'accord reponse-B
+donc connectProp-B
+du null
+hum null
+et null
+c' null
+est null
+les lienRef-elsEns-B
+moins comparatif-paiement-B
+chères comparatif-paiement-I
+qu' null
+il null
+y null
+ait null
+
+et null
+y null
+a-t-il null
+des objet-B
+chambres objet-I
+de objet-I
+libres objet-I
+du temps-date-B
+six temps-date-I
+au temps-date-B
+quatorze temps-date-I
+juillet temps-date-I
+
+d'accord reponse-B
+euh null
+est-ce null
+que null
+le null
+est-ce null
+que null
+le lienRef-coRef-B
+l' lienRef-coRef-I
+hôtel hotel-etat-complet-B
+qui hotel-etat-complet-I
+a hotel-etat-complet-I
+des hotel-etat-complet-I
+chambres hotel-etat-complet-I
+du temps-date-B
+six temps-date-I
+au temps-date-B
+quatorze temps-date-I
+juillet temps-date-I
+libres hotel-etat-complet-B
+euh null
+est null
+au localisation-lieuRelatif-B
+centre localisation-lieuRelatif-I
+ville localisation-lieuRelatif-I
+
+hum null
+hum null
+d'accord reponse-B
+et connectProp-B
+vous command-dial-B
+pouvez command-dial-I
+me command-dial-I
+répéter command-dial-I
+le lienRef-coRef-B
+prix objet-B
+
+d'accord reponse-B
+et null
+bien null
+je command-tache-B
+voudrais command-tache-I
+réserver command-tache-I
+trois nombre-chambre-B
+chambres chambre-type-B
+pour chambre-type-I
+une chambre-type-I
+personne chambre-type-I
+du temps-date-B
+six temps-date-I
+au temps-date-B
+quatorze temps-date-I
+juillet temps-date-I
+
+non reponse-B
+je null
+vous null
+remercie null
+
+au null
+revoir null
+
+euh null
+réservation command-tache-B
+d' objetBD-B
+hôtel objetBD-I
+
+Colmar localisation-ville-B
+
+les nombre-temps-B
+quatre nombre-temps-I
+premiers temps-axeTps-B
+jours temps-unite-B
+de temps-mois-B
+janvier temps-mois-I
+
+obtenir command-tache-B
+des command-tache-I
+informations command-tache-I
+supplémentaires command-tache-I
+sur null
+les lienRef-coRef-B
+chambres chambre-type-B
+doubles chambre-type-I
+s' null
+il null
+vous null
+plaît null
+
+euh null
+je null
+souhaiterais null
+avoir null
+savoir null
+s' null
+il null
+y null
+a null
+deux nombre-chambre-B
+chambres chambre-type-B
+doubles chambre-type-I
+deux nombre-chambre-B
+chambres chambre-type-B
+doubles chambre-type-I
+avec chambre-equipement-B
+une chambre-equipement-I
+baignoire chambre-equipement-I
+et chambre-equipement-B
+accès chambre-equipement-I
+internet chambre-equipement-I
+pour null
+cent paiement-montant-entier-B
+euros paiement-monnaie-B
+
+le lienRef-elsEns-B
+deuxième rang-hotel-B
+hôtel objetBD-B
+c' connectProp-B
+est-à-dire connectProp-I
+euh null
+le lienRef-elsEns-B
+dernier rang-hotel-B
+que null
+vous null
+venez null
+de null
+me null
+mentionner null
+
+deux nombre-chambre-B
+chambres chambre-type-B
+doubles chambre-type-I
+donc null
+une chambre-equipement-B
+baignoire chambre-equipement-I
+et chambre-equipement-B
+accès chambre-equipement-I
+à chambre-equipement-I
+internet chambre-equipement-I
+euh null
+pour null
+soixante paiement-montant-entier-B
+euros paiement-monnaie-B
+si null
+j' null
+ai null
+bonne null
+mémoire null
+
+si connectProp-B
+c' null
+est null
+avec null
+une chambre-equipement-B
+baignoire chambre-equipement-I
+et chambre-equipement-B
+accès chambre-equipement-I
+internet chambre-equipement-I
+je command-tache-B
+réserve command-tache-I
+
+non reponse-B
+
+au null
+revoir null
+
+bonjour null
+j' command-tache-B
+aimerais command-tache-I
+avoir command-tache-I
+réserver command-tache-I
+un nombre-temps-B
+un nombre-temps-I
+week-end temps-unite-B
+en temps-mois-B
+avril temps-mois-I
+alors null
+c' connectProp-B
+est-à-dire connectProp-I
+le rang-temps-B
+troisième rang-temps-I
+week-end temps-unite-B
+d' temps-mois-B
+avril temps-mois-I
+à localisation-ville-B
+Cannes localisation-ville-I
+alors null
+pour sejour-nbPersonne-B
+cinq sejour-nbPersonne-I
+personnes sejour-nbPersonne-I
+donc null
+deux nombre-chambre-B
+chambres chambre-type-B
+doubles chambre-type-I
+une nombre-chambre-B
+chambre chambre-type-B
+simple chambre-type-I
+alors null
+j' null
+aimerais null
+euh null
+pour null
+un objet-B
+prix objet-I
+euh null
+un comparatif-paiement-B
+peu comparatif-paiement-I
+moins comparatif-paiement-I
+de comparatif-paiement-I
+cent paiement-montant-entier-B
+euros paiement-monnaie-B
+la null
+chambre null
+et null
+la null
+nuit null
+voi null
+et connectProp-B
+j' null
+aimerais null
+savoir null
+si null
+le hotel-services-B
+petit hotel-services-I
+déjeuner hotel-services-I
+est hotel-services-I
+compris hotel-services-I
+également null
+
+voilà null
+
+c' null
+est null
+ça null
+
+oui reponse-B
+
+merci null
+
+et null
+quel null
+prix objet-B
+
+oui reponse-B
+
+euh null
+pour null
+cent paiement-montant-entier-B
+cinquante paiement-montant-entier-I
+euros paiement-monnaie-B
+pouvez-vous null
+me null
+dire null
+s' null
+il null
+y null
+a null
+une hotel-services-B
+piscine hotel-services-I
+
+oui reponse-B
+
+il null
+y null
+a null
+une hotel-services-B
+piscine hotel-services-I
+bon null
+et null
+bien null
+écoutez null
+euh null
+je null
+crois null
+que null
+je null
+vais null
+prendre null
+j' null
+aurais null
+voulu null
+je null
+ne null
+voudrais null
+pas comparatif-paiement-B
+dépasser comparatif-paiement-I
+cent paiement-montant-entier-B
+euros paiement-monnaie-B
+mais connectProp-B
+euh null
+pour null
+euh null
+pour null
+avec null
+la hotel-services-B
+piscine hotel-services-I
+c' null
+est null
+d'accord reponse-B
+je command-tache-B
+peux command-tache-I
+prendre command-tache-I
+le command-tache-I
+l' command-tache-I
+hôtel command-tache-I
+réserver command-tache-I
+l' nom-hotel-B
+hôtel nom-hotel-I
+de nom-hotel-I
+la nom-hotel-I
+croisette nom-hotel-I
+avec hotel-services-B
+la hotel-services-I
+piscine hotel-services-I
+
+voilà null
+
+c' null
+est null
+ça null
+
+oui reponse-B
+
+alors null
+
+c' null
+est null
+parfait null
+
+voilà null
+merci null
+beaucoup null
+
+alors null
+
+dossier null
+cent nombre-reservation-B
+six nombre-reservation-I
+cent nombre-reservation-I
+cinquante nombre-reservation-I
+cinq nombre-reservation-I
+merci null
+beaucoup null
+
+merci null
+au null
+revoir null
+
+oui null
+bonjour null
+je command-tache-B
+voudrais command-tache-I
+réserver command-tache-I
+un objetBD-B
+hôtel objetBD-I
+à localisation-ville-B
+Manosque localisation-ville-I
+les nombre-temps-B
+trois nombre-temps-I
+premiers temps-axeTps-B
+jours temps-unite-B
+de temps-mois-B
+mai temps-mois-I
+hum null
+en null
+fait null
+ce command-tache-B
+serait command-tache-I
+pour command-tache-I
+réserver command-tache-I
+douze nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+si null
+possible null
+sur chambre-voisine-B
+le chambre-voisine-I
+même chambre-voisine-I
+étage chambre-voisine-I
+et connectProp-B
+avec connectProp-I
+un objet-B
+tarif objet-I
+euh null
+inférieur comparatif-paiement-B
+à comparatif-paiement-I
+quatre paiement-montant-entier-B
+vingt paiement-montant-entier-I
+dix paiement-montant-entier-I
+euros paiement-monnaie-B
+par null
+nuit null
+
+tout reponse-B
+à reponse-I
+fait reponse-I
+madame null
+
+exactement reponse-B
+donc connectProp-B
+douze nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+si null
+c' null
+est null
+possible null
+au chambre-voisine-B
+même chambre-voisine-I
+étage chambre-voisine-I
+et connectProp-B
+également connectProp-I
+que null
+chaque objet-B
+chambre objet-I
+en null
+fait null
+ben null
+que null
+le objet-B
+prix objet-I
+de null
+la null
+nuit null
+soit null
+inférieur comparatif-paiement-B
+à comparatif-paiement-I
+quatre paiement-montant-entier-B
+vingt paiement-montant-entier-I
+dix paiement-montant-entier-I
+euros paiement-monnaie-B
+
+merci null
+
+d'accord reponse-B
+
+alors null
+donc null
+hôtel nom-hotel-B
+de nom-hotel-I
+flore nom-hotel-I
+et nom-hotel-B
+hôtel nom-hotel-I
+de nom-hotel-I
+et nom-hotel-I
+l' nom-hotel-I
+hippodrome nom-hotel-I
+d'accord reponse-B
+vous null
+avez null
+les null
+concernant null
+les lienRef-coRef-B
+chambres objet-B
+est-ce null
+que null
+vous null
+avez null
+de null
+disponibles nombre-chambre-disponible-B
+douze nombre-chambre-disponible-I
+chambres chambre-type-B
+simples chambre-type-I
+ou null
+non null
+pour nombre-temps-B
+les nombre-temps-I
+trois nombre-temps-I
+premiers temps-axeTps-B
+jours temps-unite-B
+de temps-mois-B
+mai temps-mois-I
+
+d'accord reponse-B
+et connectProp-B
+concernant null
+les lienRef-coRef-B
+les lienRef-coRef-I
+tarifs objet-B
+
+soixante paiement-montant-entier-B
+dix paiement-montant-entier-I
+euros paiement-monnaie-B
+
+cent paiement-montant-entier-B
+euros paiement-monnaie-B
+d'accord reponse-B
+oui reponse-I
+donc connectProp-B
+l' nom-hotel-B
+hôtel nom-hotel-I
+de nom-hotel-I
+flore nom-hotel-I
+est null
+plus null
+adapté null
+s null
+à null
+mes lienRef-coRef-B
+critères objet-B
+en null
+fait null
+d'accord reponse-B
+donc null
+euh null
+
+ce null
+serait null
+possible null
+
+ben null
+écoutez null
+je null
+pense null
+que null
+je null
+vais null
+je null
+vais null
+réfléchir null
+euh null
+je null
+vais null
+voir null
+ça null
+avec null
+mon null
+mon null
+compagnon null
+et null
+puis null
+je null
+je null
+re null
+je null
+vous null
+rappelle null
+hein null
+donc null
+vous null
+m' null
+aviez null
+bien null
+dit null
+hôtel nom-hotel-B
+de nom-hotel-I
+flore nom-hotel-I
+c' command-dial-B
+est command-dial-I
+cela command-dial-I
+
+d'accord reponse-B
+bon null
+ben null
+je null
+je null
+rappellerai null
+merci null
+
+au null
+revoir null
+
+oui null
+bonsoir null
+mademoiselle null
+je null
+vous null
+appelle null
+voilà null
+je command-tache-B
+voudrais command-tache-I
+réserver command-tache-I
+une nombre-chambre-B
+chambre nombre-chambre-I
+à localisation-ville-B
+Paris localisation-ville-I
+près localisation-distanceRelative-B
+des localisation-distanceRelative-I
+grands localisation-lieuRelatif-B
+magasins localisation-lieuRelatif-I
+du temps-date-B
+vingt temps-date-I
+quatre temps-date-I
+février temps-date-I
+au temps-date-B
+quatre temps-date-I
+mars temps-date-I
+ce null
+serait null
+une nombre-chambre-B
+chambre nombre-chambre-I
+en null
+fait null
+pour sejour-nbCouple-B
+un sejour-nbCouple-I
+couple sejour-nbCouple-I
+avec sejour-nbEnfant-B
+un sejour-nbEnfant-I
+enfant sejour-nbEnfant-I
+et connectProp-B
+ce null
+qui null
+est null
+important null
+ce null
+que null
+la null
+il null
+puisse null
+y null
+avoir null
+un hotel-services-B
+accès hotel-services-I
+handicapés hotel-services-I
+et connectProp-B
+d' null
+autre null
+part null
+que null
+la lienRef-coRef-B
+chambre objet-B
+puisse null
+être null
+euh null
+à comparatif-paiement-B
+moins comparatif-paiement-I
+de comparatif-paiement-I
+cent paiement-montant-entier-B
+euros paiement-monnaie-B
+la null
+nuit null
+
+tout reponse-B
+à reponse-I
+fait reponse-I
+
+exact reponse-B
+
+oui reponse-B
+
+d'accord reponse-B
+
+oui reponse-B
+
+d'accord reponse-B
+Haussmann nom-B
+Haussmann nom-I
+ça null
+me null
+parait null
+bien null
+ça null
+comme null
+euh null
+c' null
+est null
+oui reponse-B
+et null
+ben null
+c' null
+est null
+une nombre-chambre-B
+chambre nombre-chambre-I
+donc null
+où null
+il null
+y null
+a null
+il null
+y null
+a null
+un hotel-services-B
+accès hotel-services-I
+handicapés hotel-services-I
+
+d'accord reponse-B
+très null
+bien null
+et connectProp-B
+donc null
+vous null
+avez null
+une nombre-chambre-disponible-B
+chambre nombre-chambre-disponible-I
+pour sejour-nbCouple-B
+un sejour-nbCouple-I
+couple sejour-nbCouple-I
+avec sejour-nbEnfant-B
+un sejour-nbEnfant-I
+enfant sejour-nbEnfant-I
+
+oui reponse-B
+
+cinquante paiement-montant-entier-B
+euros paiement-monnaie-B
+d'accord reponse-B
+ben null
+écoutez null
+c' null
+est null
+parfait null
+hein null
+bon null
+ben null
+dans null
+ce null
+cas null
+je null
+vais null
+voir null
+et null
+puis null
+je null
+vous null
+rappelle null
+ultérieurement null
+merci null
+mademoiselle null
+
+au null
+revoir null
+
+oui null
+bonjour null
+je command-tache-B
+voudrais command-tache-I
+avoir command-tache-I
+euh command-tache-I
+de command-tache-I
+réserver command-tache-I
+pour nombre-temps-B
+les nombre-temps-I
+trois nombre-temps-I
+derniers temps-axeTps-B
+jours temps-unite-B
+du temps-mois-B
+mois temps-mois-I
+de temps-mois-I
+mai temps-mois-I
+à localisation-ville-B
+Paris localisation-ville-I
+près localisation-distanceRelative-B
+de localisation-distanceRelative-I
+la localisation-rue-B
+place localisation-rue-I
+de localisation-rue-I
+la localisation-rue-I
+nation localisation-rue-I
+je command-tache-B
+voudrais command-tache-I
+réserver command-tache-I
+pour nombre-chambre-B
+trois nombre-chambre-I
+chambres chambre-type-B
+individuelles chambre-type-I
+pour chambre-type-I
+une chambre-type-I
+personne chambre-type-I
+et connectProp-B
+euh null
+si null
+possible null
+et null
+même null
+c' null
+est null
+c' null
+est null
+plutôt null
+impératif null
+avec hotel-services-B
+accès hotel-services-I
+pour hotel-services-I
+handicapés hotel-services-I
+à null
+l' lienRef-coRef-B
+hôtel objetBD-B
+
+voilà null
+c' null
+est null
+
+ça null
+
+voilà null
+
+et null
+avec null
+
+merci null
+
+oui reponse-B
+
+oui reponse-B
+
+et null
+quels null
+sont null
+les lienRef-coRef-B
+prix objet-B
+
+et null
+bien null
+
+et null
+bien null
+c' null
+est null
+une nombre-chambre-B
+chambre nombre-chambre-I
+chaque objet-B
+chambre objet-I
+pour sejour-nbPersonne-B
+une sejour-nbPersonne-I
+personne sejour-nbPersonne-I
+chambre chambre-type-B
+individuelle chambre-type-I
+pour chambre-type-I
+une chambre-type-I
+personne chambre-type-I
+donc connectProp-B
+trois nombre-chambre-B
+chambres nombre-chambre-I
+et connectProp-B
+euh null
+pouvez-vous null
+me null
+donner null
+le lienRef-coRef-B
+le lienRef-coRef-I
+prix objet-B
+pour null
+la null
+nuit null
+s' null
+il null
+vous null
+plaît null
+
+oui reponse-B
+
+oui reponse-B
+
+cent paiement-montant-entier-B
+euros paiement-monnaie-B
+alors null
+écoutez null
+elle null
+dans null
+lequel null
+de lienRef-coRef-B
+ces lienRef-coRef-I
+hôtels objetBD-B
+donne null
+accés hotel-services-B
+a hotel-services-I
+accès hotel-services-I
+avec hotel-services-I
+pour hotel-services-I
+handicapés hotel-services-I
+
+oui reponse-B
+
+ah null
+bon null
+accès hotel-services-B
+handicapés hotel-services-I
+handicapés hotel-services-I
+bon null
+alors null
+dans null
+ces null
+conditions null
+là null
+je command-tache-B
+vais command-tache-I
+prendre command-tache-I
+euh null
+le nom-hotel-B
+l' nom-hotel-I
+hôtel nom-hotel-I
+de nom-hotel-I
+la nom-hotel-I
+nation nom-hotel-I
+et connectProp-B
+pouvez-vous null
+me null
+dire null
+euh null
+le lienRef-coRef-B
+prix objet-B
+s' null
+il null
+vous null
+plaît null
+cinquante paiement-montant-entier-B
+euros paiement-monnaie-B
+vous null
+m' null
+avez null
+dit null
+je null
+crois null
+
+oui reponse-B
+d'accord reponse-I
+alors null
+c' null
+est null
+parfait null
+donc connectProp-B
+je command-tache-B
+peux command-tache-I
+vous command-tache-I
+retenir command-tache-I
+euh null
+trois nombre-chambre-B
+chambres nombre-chambre-I
+pour nombre-temps-B
+les nombre-temps-I
+trois nombre-temps-I
+derniers temps-axeTps-B
+les nombre-temps-B
+trois nombre-temps-I
+derniers temps-axeTps-B
+jours temps-unite-B
+du temps-mois-B
+mois temps-mois-I
+de temps-mois-I
+mai temps-mois-I
+à nom-hotel-B
+dans nom-hotel-I
+cet nom-hotel-I
+hôtel nom-hotel-I
+à nom-hotel-I
+l' nom-hotel-I
+hôtel nom-hotel-I
+de nom-hotel-I
+la nom-hotel-I
+nation nom-hotel-I
+
+pour null
+
+pour null
+cinquante paiement-montant-entier-B
+euros paiement-monnaie-B
+
+d'accord reponse-B
+merci null
+
+ah null
+bon null
+eh null
+et null
+l' nom-hotel-B
+hôtel nom-hotel-I
+des nom-hotel-I
+lilas nom-hotel-I
+a-t-il null
+accès hotel-services-B
+avec hotel-services-I
+handicapés hotel-services-I
+pour hotel-services-I
+handicapés hotel-services-I
+
+il null
+n' null
+a null
+pas hotel-services-B
+d' hotel-services-I
+accès hotel-services-I
+handicapés hotel-services-I
+ah null
+voilà null
+bon null
+alors null
+écoutez null
+je command-tache-B
+vais command-tache-I
+prendre command-tache-I
+trois nombre-B
+euh null
+l' nom-hotel-B
+hôtel nom-hotel-I
+du nom-hotel-I
+mont nom-hotel-I
+hôtel nom-hotel-I
+du nom-hotel-I
+mont nom-hotel-I
+
+parce null
+que null
+
+d'accord reponse-B
+
+oui reponse-B
+s' null
+il null
+vous null
+plaît null
+oui null
+
+voilà null
+oui reponse-B
+
+zéro nombre-B
+quarante nombre-I
+cinq nombre-I
+cent nombre-I
+quinze nombre-I
+
+donc null
+c' null
+est null
+
+euh null
+neuf paiement-montant-entier-B
+cents paiement-montant-entier-I
+euros paiement-monnaie-B
+mais connectProp-B
+vous null
+m' null
+avez null
+dit null
+cent paiement-montant-entier-B
+euros paiement-monnaie-B
+par null
+personne null
+
+trois nombre-B
+
+trois nombre-temps-B
+jours temps-unite-B
+
+trois nombre-B
+
+chambres objet-B
+
+oui reponse-B
+donc connectProp-B
+ça null
+fait null
+ça null
+devrait null
+faire null
+trois nombre-chambre-B
+euh nombre-chambre-I
+trois nombre-chambre-I
+chambres nombre-chambre-I
+ah reponse-B
+oui reponse-I
+pour sejour-nbNuit-B
+trois sejour-nbNuit-I
+jours sejour-nbNuit-I
+vous null
+avez null
+raison null
+ça null
+fait null
+trois paiement-montant-entier-B
+cents paiement-montant-entier-I
+ça null
+fait null
+trois nombre-B
+fois unknown-B
+trois nombre-B
+neuf nombre-B
+neuf paiement-montant-entier-B
+cents paiement-montant-entier-I
+euros paiement-monnaie-B
+d'accord reponse-B
+euh null
+le hotel-services-B
+déjeuner hotel-services-I
+le hotel-services-I
+petit hotel-services-I
+déjeuner hotel-services-I
+est-il hotel-services-I
+compris hotel-services-I
+
+ah null
+bon null
+bon null
+bon null
+écoutez null
+merci null
+beaucoup null
+
+ah null
+donc null
+je command-tache-B
+retiens command-tache-I
+
+je command-tache-B
+je command-tache-I
+retiens command-tache-I
+pour nombre-chambre-B
+les nombre-chambre-I
+trois nombre-chambre-I
+chambres nombre-chambre-I
+pour nombre-temps-B
+les nombre-temps-I
+trois nombre-temps-I
+derniers temps-axeTps-B
+jours temps-unite-B
+de temps-mois-B
+mai temps-mois-I
+de temps-mois-I
+mai temps-mois-I
+
+d'accord reponse-B
+
+d'accord reponse-B
+merci null
+beaucoup null
+
+merci null
+
+au null
+revoir null
+
+euh null
+bonjour null
+je command-tache-B
+voudrais command-tache-I
+réserver command-tache-I
+des objet-B
+chambres objet-I
+d' objet-I
+hôtel objet-I
+
+je command-tache-B
+souhaite command-tache-I
+réserver command-tache-I
+à localisation-ville-B
+Bayonne localisation-ville-I
+pour evenement-B
+la evenement-I
+compétition evenement-I
+de evenement-I
+surf evenement-I
+
+euh null
+pour null
+ça null
+tombe null
+pour null
+la rang-temps-B
+troisième rang-temps-I
+semaine temps-unite-B
+de temps-mois-B
+février temps-mois-I
+
+je command-tache-B
+voudrais command-tache-I
+des command-tache-I
+informations command-tache-I
+supplémentaires command-tache-I
+s' null
+il null
+vous null
+
+plaît null
+
+alors null
+hum null
+je null
+voudrais null
+connaître null
+le lienRef-coRef-B
+prix objet-B
+de null
+de null
+ces lienRef-coRef-B
+des lienRef-coRef-I
+chambres objet-B
+
+euh null
+je command-tache-B
+voudrais command-tache-I
+réserver command-tache-I
+deux nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+
+euh null
+et null
+bien null
+l' nom-hotel-B
+hôtel nom-hotel-I
+Elisabeth nom-hotel-I
+euh null
+je null
+compte null
+y null
+mettre null
+cinquante paiement-montant-entier-B
+euros paiement-monnaie-B
+par null
+chambre null
+plus comparatif-paiement-B
+ou comparatif-paiement-I
+moins comparatif-paiement-I
+donc connectProp-B
+hum null
+l' nom-hotel-B
+hôtel nom-hotel-I
+Elisabeth nom-hotel-I
+me null
+conviendrait null
+
+bon command-tache-B
+ben command-tache-I
+on command-tache-I
+va command-tache-I
+réserver command-tache-I
+dans null
+dans null
+un nombre-hotel-B
+autre lienRef-coDom-B
+hôtel objetBD-B
+dans null
+ce null
+cas null
+euh null
+qu' command-tache-B
+est-ce command-tache-I
+que command-tache-I
+vous command-tache-I
+avez command-tache-I
+d' command-tache-I
+autre command-tache-I
+à command-tache-I
+me command-tache-I
+proposer command-tache-I
+
+à null
+quatre paiement-montant-entier-B
+vingts paiement-montant-entier-I
+euros paiement-monnaie-B
+la null
+chambre null
+c' command-dial-B
+est command-dial-I
+ça command-dial-I
+
+la null
+nuit null
+hum null
+en null
+fait null
+il null
+me null
+faut null
+un objetBD-B
+hôtel objetBD-I
+qui null
+accepte null
+les hotel-services-B
+chats hotel-services-I
+également null
+est-ce null
+que null
+cet lienRef-coRef-B
+hôtel objetBD-B
+accepterait null
+les hotel-services-B
+chats hotel-services-I
+
+bon null
+alors null
+dans null
+ce null
+cas null
+hum null
+quels null
+sont null
+quels null
+sont null
+les lienRef-coRef-B
+prix objet-B
+
+donc null
+ben null
+ce null
+sera null
+très null
+bien null
+alors command-tache-B
+on command-tache-I
+va command-tache-I
+on command-tache-I
+va command-tache-I
+prendre command-tache-I
+deux nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+à nom-hotel-B
+l' nom-hotel-I
+hôtel nom-hotel-I
+de nom-hotel-I
+la nom-hotel-I
+tour nom-hotel-I
+blanche nom-hotel-I
+
+c' null
+est null
+un objetBD-B
+hôtel objetBD-I
+
+hum null
+est-ce null
+un objetBD-B
+hôtel objetBD-I
+près localisation-distanceRelative-B
+de localisation-distanceRelative-I
+la localisation-lieuRelatif-B
+mer localisation-lieuRelatif-I
+
+bon null
+alors null
+c' null
+est null
+très null
+bien null
+on command-tache-B
+va command-tache-I
+réserver command-tache-I
+les lienRef-coRef-B
+deux nombre-chambre-B
+chambres chambre-type-B
+simples chambre-type-I
+à nom-hotel-B
+l' nom-hotel-I
+hôtel nom-hotel-I
+Elisabeth nom-hotel-I
+euh nom-hotel-I
+de nom-hotel-I
+la nom-hotel-I
+tour nom-hotel-I
+blanche nom-hotel-I
+alors null
+
+non reponse-B
+c' null
+est null
+très null
+bien null
+je null
+vous null
+remercie null
+
+au null
+revoir null
+
+je command-tache-B
+désire command-tache-I
+désire command-tache-I
+réserver command-tache-I
+euh null
+euh null
+hum null
+hum null
+une nombre-chambre-B
+chambre chambre-type-B
+double chambre-type-I
+euh null
+à localisation-ville-B
+Béziers localisation-ville-I
+du temps-date-B
+vingt temps-date-I
+et temps-date-I
+un temps-date-I
+au temps-date-B
+vingt temps-date-I
+trois temps-date-I
+avril temps-date-I
+ainsi connectProp-B
+qu' connectProp-I
+à localisation-ville-B
+Tulle localisation-ville-I
+du temps-date-B
+vingt temps-date-I
+trois temps-date-I
+au temps-date-B
+vingt temps-date-I
+six temps-date-I
+avril temps-date-I
+et connectProp-B
+Angers localisation-ville-B
+du temps-date-B
+vingt temps-date-I
+et temps-date-I
+un temps-date-I
+au temps-date-B
+vingt temps-date-I
+huit temps-date-I
+avril temps-date-I
+
+je null
+voudrais null
+avoir null
+
+des command-tache-B
+informations command-tache-I
+supplémentaires command-tache-I
+
+euh null
+hum null
+je null
+voudrais null
+avoir null
+le lienRef-coRef-B
+prix objet-B
+de null
+ce lienRef-coRef-B
+cet lienRef-coRef-I
+hôtel objetBD-B
+pour null
+une nombre-chambre-B
+chambre chambre-type-B
+double chambre-type-I
+
+voilà null
+c' null
+est null
+parfait null
+nous command-tache-B
+voulons command-tache-I
+réserver command-tache-I
+à nom-hotel-B
+l' nom-hotel-I
+hôtel nom-hotel-I
+des nom-hotel-I
+agapes nom-hotel-I
+est-ce null
+que null
+cet objetBD-B
+hôtel objetBD-I
+accepte null
+euh null
+les hotel-services-B
+chiens hotel-services-I
+
+donc null
+c' null
+est null
+parfait null
+nous command-tache-B
+pouvons command-tache-I
+réserver command-tache-I
+
+oui reponse-B
+
+je command-tache-B
+voudrais command-tache-I
+également command-tache-I
+réserver command-tache-I
+à localisation-ville-B
+Tulle localisation-ville-I
+euh null
+une nombre-chambre-B
+chambre chambre-type-B
+double chambre-type-I
+
+du temps-date-B
+vingt temps-date-I
+trois temps-date-I
+au temps-date-B
+vingt temps-date-I
+six temps-date-I
+avril temps-date-I
+
+hum null
+je command-tache-B
+voudrais command-tache-I
+avoir command-tache-I
+d' command-tache-I
+autres command-tache-I
+informations command-tache-I
+j' null
+aurais null
+voulu null
+savoir null
+si null
+l' lienRef-coRef-B
+hôtel objetBD-B
+accepte null
+les hotel-services-B
+chiens hotel-services-I
+
+donc null
+nous command-tache-B
+pouvons command-tache-I
+réserver command-tache-I
+
+l' null
+offre null
+est null
+très null
+bien null
+
+euh null
+je command-tache-B
+voudrais command-tache-I
+réserver command-tache-I
+également command-tache-I
+à localisation-ville-B
+Angers localisation-ville-I
+euh null
+pour null
+du temps-date-B
+vingt temps-date-I
+six temps-date-I
+au temps-date-B
+vingt temps-date-I
+huit temps-date-I
+avril temps-date-I
+
+hum null
+est-ce null
+que null
+les hotel-services-B
+chiens hotel-services-I
+sont null
+acceptés null
+dans null
+cet lienRef-coRef-B
+hôtel objetBD-B
+
+donc null
+nous command-tache-B
+pouvons command-tache-I
+réserver command-tache-I
+
+non reponse-B
+merci null
+c' null
+est null
+parfait null
+
+bonjour null
+je command-tache-B
+désire command-tache-I
+réserver command-tache-I
+une nombre-chambre-B
+chambre nombre-chambre-I
+d' nombre-chambre-I
+hôtel nombre-chambre-I
+du temps-date-B
+dix temps-date-I
+neuf temps-date-I
+au temps-date-B
+vingt temps-date-I
+deux temps-date-I
+octobre temps-date-I
+pour localisation-ville-B
+Rochefort localisation-ville-I
+
+alors command-tache-B
+je command-tache-I
+souhaite command-tache-I
+réserver command-tache-I
+euh null
+une nombre-chambre-B
+une nombre-chambre-I
+une nombre-chambre-I
+chambre chambre-type-B
+double chambre-type-I
+une nombre-chambre-B
+chambre chambre-type-B
+double chambre-type-I
+maxi comparatif-B
+deux hotel-etoile-B
+étoiles hotel-etoile-I
+avec hotel-services-B
+animaux hotel-services-I
+et connectProp-B
+je command-tache-B
+souhaite command-tache-I
+réserver command-tache-I
+une nombre-chambre-B
+autre lienRef-coDom-B
+chambre objet-B
+du temps-date-B
+vingt temps-date-I
+deux temps-date-I
+au temps-date-B
+vingt temps-date-I
+sept temps-date-I
+octobre temps-date-I
+pour localisation-ville-B
+Périgueux localisation-ville-I
+
+oui reponse-B
+
+euh null
+oui reponse-B
+ça null
+sera null
+parfait null
+
+cet lienRef-coRef-B
+hôtel objetBD-B
+
+d'accord reponse-B
+
+d'accord reponse-B
+j' null
+accepte null
+
+merci null
+
+il null
+y null
+a null
+des hotel-services-B
+animaux hotel-services-I
+
+donc null
+je command-tache-B
+vais command-tache-I
+prendre command-tache-I
+cette lienRef-coRef-B
+chambre objet-B
+oui reponse-B
+
+euh null
+quatre nombre-B
+cent nombre-I
+vingt nombre-I
+cinq nombre-I
+c' null
+est null
+pour null
+combien objet-B
+de objet-I
+jours objet-I
+
+c'est null
+pour null
+les null
+les null
+
+euh null
+moi null
+je null
+vous null
+ai null
+demandé null
+du temps-jour-mois-B
+vingt temps-jour-mois-I
+deux temps-jour-mois-I
+au temps-jour-mois-B
+vingt temps-jour-mois-I
+sept temps-jour-mois-I
+ah null
+oui reponse-B
+tout reponse-I
+à reponse-I
+fait reponse-I
+c' null
+est null
+ça null
+c' null
+est null
+tout null
+c' null
+est null
+ça null
+c' null
+est null
+tout null
+à null
+fait null
+c' null
+est null
+parfait null
+je command-dial-B
+ré command-dial-I
+je command-dial-I
+je command-dial-I
+maintiens command-dial-I
+excusez-moi null
+
+non reponse-B
+ça null
+ça null
+ira null
+je null
+vous null
+remercie null
+au null
+revoir null
+
+au null
+revoir null
+
+bonjour null
+alors command-tache-B
+j' command-tache-I
+aimerais command-tache-I
+avoir command-tache-I
+une command-tache-I
+réservation command-tache-I
+à localisation-ville-B
+Arles localisation-ville-I
+b temps-date-B
+du temps-date-I
+six temps-date-I
+au temps-date-B
+quatorze temps-date-I
+juillet temps-date-I
+s' null
+il null
+vous null
+plaît null
+alors null
+trois nombre-chambre-B
+chambres chambre-type-B
+pour chambre-type-I
+une chambre-type-I
+personne chambre-type-I
+
+oui reponse-B
+du temps-date-B
+six temps-date-I
+au temps-date-B
+quatorze temps-date-I
+juillet temps-date-I
+et connectProp-B
+je null
+voudrais null
+euh null
+euh null
+donc null
+une nombre-chambre-B
+trois nombre-chambre-I
+chambres chambre-type-B
+pour chambre-type-I
+une chambre-type-I
+personne chambre-type-I
+
+d'accord reponse-B
+
+euh null
+j' null
+aimerais null
+savoir null
+euh null
+alors null
+euh null
+le nom-hotel-B
+Van nom-hotel-I
+Gogh nom-hotel-I
+euh null
+me null
+conviendrait null
+à null
+cinquante paiement-montant-entier-B
+euros paiement-monnaie-B
+mais connectProp-B
+euh null
+est-il null
+situé null
+au localisation-lieuRelatif-B
+centre localisation-lieuRelatif-I
+ville localisation-lieuRelatif-I
+
+ah null
+bon null
+parce null
+que null
+j' null
+aurais null
+aimé null
+si null
+possible null
+avoir null
+euh null
+un objetBD-B
+un objetBD-I
+hôtel objetBD-I
+au localisation-lieuRelatif-B
+centre localisation-lieuRelatif-I
+ville localisation-lieuRelatif-I
+et connectProp-B
+l' lienRef-coDom-B
+autre lienRef-coDom-I
+hôtel objetBD-B
+pont nom-B
+comment objet-B
+vous objet-I
+l' objet-I
+appelez objet-I
+
+l' lienRef-coRef-B
+hôtel objetBD-B
+
+alors null
+et null
+celui-ci lienRef-elsEns-B
+fait null
+quel null
+prix objet-B
+
+quatre paiement-montant-entier-B
+vingts paiement-montant-entier-I
+euros paiement-monnaie-B
+et connectProp-B
+petit hotel-services-B
+déjeuner hotel-services-I
+compris hotel-services-I
+
+petit hotel-services-B
+déjeuner hotel-services-I
+est hotel-services-I
+inclus hotel-services-I
+bon command-tache-B
+bien command-tache-I
+je command-tache-I
+vais command-tache-I
+prendre command-tache-I
+celui-ci lienRef-elsEns-B
+alors null
+
+à null
+l null
+
+oui reponse-B
+
+oui reponse-B
+
+il null
+en null
+il null
+en null
+reste null
+deux nombre-chambre-disponible-B
+ou connectAttr-B
+trois nombre-chambre-disponible-B
+parce connectProp-B
+que connectProp-I
+la command-tache-B
+réservation command-tache-I
+c' null
+est null
+pour null
+trois nombre-chambre-B
+chambres chambre-type-B
+pour chambre-type-I
+une chambre-type-I
+personne chambre-type-I
+
+d'accord reponse-B
+
+d'accord null
+alors reponse-B
+
+je null
+suis null
+d'accord reponse-B
+
+d'accord reponse-B
+
+d'accord reponse-B
+
+merci null
+beaucoup null
+
+zéro nombre-B
+quarante nombre-I
+huit nombre-I
+
+zéro nombre-reservation-B
+quarante nombre-reservation-I
+huit nombre-reservation-I
+cent nombre-reservation-I
+cinquante nombre-reservation-I
+cinq nombre-reservation-I
+dossiers null
+non reponse-B
+c' null
+est null
+tout null
+merci null
+beaucoup null
+
+au null
+revoir null
+
+euh null
+oui reponse-B
+j' command-tache-B
+aimerais command-tache-I
+euh command-tache-I
+réserver command-tache-I
+euh null
+trois sejour-nbNuit-B
+nuits sejour-nbNuit-I
+à localisation-ville-B
+Marseille localisation-ville-I
+du temps-date-B
+quinze temps-date-I
+au temps-date-B
+dix temps-date-I
+huit temps-date-I
+mars temps-date-I
+s' null
+il null
+vous null
+plaît null
+
+du null
+quinze null
+non reponse-B
+non reponse-I
+non reponse-I
+à localisation-ville-B
+Marseille localisation-ville-I
+
+Marseille localisation-ville-B
+pas localisation-ville-B
+Versailles localisation-ville-I
+Marseille localisation-ville-B
+Marseille localisation-ville-I
+
+oui reponse-B
+pour null
+
+trois nombre-B
+
+euh null
+une nombre-chambre-B
+chambre nombre-chambre-I
+avec chambre-equipement-B
+douche chambre-equipement-I
+chambre objet-B
+avec chambre-equipement-B
+douche chambre-equipement-I
+
+pour sejour-nbCouple-B
+pour sejour-nbCouple-I
+un sejour-nbCouple-I
+couple sejour-nbCouple-I
+pour sejour-nbCouple-I
+euh sejour-nbCouple-I
+pour sejour-nbCouple-I
+couple sejour-nbCouple-I
+
+oui reponse-B
+
+oui reponse-B
+merci null
+
+euh null
+ben null
+euh null
+le null
+euh null
+comment null
+je null
+vais null
+dire null
+l' nom-hotel-B
+hôtel nom-hotel-I
+Mystic nom-hotel-I
+est-il null
+en localisation-lieuRelatif-B
+au localisation-lieuRelatif-I
+centre localisation-lieuRelatif-I
+
+oui reponse-B
+c' null
+est null
+parfait null
+alors null
+hôtel nom-hotel-B
+Mystic nom-hotel-I
+et connectProp-B
+il null
+fait null
+quel null
+prix objet-B
+
+oui reponse-B
+avec hotel-services-B
+petit hotel-services-I
+déjeuner hotel-services-I
+ou null
+sans null
+déjeuner null
+
+ah reponse-B
+bon reponse-I
+d'accord reponse-I
+non null
+inclus null
+bon null
+et null
+bien null
+écoutez null
+je command-tache-B
+vous command-tache-I
+retiens command-tache-I
+ce objetBD-B
+cet objetBD-I
+hôtel objetBD-I
+alors null
+donc null
+l' nom-hotel-B
+hôtel nom-hotel-I
+Mystic nom-hotel-I
+du temps-date-B
+quinze temps-date-I
+au temps-date-B
+dix temps-date-I
+huit temps-date-I
+mars temps-date-I
+pour sejour-nbNuit-B
+trois sejour-nbNuit-I
+nuits sejour-nbNuit-I
+à localisation-ville-B
+Marseille localisation-ville-I
+
+oui reponse-B
+merci null
+
+alors null
+je command-tache-B
+réserve command-tache-I
+dans null
+un nombre-hotel-B
+autre lienRef-coDom-B
+hôtel objetBD-B
+alors null
+
+oui reponse-B
+
+oui reponse-B
+alors null
+cinquante paiement-montant-entier-B
+euros paiement-monnaie-B
+et null
+euh null
+petit hotel-services-B
+déjeuner hotel-services-I
+s hotel-services-I
+ave hotel-services-I
+en hotel-services-I
+inclus hotel-services-I
+non null
+
+le null
+petit null
+
+non null
+inclus null
+bon null
+et null
+bien null
+écoutez null
+oui reponse-B
+je command-tache-B
+vais command-tache-I
+prendre command-tache-I
+ce nom-hotel-B
+ce nom-hotel-I
+cet nom-hotel-I
+hôtel nom-hotel-I
+Callelongue nom-hotel-I
+
+oui reponse-B
+merci null
+
+d'accord reponse-B
+
+zéro nombre-B
+trente nombre-I
+sept nombre-I
+cent nombre-I
+cinquante nombre-I
+cinq nombre-I
+
+merci null
+beaucoup null
+
+oui reponse-B
+j' command-tache-B
+aimerais command-tache-I
+avoir command-tache-I
+aussi command-tache-I
+réserver command-tache-I
+euh null
+du temps-date-B
+quinze temps-date-I
+du temps-date-I
+dix temps-date-I
+huit temps-date-I
+au temps-date-B
+vingt temps-date-I
+mars temps-date-I
+deux sejour-nbNuit-B
+nuits sejour-nbNuit-I
+à localisation-ville-B
+Roanne localisation-ville-I
+pour sejour-nbCouple-B
+deux sejour-nbCouple-I
+couples sejour-nbCouple-I
+dont sejour-nbEnfant-B
+un sejour-nbEnfant-I
+couple sejour-nbEnfant-I
+avec sejour-nbEnfant-I
+un sejour-nbEnfant-I
+enfant sejour-nbEnfant-I
+
+voilà null
+
+de temps-jour-mois-B
+dix temps-jour-mois-I
+huit temps-jour-mois-I
+au temps-jour-mois-B
+vingt temps-jour-mois-I
+
+po null
+euh null
+
+oui reponse-B
+
+deux sejour-nbNuit-B
+nuits sejour-nbNuit-I
+
+oui reponse-B
+
+alors null
+écoutez null
+
+alors null
+à null
+condition null
+j' null
+aimerais null
+euh null
+d null
+il null
+y null
+a null
+euh null
+d null
+un sejour-nbCouple-B
+couple sejour-nbCouple-I
+est null
+avec sejour-nbEnfant-B
+un sejour-nbEnfant-I
+enfant sejour-nbEnfant-I
+et connectProp-B
+euh null
+le null
+l null
+ce null
+couple null
+aimerait null
+qu' null
+il null
+y null
+ait null
+une hotel-services-B
+salle hotel-services-I
+de hotel-services-I
+jeux hotel-services-I
+pour sejour-nbEnfant-B
+l' sejour-nbEnfant-I
+enfant sejour-nbEnfant-I
+et connectProp-B
+que null
+l' lienRef-coRef-B
+hôtel objetBD-B
+soit null
+situé null
+près localisation-distanceRelative-B
+d' localisation-distanceRelative-I
+un localisation-lieuRelatif-B
+parc localisation-lieuRelatif-I
+est-ce null
+possible null
+
+merci null
+
+oui reponse-B
+
+oui reponse-B
+quel null
+prix objet-B
+fait- null
+il lienRef-coRef-B
+
+oui reponse-B
+oui reponse-I
+alors null
+je null
+suis null
+d'accord reponse-B
+pour command-tache-B
+réserver command-tache-I
+à nom-hotel-B
+l' nom-hotel-I
+hôtel nom-hotel-I
+du nom-hotel-I
+parc nom-hotel-I
+et connectProp-B
+il null
+est null
+situé null
+euh null
+près localisation-distanceRelative-B
+d' localisation-distanceRelative-I
+un localisation-lieuRelatif-B
+parc localisation-lieuRelatif-I
+également localisation-lieuRelatif-I
+un localisation-lieuRelatif-I
+parc localisation-lieuRelatif-I
+ou localisation-lieuRelatif-I
+un localisation-lieuRelatif-I
+square localisation-lieuRelatif-I
+peut-être null
+
+ah null
+ben null
+c' null
+est null
+parfait null
+
+voilà null
+c' null
+est null
+ça null
+c' null
+est null
+à localisation-ville-B
+Roanne localisation-ville-I
+bon reponse-B
+m reponse-I
+d'accord reponse-I
+d'accord reponse-I
+pour null
+cet lienRef-coRef-B
+hôtel objetBD-B
+et null
+alors null
+euh null
+donc connectProp-B
+et null
+vous command-tache-B
+retenez command-tache-I
+une nombre-chambre-B
+chambre nombre-chambre-I
+donc null
+avec null
+un sejour-nbCouple-B
+couple sejour-nbCouple-I
+pour sejour-nbEnfant-B
+enfant sejour-nbEnfant-I
+et connectProp-B
+une nombre-chambre-B
+autre lienRef-coDom-B
+chambre objet-B
+euh null
+avec null
+un sejour-nbCouple-B
+couple sejour-nbCouple-I
+sans sejour-nbEnfant-B
+enfant sejour-nbEnfant-I
+dans objetBD-B
+le objetBD-I
+même objetBD-I
+hôtel objetBD-I
+
+d'accord reponse-B
+
+d'accord reponse-B
+
+zéro nombre-B
+trente nombre-I
+sept nombre-I
+
+non reponse-B
+merci null
+beaucoup null
+
+ça null
+va null
+merci null
+
+merci null
+au null
+revoir null
+
+deux nombre-B
+cent nombre-I
+quarante nombre-I
+huit nombre-I
+
+une command-tache-B
+réservation command-tache-I
+d' objetBD-B
+hôtel objetBD-I
+
+Auxerre localisation-ville-B
+le temps-axeTps-B
+dernier temps-axeTps-I
+week-end temps-unite-B
+de temps-mois-B
+septembre temps-mois-I
+
+des chambre-type-B
+chambres chambre-type-I
+doubles chambre-type-I
+
+trois nombre-B
+
+oui reponse-B
+
+oui reponse-B
+
+Beauséjour nom-B
+
+oui reponse-B
+
+oui reponse-B
+
+si null
+l' nom-hotel-B
+hôtel nom-hotel-I
+Beauséjour nom-hotel-I
+est null
+près localisation-distanceRelative-B
+du localisation-distanceRelative-I
+stade localisation-lieuRelatif-B
+du localisation-lieuRelatif-I
+football localisation-lieuRelatif-I
+
+oui reponse-B
+précisez null
+qu' null
+il null
+s' null
+agit null
+bien null
+du null
+dernier temps-axeTps-B
+week-end temps-unite-B
+de temps-mois-B
+septembre temps-mois-I
+
+non reponse-B
+merci null
+
+au null
+revoir null
+
+je command-tache-B
+souhaite command-tache-I
+réserver command-tache-I
+euh null
+une nombre-chambre-B
+chambre nombre-chambre-I
+à localisation-ville-B
+Paris localisation-ville-I
+le temps-axeTps-B
+premier temps-axeTps-I
+j temps-axeTps-I
+le temps-axeTps-I
+premier temps-axeTps-I
+jeudi temps-jour-semaine-B
+de temps-mois-B
+décembre temps-mois-I
+près localisation-distanceRelative-B
+de localisation-distanceRelative-I
+l' localisation-lieuRelatif-B
+hôtel localisation-lieuRelatif-I
+de localisation-lieuRelatif-I
+ville localisation-lieuRelatif-I
+trois nombre-chambre-B
+chambres chambre-type-B
+individuelles chambre-type-I
+de chambre-standing-B
+bon chambre-standing-I
+standing chambre-standing-I
+maximum comparatif-paiement-B
+deux paiement-montant-entier-B
+cents paiement-montant-entier-I
+euros paiement-monnaie-B
+près localisation-distanceRelative-B
+du localisation-distanceRelative-I
+cinéma localisation-lieuRelatif-B
+UGC localisation-lieuRelatif-I
+vers localisation-distanceRelative-B
+les localisation-quartier-B
+halles localisation-quartier-I
+
+oui reponse-B
+
+oui reponse-B
+
+hôtel nom-hotel-B
+Amadeus nom-hotel-I
+
+réserver command-tache-B
+dans null
+un nombre-hotel-B
+autre lienRef-coDom-B
+hôtel objetBD-B
+
+oui reponse-B
+
+non reponse-B
+
+non reponse-B
+
+oui reponse-B
+
+changer command-dial-B
+de lienRef-coRef-B
+jour temps-unite-B
+
+oui reponse-B
+
+le rang-temps-B
+deuxième rang-temps-I
+jeudi temps-jour-semaine-B
+de rang-temps-B
+des rang-temps-I
+deuxième rang-temps-I
+jour temps-unite-B
+de temps-mois-B
+décembre temps-mois-I
+
+oui reponse-B
+
+oui reponse-B
+
+un localisation-lieuRelatif-B
+cinéma localisation-lieuRelatif-I
+UGC localisation-lieuRelatif-I
+
+oui reponse-B
+
+non reponse-B
+merci null
+
+au null
+revoir null
+merci null
+
+alors command-tache-B
+je command-tache-I
+voudrais command-tache-I
+réserver command-tache-I
+du temps-date-B
+vingt temps-date-I
+sept temps-date-I
+au temps-date-B
+trente temps-date-I
+et temps-date-I
+un temps-date-I
+janvier temps-date-I
+à localisation-ville-B
+Alès localisation-ville-I
+et connectProp-B
+du temps-date-B
+trente temps-date-I
+et temps-date-I
+un temps-date-I
+au temps-date-B
+deux temps-date-I
+février temps-date-I
+à localisation-ville-B
+Carcassonne localisation-ville-I
+deux nombre-chambre-B
+chambres chambre-type-B
+doubles chambre-type-I
+et connectProp-B
+une nombre-chambre-B
+chambre chambre-type-B
+simple chambre-type-I
+
+Alès localisation-ville-B
+Alès localisation-ville-I
+
+oui reponse-B
+
+oui reponse-B
+
+oui reponse-B
+
+pas localisation-ville-B
+à localisation-ville-I
+Campelonne localisation-ville-I
+à localisation-ville-B
+Carcassonne localisation-ville-I
+
+alors null
+du temps-date-B
+trente temps-date-I
+et temps-date-I
+un temps-date-I
+au temps-date-B
+deux temps-date-I
+février temps-date-I
+à localisation-ville-B
+Carcassonne localisation-ville-I
+deux nombre-chambre-B
+chambres chambre-type-B
+doubles chambre-type-I
+et connectProp-B
+une nombre-chambre-B
+chambre chambre-type-B
+simple chambre-type-I
+environ comparatif-paiement-B
+soixante paiement-montant-entier-B
+quinze paiement-montant-entier-I
+euros paiement-monnaie-B
+près localisation-distanceRelative-B
+d' localisation-distanceRelative-I
+un localisation-lieuRelatif-B
+parc localisation-lieuRelatif-I
+
+oui reponse-B
+
+la lienRef-elsEns-B
+deuxième rang-B
+la lienRef-elsEns-B
+deuxième rang-B
+
+dans null
+un nombre-hotel-B
+autre lienRef-coDom-B
+hôtel objetBD-B
+alors null
+
+oui reponse-B
+c' null
+est null
+bon null
+
+très null
+bien null
+
+non reponse-B
+
+au null
+revoir null
+merci null
+
+euh null
+je command-tache-B
+souhaite command-tache-I
+réserver command-tache-I
+euh null
+un objetBD-B
+hôtel objetBD-I
+pour null
+les null
+pour null
+la null
+période null
+de null
+Noël temps-jourFerie-B
+s' null
+il null
+vous null
+plaît null
+
+voilà null
+donc null
+euh null
+je command-dial-B
+reformule command-dial-I
+donc null
+euh null
+l' null
+intitulé null
+donc null
+je command-tache-B
+souhaite command-tache-I
+euh command-tache-I
+réserver command-tache-I
+à localisation-ville-B
+Istres localisation-ville-I
+les localisation-departement-B
+Bouches-du-Rhône localisation-departement-I
+euh null
+durant temps-axeTps-B
+les temps-jourFerie-B
+vacances temps-jourFerie-I
+de temps-jourFerie-I
+Noël temps-jourFerie-I
+pour nombre-temps-B
+une nombre-temps-I
+semaine temps-unite-B
+quatre nombre-chambre-B
+chambres chambre-type-B
+doubles chambre-type-I
+quatre nombre-chambre-B
+chambres chambre-type-B
+donc chambre-type-I
+pour chambre-type-I
+deux chambre-type-I
+personnes chambre-type-I
+et connectProp-B
+euh null
+je null
+souhaite null
+également null
+euh null
+je null
+souhaiterais null
+qu' null
+il null
+y null
+ait null
+un localisation-lieuRelatif-B
+casino localisation-lieuRelatif-I
+à localisation-distanceRelative-B
+proximité localisation-distanceRelative-I
+
+oui reponse-B
+
+euh null
+oui reponse-B
+j' null
+ai null
+un objet-B
+budget objet-I
+qui null
+me null
+permettrait null
+euh null
+de null
+euh null
+de null
+réserver command-tache-B
+pour null
+le rang-B
+s rang-I
+le rang-I
+la rang-I
+seconde rang-I
+formule objet-B
+à null
+quatre paiement-montant-entier-B
+vingt paiement-montant-entier-I
+dix paiement-montant-entier-I
+euros paiement-monnaie-B
+s' null
+il null
+vous null
+plaît null
+
+hôtel nom-hotel-B
+confort nom-hotel-I
+oui reponse-B
+
+euh null
+hum null
+je null
+fais null
+un null
+calcul null
+rapide null
+donc null
+ça null
+fait null
+quatre nombre-B
+cent nombre-I
+soixante nombre-I
+attendez null
+quatre nombre-B
+fois unknown-B
+neuf nombre-B
+euh null
+trois nombre-B
+je null
+je null
+fais null
+un null
+calcul null
+rapide null
+pour null
+voir null
+s' null
+il null
+n' null
+y null
+a null
+pas null
+eu null
+d' null
+erreur null
+de null
+euh null
+de null
+au null
+niveau null
+du null
+total null
+donc connectProp-B
+quatre nombre-B
+par unknown-B
+quatre nombre-B
+vingt nombre-I
+dix nombre-I
+multiplié unknown-B
+par nombre-B
+sept nombre-I
+attendez null
+je null
+recalcule null
+quatre nombre-B
+multiplié unknown-B
+par nombre-B
+quatre nombre-I
+quatre paiement-montant-entier-B
+vingt paiement-montant-entier-I
+dix paiement-montant-entier-I
+euros paiement-monnaie-B
+multiplié unknown-B
+par unknown-I
+quatre nombre-chambre-B
+chambres nombre-chambre-I
+multiplié unknown-B
+par unknown-I
+sept sejour-nbNuit-B
+jours sejour-nbNuit-I
+oui reponse-B
+absolument reponse-I
+a null
+priori null
+c' null
+est null
+bon null
+il null
+n' null
+y null
+a null
+pas null
+de null
+problème null
+
+vous command-dial-B
+pouvez command-dial-I
+donc command-dial-I
+confirmer command-dial-I
+
+absolument reponse-B
+merci null
+
+merci null
+madame null
+au null
+revoir null
+à null
+bientôt null
+
+voilà null
+bonjour null
+madame null
+tout null
+d'abord null
+je command-tache-B
+souhaite command-tache-I
+réserver command-tache-I
+pour null
+la null
+période null
+du temps-date-B
+douze temps-date-I
+quatorze temps-date-B
+octobre temps-date-I
+à temps-axeTps-B
+venir temps-axeTps-I
+euh null
+à localisation-ville-B
+Paris localisation-ville-I
+ou null
+plutôt null
+euh null
+Paris localisation-ville-B
+nord localisation-cardinal-B
+euh null
+intra localisation-lieuRelatif-B
+extra-muros localisation-lieuRelatif-I
+donc connectProp-B
+au localisation-distanceRelative-B
+niveau localisation-distanceRelative-I
+de localisation-distanceRelative-I
+euh localisation-distanceRelative-I
+porte localisation-lieuRelatif-B
+Clignancourt localisation-lieuRelatif-I
+porte localisation-lieuRelatif-B
+de localisation-lieuRelatif-I
+Saint-Cloud localisation-lieuRelatif-I
+etc null
+pour sejour-nbNuit-B
+deux sejour-nbNuit-I
+nuits sejour-nbNuit-I
+euh null
+il null
+s' null
+agit null
+donc null
+de null
+d' null
+un sejour-nbCouple-B
+couple sejour-nbCouple-I
+avec sejour-nbEnfant-B
+enfant sejour-nbEnfant-I
+et connectProp-B
+je null
+souhaiterais null
+également null
+que null
+le hotel-parking-B
+parking hotel-parking-I
+soit hotel-parking-I
+surveillé hotel-parking-I
+euh null
+je null
+ne null
+voudrais null
+pas comparatif-paiement-B
+dépasser comparatif-paiement-I
+cent paiement-montant-entier-B
+cinquante paiement-montant-entier-I
+euros paiement-monnaie-B
+s' null
+il null
+vous null
+plaît null
+
+oui reponse-B
+
+euh null
+pouvez-vous command-dial-B
+répéter command-dial-I
+ce null
+que null
+vous null
+venez null
+d' null
+énoncer null
+s' null
+il null
+vous null
+plaît null
+
+euh null
+je command-tache-B
+souhaite command-tache-I
+réserver command-tache-I
+pour null
+le lienRef-elsEns-B
+premier rang-B
+euh null
+ça null
+correspond null
+à null
+mon objet-B
+budget objet-I
+que null
+je null
+ne null
+voudrais null
+pas comparatif-paiement-B
+dépasser comparatif-paiement-I
+les paiement-montant-entier-B
+cent paiement-montant-entier-I
+cinquante paiement-montant-entier-I
+euros paiement-monnaie-B
+s' null
+il null
+vous null
+plaît null
+donc connectProp-B
+pourriez-vous command-tache-B
+faire command-tache-I
+la command-tache-I
+réservation command-tache-I
+s' null
+il null
+vous null
+plaît null
+
+oui reponse-B
+
+euh null
+non reponse-B
+comme null
+je null
+suis null
+vraiment null
+intéressé null
+pour null
+la null
+période null
+du temps-jour-mois-B
+douze temps-jour-mois-I
+au temps-jour-mois-B
+quatorze temps-jour-mois-I
+et connectProp-B
+je null
+souhaite null
+par connectProp-B
+conséquent connectProp-I
+euh command-tache-B
+que command-tache-I
+vous command-tache-I
+me command-tache-I
+proposiez command-tache-I
+le command-tache-I
+autre command-tache-I
+chose command-tache-I
+éventuellement null
+s null
+le lienRef-elsEns-B
+second rang-hotel-B
+hôtel objetBD-B
+que null
+vous null
+vouliez null
+me null
+proposer null
+qui null
+était null
+du null
+reste null
+un comparatif-paiement-B
+peu comparatif-paiement-I
+moins comparatif-paiement-I
+cher comparatif-paiement-I
+
+écoutez null
+vous null
+pouvez null
+effectuer null
+la null
+réservation null
+donc null
+pour null
+la lienRef-coRef-B
+période objet-B
+que null
+je null
+vous null
+ai null
+indiquée null
+et connectProp-B
+vous null
+n' null
+omettez null
+pas null
+de null
+euh null
+le null
+donc null
+la null
+caractéristique null
+suivante null
+que null
+le hotel-parking-B
+parking hotel-parking-I
+soit hotel-parking-I
+surveillé hotel-parking-I
+s' null
+il null
+vous null
+plaît null
+merci null
+madame null
+
+euh null
+a null
+priori null
+c' null
+est null
+parfait null
+je null
+vous null
+remercie null
+infiniment null
+donc null
+je null
+vais null
+relever null
+le objet-B
+numéro objet-I
+de objet-I
+dossier objet-I
+le nombre-reservation-B
+zéro nombre-reservation-I
+quarante nombre-reservation-I
+et nombre-reservation-I
+un nombre-reservation-I
+cent nombre-reservation-I
+quarante nombre-reservation-I
+neuf nombre-reservation-I
+merci null
+madame null
+
+à null
+bientôt null
+j' null
+espère null
+au null
+revoir null
+
+merci null
+madame null
+au null
+revoir null
+

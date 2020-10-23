@@ -1,0 +1,12135 @@
+alors O
+j O
+s' O
+il O
+vous O
+plaît O
+je B-command-tache
+voudrais I-command-tache
+une I-command-tache
+réservation I-command-tache
+pour B-temps-axeTps
+euh I-temps-axeTps
+les I-temps-axeTps
+premiers I-temps-axeTps
+jours B-temps-unite
+de B-temps-mois
+mai I-temps-mois
+à B-localisation-ville
+Marseille I-localisation-ville
+les B-nombre-temps
+trois I-nombre-temps
+premiers B-temps-axeTps
+jours B-temps-unite
+de B-temps-mois
+mai I-temps-mois
+
+oui B-reponse
+
+alors O
+j' O
+ai O
+déjà O
+une B-nombre-chambre
+je O
+veux O
+une B-nombre-chambre
+chambre B-chambre-type
+simple I-chambre-type
+de O
+cent B-paiement-montant-entier
+deux I-paiement-montant-entier
+euros B-paiement-monnaie
+de O
+préférence O
+et B-connectProp
+une O
+formule O
+près B-localisation-distanceRelative
+d' I-localisation-distanceRelative
+un B-localisation-lieuRelatif
+restaurant I-localisation-lieuRelatif
+c' O
+est O
+possible O
+
+combien B-objet
+d' I-objet
+étoiles I-objet
+
+d'accord B-reponse
+
+ça O
+fait O
+à B-comparatif-paiement
+à I-comparatif-paiement
+peu I-comparatif-paiement
+près I-comparatif-paiement
+combien B-objet
+pour O
+une B-nombre-chambre
+chambre B-chambre-type
+simple I-chambre-type
+
+huhum O
+
+voilà O
+alors O
+c' O
+est O
+celui-là B-lienRef-elsEns
+que O
+je O
+veux O
+
+oui B-reponse
+
+est-ce O
+qu' O
+il O
+y O
+a O
+un B-localisation-lieuRelatif
+restaurant I-localisation-lieuRelatif
+à B-localisation-distanceRelative
+côté I-localisation-distanceRelative
+
+oui B-reponse
+
+ah O
+dans O
+l' B-lienRef-coRef
+hôtel B-objetBD
+eh O
+ben O
+écoutez O
+c' O
+est O
+parfait O
+à B-localisation-ville
+Marseille I-localisation-ville
+hein O
+
+d'accord B-reponse
+
+ah O
+alors O
+le B-lienRef-elsEns
+l' I-lienRef-elsEns
+avant B-rang
+dernier I-rang
+
+voilà O
+
+est-ce O
+qu' O
+il O
+y O
+a O
+un B-localisation-lieuRelatif
+restaurant I-localisation-lieuRelatif
+à B-localisation-distanceRelative
+côté I-localisation-distanceRelative
+
+ah O
+ben O
+alors O
+c' O
+est O
+parfait O
+
+hum O
+oui B-reponse
+
+pour B-nombre-temps
+les I-nombre-temps
+trois I-nombre-temps
+jours B-temps-unite
+
+d'accord B-reponse
+
+eh O
+bien O
+écoutez O
+non B-reponse
+euh O
+donc O
+je O
+note O
+qu' O
+à B-localisation-ville
+Marseille I-localisation-ville
+les B-nombre-temps
+trois I-nombre-temps
+premiers B-temps-axeTps
+jours B-temps-unite
+euh O
+de B-temps-mois
+mai I-temps-mois
+euh O
+pour O
+un O
+séjour O
+euh O
+de O
+trois B-sejour-nbNuit
+jours I-sejour-nbNuit
+c' O
+est O
+ça O
+euh O
+donc O
+vous O
+me O
+disiez O
+quel B-objet
+prix I-objet
+deux B-paiement-montant-entier
+cent I-paiement-montant-entier
+dix I-paiement-montant-entier
+euros B-paiement-monnaie
+c' B-command-dial
+est I-command-dial
+ça I-command-dial
+
+très O
+bien O
+et O
+ben O
+je O
+vous O
+remercie O
+madame O
+
+merci O
+au O
+revoir O
+
+oui B-reponse
+je B-command-tache
+voudrais I-command-tache
+réserver I-command-tache
+une B-nombre-chambre
+chambre I-nombre-chambre
+à B-localisation-ville
+Paris I-localisation-ville
+
+alors O
+je B-command-tache
+voudrais I-command-tache
+réserver I-command-tache
+une B-nombre-chambre
+chambre I-nombre-chambre
+pour B-evenement
+la I-evenement
+conférence I-evenement
+d' I-evenement
+Amnesty I-evenement
+International I-evenement
+du B-temps-date
+vingt I-temps-date
+quatre I-temps-date
+au B-temps-date
+vingt I-temps-date
+six I-temps-date
+juillet I-temps-date
+et B-connectProp
+je O
+voudrais O
+que O
+ça O
+soit O
+près B-localisation-distanceRelative
+de I-localisation-distanceRelative
+la B-localisation-rue
+place I-localisation-rue
+d' I-localisation-rue
+Italie I-localisation-rue
+
+euh O
+je O
+voudrais O
+est-ce O
+qu' O
+y O
+a O
+un B-localisation-lieuRelatif
+restaurant I-localisation-lieuRelatif
+végétarien I-localisation-lieuRelatif
+à B-localisation-distanceRelative
+côté I-localisation-distanceRelative
+de I-localisation-distanceRelative
+l' B-lienRef-coRef
+hôtel B-objetBD
+
+et O
+euh O
+est-ce O
+qu' O
+on O
+peut O
+avoir O
+euh O
+six B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+
+oui B-reponse
+s' O
+il O
+vous O
+plaît O
+
+euh O
+c' O
+est O
+bien O
+donc O
+réservez B-command-tache
+euh O
+pour O
+la O
+nuit O
+du B-temps-jour-mois
+vingt I-temps-jour-mois
+quatre I-temps-jour-mois
+au B-temps-jour-mois
+vingt I-temps-jour-mois
+six I-temps-jour-mois
+au B-temps-plageTps
+matin I-temps-plageTps
+
+bien O
+je O
+vous O
+remercie O
+
+je B-command-tache
+souhaite I-command-tache
+réserver I-command-tache
+euh O
+une B-nombre-chambre
+chambre I-nombre-chambre
+dans B-localisation-quartier
+l' I-localisation-quartier
+île I-localisation-quartier
+Saint-Louis I-localisation-quartier
+pour B-sejour-nbNuit
+deux I-sejour-nbNuit
+nuits I-sejour-nbNuit
+en B-temps-mois
+mars I-temps-mois
+je O
+veux O
+deux B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+et B-connectProp
+trois B-nombre-chambre
+chambres B-chambre-type
+doubles I-chambre-type
+euh O
+cent B-paiement-montant-entier
+trente I-paiement-montant-entier
+francs B-paiement-monnaie
+cent B-paiement-montant-entier
+trente I-paiement-montant-entier
+euros B-paiement-monnaie
+la O
+chambre O
+
+absolument B-reponse
+euh O
+
+je O
+je O
+voudrais O
+
+en B-temps-mois
+mars I-temps-mois
+on O
+va O
+dire O
+le B-temps-date
+cinq I-temps-date
+mars I-temps-date
+
+celui B-lienRef-elsEns
+qui O
+est O
+à O
+cent B-paiement-montant-entier
+trente I-paiement-montant-entier
+euros B-paiement-monnaie
+la O
+chambre O
+
+et O
+l' B-lienRef-coDom
+autre I-lienRef-coDom
+
+donc O
+le B-lienRef-elsEns
+premier B-rang
+
+absolument B-reponse
+
+euh O
+je O
+je O
+veux O
+deux B-sejour-nbNuit
+nuits I-sejour-nbNuit
+je O
+veux O
+deux B-sejour-nbNuit
+nuits I-sejour-nbNuit
+et B-connectProp
+je O
+veux O
+deux B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+et B-connectProp
+trois B-nombre-chambre
+chambres B-chambre-type
+doubles I-chambre-type
+
+oui B-reponse
+
+absolument B-reponse
+absolument I-reponse
+oui I-reponse
+oui I-reponse
+
+je O
+les B-lienRef-coRef
+réserve B-command-tache
+
+absolument B-reponse
+
+oui B-reponse
+
+zéro B-nombre
+
+d'accord B-reponse
+
+non B-reponse
+merci O
+c' O
+est O
+très O
+bien O
+
+au O
+revoir O
+madame O
+
+au O
+revoir O
+madame O
+
+je B-command-tache
+souhaiterais I-command-tache
+réserver I-command-tache
+une B-nombre-chambre
+chambre I-nombre-chambre
+entre B-localisation-ville
+Narbonne I-localisation-ville
+et B-localisation-ville
+Limoges I-localisation-ville
+trois B-sejour-nbNuit
+jours I-sejour-nbNuit
+à B-temps-jourFerie
+Noël I-temps-jourFerie
+le B-temps-date
+vingt I-temps-date
+trois I-temps-date
+vingt B-temps-date
+quatre I-temps-date
+et B-temps-date
+vingt I-temps-date
+cinq I-temps-date
+décembre I-temps-date
+pour B-sejour-nbCouple
+un I-sejour-nbCouple
+couple I-sejour-nbCouple
+plus B-sejour-nbEnfant
+un I-sejour-nbEnfant
+enfant I-sejour-nbEnfant
+pour B-objet
+un I-objet
+prix I-objet
+de I-objet
+soixante B-paiement-montant-entier
+euros B-paiement-monnaie
+la O
+nuit O
+et B-connectProp
+je O
+souhaite O
+également O
+avoir O
+une B-localisation-lieuRelatif
+patinoire I-localisation-lieuRelatif
+en B-localisation-lieuRelatif
+ville I-localisation-lieuRelatif
+
+merci O
+
+oui B-reponse
+dites-moi O
+dans O
+quelle O
+ville B-objet
+j' O
+ai O
+une B-localisation-lieuRelatif
+patinoire I-localisation-lieuRelatif
+
+oui B-reponse
+
+oui B-reponse
+et B-connectProp
+le B-objet
+prix I-objet
+des B-lienRef-coRef
+chambres B-objet
+soixante B-paiement-montant-entier
+euros B-paiement-monnaie
+dans O
+quelle O
+ville B-objet
+je O
+l' O
+ai O
+ça O
+pour B-nombre-chambre
+une I-nombre-chambre
+chambre I-nombre-chambre
+pour B-sejour-nbCouple
+un I-sejour-nbCouple
+couple I-sejour-nbCouple
+plus B-sejour-nbEnfant
+un I-sejour-nbEnfant
+enfant I-sejour-nbEnfant
+
+eh O
+ben O
+on B-command-tache
+va I-command-tache
+prendre I-command-tache
+Limoges B-localisation-ville
+
+donc O
+vous B-command-tache
+me I-command-tache
+réservez I-command-tache
+
+oui B-reponse
+absolument I-reponse
+
+merci O
+
+et O
+Toulouse B-localisation-ville
+
+oui B-reponse
+
+oui B-reponse
+
+et O
+ben O
+on O
+la B-lienRef-coRef
+prend O
+je O
+la O
+prends O
+
+ok B-reponse
+
+absolument B-reponse
+
+d'accord B-reponse
+
+oui B-reponse
+
+d'accord B-reponse
+
+non B-reponse
+merci O
+merci O
+beaucoup O
+madame O
+
+au O
+revoir O
+madame O
+
+au O
+au O
+revoir O
+
+madame O
+
+je O
+voudrais O
+faire O
+plusieurs B-nombreNonDigit
+réservations B-command-tache
+sur B-temps-mois
+le I-temps-mois
+mois I-temps-mois
+d' I-temps-mois
+avril I-temps-mois
+la B-rang-reservation
+première I-rang-reservation
+du B-temps-date
+vingt I-temps-date
+et I-temps-date
+un I-temps-date
+au B-temps-date
+vingt I-temps-date
+trois I-temps-date
+avril I-temps-date
+à B-localisation-ville
+Béziers I-localisation-ville
+euh O
+une B-nombre-chambre
+chambre I-nombre-chambre
+un B-sejour-nbCouple
+couple I-sejour-nbCouple
+pour I-sejour-nbCouple
+un I-sejour-nbCouple
+couple I-sejour-nbCouple
+avec B-sejour-nbEnfant
+un I-sejour-nbEnfant
+enfant I-sejour-nbEnfant
+et B-hotel-services
+un I-hotel-services
+chien I-hotel-services
+
+ouais B-reponse
+
+euh O
+quel O
+est O
+le B-lienRef-coRef
+prix B-objet
+de O
+la B-lienRef-coRef
+chambre B-objet
+
+c' O
+est O
+bon O
+
+ok B-reponse
+
+euh O
+oui B-reponse
+je O
+suppose O
+qu' O
+il O
+y O
+a O
+une O
+possibilité O
+de O
+lit B-sejour-nbEnfant
+d' I-sejour-nbEnfant
+appoint I-sejour-nbEnfant
+etc I-sejour-nbEnfant
+pour I-sejour-nbEnfant
+l' I-sejour-nbEnfant
+enfant I-sejour-nbEnfant
+et B-connectProp
+qu' O
+ils B-lienRef-coRef
+acceptent O
+les B-hotel-services
+animaux I-hotel-services
+
+ok B-reponse
+c' O
+est O
+bon O
+je B-command-tache
+réserve I-command-tache
+
+euh O
+oui B-reponse
+il O
+me O
+faudrait O
+aussi O
+euh O
+euh O
+une B-nombre-chambre
+chambre I-nombre-chambre
+du B-temps-date
+vingt I-temps-date
+trois I-temps-date
+au B-temps-date
+vingt I-temps-date
+six I-temps-date
+avril I-temps-date
+à B-localisation-ville
+Tulle I-localisation-ville
+
+toujours O
+chambre B-objet
+pour B-sejour-nbCouple
+un I-sejour-nbCouple
+couple I-sejour-nbCouple
+avec B-sejour-nbEnfant
+un I-sejour-nbEnfant
+enfant I-sejour-nbEnfant
+et B-hotel-services
+un I-hotel-services
+chien I-hotel-services
+à O
+quatre B-paiement-montant-entier
+vingts I-paiement-montant-entier
+euros B-paiement-monnaie
+la O
+nuit O
+maximum B-comparatif-paiement
+
+huhum O
+
+c' O
+est O
+parfait O
+je B-command-tache
+réserve I-command-tache
+
+d'accord B-reponse
+
+oui B-reponse
+oui I-reponse
+oui I-reponse
+
+ah O
+c' O
+est O
+pas O
+fini O
+allô O
+
+c' O
+est O
+pas O
+fini O
+j' B-command-tache
+ai I-command-tache
+encore I-command-tache
+une I-command-tache
+réservation I-command-tache
+à I-command-tache
+faire I-command-tache
+
+à B-localisation-ville
+Angers I-localisation-ville
+du B-temps-date
+vingt I-temps-date
+six I-temps-date
+au B-temps-date
+vingt I-temps-date
+huit I-temps-date
+avril I-temps-date
+
+hum O
+bon O
+c' O
+est O
+encore O
+acceptable O
+ils B-lienRef-coRef
+acceptent O
+les B-hotel-services
+animaux I-hotel-services
+
+d'accord B-reponse
+je B-command-tache
+réserve I-command-tache
+et O
+cette O
+fois-ci O
+c' O
+est O
+fini O
+
+huhum O
+
+ok B-reponse
+
+non B-reponse
+ça O
+ira O
+merci O
+beaucoup O
+
+au O
+revoir O
+
+je O
+cherche O
+un B-objetBD
+hôtel I-objetBD
+à B-localisation-ville
+Paris I-localisation-ville
+près B-localisation-distanceRelative
+d' I-localisation-distanceRelative
+Ivry B-localisation-ville
+euh O
+pour O
+la O
+période O
+du B-temps-date
+dix I-temps-date
+neuf I-temps-date
+au B-temps-date
+vingt I-temps-date
+cinq I-temps-date
+juillet I-temps-date
+il O
+me O
+faudrait O
+quatre B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+à B-comparatif-paiement
+moins I-comparatif-paiement
+de I-comparatif-paiement
+cent B-paiement-montant-entier
+cinquante I-paiement-montant-entier
+euros B-paiement-monnaie
+la O
+nuit O
+
+non B-reponse
+
+non B-reponse
+à B-localisation-ville
+Paris I-localisation-ville
+près B-localisation-distanceRelative
+d' I-localisation-distanceRelative
+Ivry B-localisation-ville
+
+oui B-reponse
+
+quels O
+sont O
+les B-lienRef-coRef
+prix B-objet
+des B-lienRef-coRef
+chambres B-chambre-type
+simples I-chambre-type
+
+euh O
+alors O
+le B-lienRef-elsEns
+premier B-rang
+
+oui B-reponse
+quatre B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+
+est-ce O
+qu' O
+il O
+y O
+a O
+un B-localisation-lieuRelatif
+resto I-localisation-lieuRelatif
+dans O
+
+est-ce O
+qu' O
+il O
+y O
+a O
+un B-hotel-services
+restaurant I-hotel-services
+dans O
+cet B-lienRef-coRef
+hôtel B-objetBD
+ou B-connectAttr
+dans B-localisation-distanceRelative
+les I-localisation-distanceRelative
+environs I-localisation-distanceRelative
+de B-objetBD
+l' I-objetBD
+hôtel I-objetBD
+tout O
+près O
+
+et O
+un B-hotel-parking
+parking I-hotel-parking
+privé I-hotel-parking
+
+bon O
+ben O
+c' O
+est O
+bon O
+c' O
+est O
+parfait O
+
+d'accord B-reponse
+
+ok B-reponse
+
+d'accord B-reponse
+
+non B-reponse
+non I-reponse
+c' O
+est O
+tout O
+
+au O
+revoir O
+
+ce B-command-tache
+serait I-command-tache
+ce I-command-tache
+serait I-command-tache
+pour I-command-tache
+réserver I-command-tache
+une B-nombre-chambre
+chambre B-chambre-type
+simple I-chambre-type
+à B-comparatif-paiement
+moins I-comparatif-paiement
+de I-comparatif-paiement
+cent B-paiement-montant-entier
+euros B-paiement-monnaie
+
+à B-localisation-ville
+Marseille I-localisation-ville
+
+alors O
+ça O
+serait O
+pour B-temps-mois
+le I-temps-mois
+mois I-temps-mois
+d' I-temps-mois
+août I-temps-mois
+
+oui B-reponse
+ça O
+serait O
+pour B-evenement
+la I-evenement
+course I-evenement
+de I-evenement
+voiliers I-evenement
+surtout O
+au B-temps-axeTps
+moment I-temps-axeTps
+de I-temps-axeTps
+la B-evenement
+course I-evenement
+des I-evenement
+voiliers I-evenement
+
+une B-nombre-chambre
+chambre I-nombre-chambre
+
+pour B-sejour-nbPersonne
+une I-sejour-nbPersonne
+personne I-sejour-nbPersonne
+
+hum O
+oui B-reponse
+soixante B-paiement-montant-entier
+dix I-paiement-montant-entier
+euros B-paiement-monnaie
+c' O
+est O
+bien O
+
+huhum O
+
+alors O
+hum O
+l' B-lienRef-coDom
+autre I-lienRef-coDom
+la O
+gamme O
+au-dessus O
+à O
+quatre B-paiement-montant-entier
+vingt I-paiement-montant-entier
+dix I-paiement-montant-entier
+euros B-paiement-monnaie
+
+oui B-reponse
+
+d'accord B-reponse
+
+oui B-reponse
+tout I-reponse
+à I-reponse
+fait I-reponse
+
+huhum O
+
+qu' O
+elle B-lienRef-coRef
+soit O
+près B-localisation-distanceRelative
+des I-localisation-distanceRelative
+r O
+oui B-reponse
+qu' O
+elle O
+s O
+
+ok B-reponse
+d'accord I-reponse
+
+ok B-reponse
+
+entendu B-reponse
+
+non B-reponse
+je O
+voudrais O
+que O
+ça O
+soit O
+près B-localisation-distanceRelative
+d' I-localisation-distanceRelative
+un B-localisation-lieuRelatif
+restaurant I-localisation-lieuRelatif
+
+très O
+bien O
+
+impeccable O
+alors O
+
+non B-reponse
+c' O
+est O
+bon O
+merci O
+donc B-connectProp
+c' O
+est O
+ok B-reponse
+pour O
+la B-lienRef-coRef
+chambre B-objet
+
+oui O
+bonjour O
+je B-command-tache
+souhaiterais I-command-tache
+réserver I-command-tache
+un B-objetBD
+hôtel I-objetBD
+sur B-localisation-ville
+Marseille I-localisation-ville
+s' O
+il O
+vous O
+plaît O
+
+alors O
+le B-rang-temps
+troisième I-rang-temps
+jour B-temps-unite
+de B-temps-mois
+mai I-temps-mois
+
+merci O
+
+alors O
+il O
+me O
+faudrait O
+une B-nombre-chambre
+semb I-nombre-chambre
+une I-nombre-chambre
+chambre B-chambre-type
+simple I-chambre-type
+à B-comparatif-paiement
+moins I-comparatif-paiement
+de I-comparatif-paiement
+cent B-paiement-montant-entier
+euros B-paiement-monnaie
+
+hum B-reponse
+d'accord I-reponse
+
+alors O
+réserver B-command-tache
+un B-objetBD
+hôtel I-objetBD
+sur B-localisation-ville
+Marseille I-localisation-ville
+
+euh O
+le B-rang-temps
+troisième I-rang-temps
+jour B-temps-unite
+de B-temps-mois
+mai I-temps-mois
+
+merci O
+
+alors O
+il O
+me O
+faudrait O
+une B-nombre-chambre
+chambre B-chambre-type
+simple I-chambre-type
+à B-comparatif-paiement
+moins I-comparatif-paiement
+de I-comparatif-paiement
+cent B-paiement-montant-entier
+euros B-paiement-monnaie
+plus B-connectProp
+une B-hotel-services
+piscine I-hotel-services
+s' O
+il O
+vous O
+plaît O
+
+hum B-reponse
+d'accord I-reponse
+c' O
+est O
+un B-hotel-marque
+Formule I-hotel-marque
+Un I-hotel-marque
+
+c' O
+est O
+près B-localisation-distanceRelative
+des I-localisation-distanceRelative
+restaurants B-localisation-lieuRelatif
+
+d'accord B-reponse
+ben B-command-tache
+je I-command-tache
+vais I-command-tache
+réserver I-command-tache
+cet B-lienRef-coRef
+hôtel B-objetBD
+hein O
+
+merci O
+
+euh O
+ben O
+je B-command-tache
+vais I-command-tache
+prendre I-command-tache
+le B-lienRef-elsEns
+deuxième B-rang-hotel
+hôtel B-objetBD
+
+euh O
+c' O
+est O
+à O
+quatre B-paiement-montant-entier
+vingt I-paiement-montant-entier
+dix I-paiement-montant-entier
+euros B-paiement-monnaie
+la O
+chambre O
+
+d'accord B-reponse
+
+ah O
+et O
+le B-lienRef-elsEns
+premier B-rang-hotel
+hôtel B-objetBD
+
+d'accord B-reponse
+
+bon O
+ben O
+je B-command-tache
+vais I-command-tache
+réserver I-command-tache
+le B-lienRef-elsEns
+premier B-rang-hotel
+hôtel B-objetBD
+hein O
+
+oui B-reponse
+
+merci O
+
+c' O
+est O
+pour O
+les B-rang-temps
+troisièmes I-rang-temps
+jours B-temps-unite
+de B-temps-mois
+mai I-temps-mois
+
+d'accord B-reponse
+donc B-connectProp
+je B-command-tache
+veux I-command-tache
+bien I-command-tache
+réserver I-command-tache
+cette B-lienRef-coRef
+chambre B-objet
+
+merci O
+
+d'accord B-reponse
+
+d'accord B-reponse
+
+entendu B-reponse
+
+non B-reponse
+madame O
+
+au O
+revoir O
+
+bonjour O
+euh B-command-tache
+je I-command-tache
+serais I-command-tache
+intéressée I-command-tache
+par I-command-tache
+une I-command-tache
+réservation I-command-tache
+d' B-nombre-chambre
+une I-nombre-chambre
+chambre B-chambre-type
+simple I-chambre-type
+entre B-localisation-ville
+Lyon I-localisation-ville
+et B-localisation-ville
+Saintes I-localisation-ville
+pour B-rang-temps
+le I-rang-temps
+troisième I-rang-temps
+week-end B-temps-unite
+de B-temps-mois
+mars I-temps-mois
+s' O
+il O
+vous O
+plaît O
+
+hum B-reponse
+d'accord I-reponse
+donc O
+il O
+me O
+faudrait O
+un B-objetBD
+hôtel I-objetBD
+donc O
+louer B-command-tache
+une B-nombre-chambre
+chambre B-chambre-type
+simple I-chambre-type
+mais B-connectProp
+pour O
+cent B-paiement-montant-entier
+euros B-paiement-monnaie
+maximum B-comparatif-paiement
+et B-connectProp
+un B-objetBD
+hôtel I-objetBD
+ayant O
+une B-hotel-services
+piscine I-hotel-services
+
+si O
+possible O
+
+bon O
+alors O
+dans O
+ce O
+cas O
+euh O
+je B-command-tache
+vais I-command-tache
+réserver I-command-tache
+pour B-rang-temps
+le I-rang-temps
+troisième I-rang-temps
+week-end B-temps-unite
+de B-temps-mois
+mars I-temps-mois
+une B-nombre-chambre
+chambre B-chambre-type
+simple I-chambre-type
+à B-nom-hotel
+l' I-nom-hotel
+hôtel I-nom-hotel
+Aston I-nom-hotel
+de B-localisation-ville
+Lyon I-localisation-ville
+pour O
+cent B-paiement-montant-entier
+quarante I-paiement-montant-entier
+euros B-paiement-monnaie
+puisqu' B-connectProp
+il O
+y O
+a O
+une B-hotel-services
+piscine I-hotel-services
+
+euh O
+merci O
+
+ah O
+alors O
+si O
+c' O
+est O
+complet B-hotel-etat-complet
+et B-connectProp
+le O
+il O
+n' O
+y O
+a O
+pas B-lienRef-coDom
+d' I-lienRef-coDom
+autres I-lienRef-coDom
+euh O
+hôtels B-objetBD
+entre B-localisation-ville
+Lyon I-localisation-ville
+et B-localisation-ville
+Saintes I-localisation-ville
+il O
+n' O
+y O
+a O
+rien O
+d' O
+autre O
+euh O
+il O
+n' O
+y O
+a O
+que O
+ces B-nombre
+trois I-nombre
+possibilités B-objet
+Lyon B-localisation-ville
+Valence B-localisation-ville
+et B-localisation-ville
+Saintes I-localisation-ville
+
+d'accord B-reponse
+bon O
+ben O
+dans O
+ce O
+cas O
+je O
+vais O
+patienter O
+peut-être O
+qu' O
+il O
+y O
+aura O
+un O
+désistement O
+je O
+rappellerai O
+un O
+peu O
+plus O
+tard O
+
+d'accord B-reponse
+
+au O
+revoir O
+
+oui O
+bonjour O
+je O
+voudrais O
+pour O
+Lyon B-localisation-ville
+s' O
+il O
+vous O
+plaît O
+les B-nombre-temps
+trois I-nombre-temps
+premiers B-temps-axeTps
+jours B-temps-unite
+d' B-temps-mois
+octobre I-temps-mois
+une B-nombre-chambre
+chambre B-chambre-type
+simple I-chambre-type
+pas B-paiement-montantQualitatif
+trop I-paiement-montantQualitatif
+chère I-paiement-montantQualitatif
+de O
+préférence O
+un B-hotel-marque
+hôtel I-hotel-marque
+type I-hotel-marque
+Novotel I-hotel-marque
+avec B-hotel-services
+terrain I-hotel-services
+de I-hotel-services
+tennis I-hotel-services
+et B-connectProp
+près B-localisation-distanceRelative
+d' I-localisation-distanceRelative
+un B-localisation-lieuRelatif
+restaurant I-localisation-lieuRelatif
+
+bien O
+
+oui B-reponse
+
+et O
+bien O
+je O
+voudrais O
+euh O
+souhaiterais O
+je B-reponse
+ne I-reponse
+sais I-reponse
+pas I-reponse
+Beaugency B-nom
+est-ce O
+qu' O
+il O
+y O
+a O
+un B-hotel-services
+terrain I-hotel-services
+de I-hotel-services
+tennis I-hotel-services
+est-ce O
+que O
+c' O
+est O
+près B-localisation-distanceRelative
+d' I-localisation-distanceRelative
+un B-localisation-lieuRelatif
+restaurant I-localisation-lieuRelatif
+
+alors O
+dans O
+ce O
+cas O
+ça B-reponse
+me I-reponse
+convient I-reponse
+euh O
+je O
+j' B-command-tache
+aimerais I-command-tache
+que I-command-tache
+vous I-command-tache
+me I-command-tache
+réserviez I-command-tache
+une B-nombre-chambre
+chambre I-nombre-chambre
+
+merci O
+
+oui B-reponse
+
+oui B-reponse
+est-ce O
+que O
+je O
+peux O
+connaître O
+le B-lienRef-coRef
+tarif B-objet
+
+cinquante B-paiement-montant-entier
+euros B-paiement-monnaie
+d'accord B-reponse
+donc B-connectProp
+avec B-hotel-services
+terrain I-hotel-services
+tennis I-hotel-services
+de I-hotel-services
+tennis I-hotel-services
+et B-connectProp
+donc O
+euh O
+centre B-localisation-lieuRelatif
+ville I-localisation-lieuRelatif
+donc B-connectProp
+près B-localisation-distanceRelative
+d' I-localisation-distanceRelative
+un B-localisation-lieuRelatif
+restaurant I-localisation-lieuRelatif
+eh O
+bien O
+je O
+vous O
+
+remercie O
+je O
+compte O
+sur O
+vous O
+pour O
+la B-command-tache
+réservation I-command-tache
+
+hum O
+bien O
+sûr O
+
+cent B-nombre
+cinquante I-nombre
+et I-nombre
+un I-nombre
+cent I-nombre
+
+vingt B-nombre
+quatre I-nombre
+d'accord B-reponse
+
+c' O
+est O
+bien O
+cela O
+
+d'accord B-reponse
+
+non B-reponse
+je O
+vous O
+remercie O
+et O
+bonne O
+soirée O
+
+au O
+revoir O
+
+alors B-command-tache
+j' I-command-tache
+aimerais I-command-tache
+réserver I-command-tache
+dix B-nombre-chambre
+huit I-nombre-chambre
+chambres B-chambre-type
+d' I-chambre-type
+hôtel I-chambre-type
+individuelles I-chambre-type
+euh O
+à B-localisation-ville
+Sceaux I-localisation-ville
+du O
+dans O
+la O
+nuit O
+du B-temps-date
+treize I-temps-date
+au B-temps-date
+quatorze I-temps-date
+juin I-temps-date
+ben O
+de B-temps-unite
+cette I-temps-unite
+année I-temps-unite
+pour B-evenement
+le I-evenement
+festival I-evenement
+de I-evenement
+l' I-evenement
+orangerie I-evenement
+euh O
+donc O
+ça O
+serait O
+un B-objet
+prix I-objet
+maximum B-comparatif-paiement
+de I-comparatif-paiement
+cent B-paiement-montant-entier
+vingt I-paiement-montant-entier
+euros B-paiement-monnaie
+la O
+nuit O
+euh O
+j' O
+aimerais O
+un B-hotel-marque
+hôtel I-hotel-marque
+Sofitel I-hotel-marque
+alors O
+dans B-localisation-lieuRelatif
+un I-localisation-lieuRelatif
+endroit I-localisation-lieuRelatif
+euh I-localisation-lieuRelatif
+assez I-localisation-lieuRelatif
+animé I-localisation-lieuRelatif
+le B-temps-plageTps
+soir I-temps-plageTps
+hein O
+voilà O
+
+oui B-reponse
+
+non B-reponse
+j' B-command-tache
+aimerais I-command-tache
+réserver I-command-tache
+dans B-hotel-marque
+l' I-hotel-marque
+hôtel I-hotel-marque
+un I-hotel-marque
+hôtel I-hotel-marque
+Sofitel I-hotel-marque
+
+dix B-nombre-chambre
+huit I-nombre-chambre
+chambres B-chambre-type
+individuelles I-chambre-type
+
+bon O
+alors O
+à O
+la O
+limite O
+je B-command-tache
+vais I-command-tache
+prendre I-command-tache
+dix B-nombre-chambre
+chambres I-nombre-chambre
+euh O
+à O
+quel O
+prix B-objet
+euh O
+s' O
+il O
+vous O
+plaît O
+
+bon O
+donc O
+je B-command-tache
+vais I-command-tache
+prendre I-command-tache
+dix B-nombre-chambre
+chambres I-nombre-chambre
+euh O
+euh O
+à B-hotel-marque
+l' I-hotel-marque
+hôtel I-hotel-marque
+Sofitel I-hotel-marque
+et B-connectProp
+puis I-connectProp
+huit B-nombre-chambre
+chambres I-nombre-chambre
+euh O
+dans O
+un B-nombre-hotel
+des B-lienRef-coRef
+deux B-nombre-hotel
+autres B-lienRef-coDom
+hôtels B-objetBD
+est-ce O
+qu' O
+ils O
+se O
+trouvent O
+euh O
+oh O
+ça O
+doit O
+être O
+assez O
+près B-localisation-distanceRelative
+parce B-connectProp
+que I-connectProp
+la B-localisation-ville
+ville I-localisation-ville
+de I-localisation-ville
+Sceaux I-localisation-ville
+c' O
+est O
+c' O
+est O
+petit O
+
+oui B-reponse
+à B-comparatif
+peu I-comparatif
+près I-comparatif
+
+oui B-reponse
+et B-connectProp
+l' B-lienRef-coDom
+autre I-lienRef-coDom
+
+bon O
+ça O
+m' O
+arrange O
+pas O
+beaucoup O
+et O
+est-ce O
+que O
+vous O
+auriez O
+dix B-nombre-chambre
+huit I-nombre-chambre
+chambres I-nombre-chambre
+d' I-nombre-chambre
+hôtel I-nombre-chambre
+d' I-nombre-chambre
+hôtel I-nombre-chambre
+euh O
+euh O
+ou B-connectProp
+huit B-nombre-chambre
+chambres I-nombre-chambre
+donc I-nombre-chambre
+euh I-nombre-chambre
+dix I-nombre-chambre
+chambres I-nombre-chambre
+à B-hotel-marque
+l' I-hotel-marque
+hôtel I-hotel-marque
+Sofitel I-hotel-marque
+mais O
+tandis O
+et B-connectProp
+dix B-nombre-chambre
+huit I-nombre-chambre
+chambres I-nombre-chambre
+dont O
+dans O
+un B-nombre-hotel
+de B-lienRef-coRef
+ces I-lienRef-coRef
+deux B-nombre-hotel
+hôtels I-nombre-hotel
+
+bon O
+ben O
+écoutez O
+
+oui B-reponse
+
+donc O
+je B-command-tache
+réserve I-command-tache
+dix B-nombre-chambre
+chambres I-nombre-chambre
+au B-hotel-marque
+à I-hotel-marque
+l' I-hotel-marque
+hôtel I-hotel-marque
+Sofitel I-hotel-marque
+et B-connectProp
+puis I-connectProp
+euh O
+huit B-nombre-chambre
+chambres I-nombre-chambre
+à B-nom-hotel
+l' I-nom-hotel
+hôtel I-nom-hotel
+Papaye I-nom-hotel
+
+oui B-reponse
+
+cent B-nombre
+quarante I-nombre
+six I-nombre
+deux I-nombre
+cent I-nombre
+vingt I-nombre
+et I-nombre
+un I-nombre
+oui B-reponse
+
+euh O
+non B-reponse
+je O
+pense O
+que O
+euh O
+que O
+ça O
+sera O
+tout O
+
+au O
+revoir O
+
+je B-command-tache
+souhaiterais I-command-tache
+réserver I-command-tache
+euh O
+une B-nombre-chambre
+chambre I-nombre-chambre
+d' I-nombre-chambre
+hôtel I-nombre-chambre
+à B-localisation-ville
+Marseille I-localisation-ville
+pour B-evenement
+la I-evenement
+fête I-evenement
+de I-evenement
+la I-evenement
+bouillabaisse I-evenement
+le B-temps-axeTps
+premier I-temps-axeTps
+week-end B-temps-unite
+d' B-temps-mois
+avril I-temps-mois
+
+auriez-vous O
+une B-objet
+place I-objet
+hôtel B-hotel-marque
+Mercure I-hotel-marque
+
+oui B-reponse
+
+d'accord B-reponse
+euh O
+une B-nombre-chambre
+chambre I-nombre-chambre
+pour B-sejour-nbCouple
+un I-sejour-nbCouple
+couple I-sejour-nbCouple
+une B-nombre-chambre
+chambre I-nombre-chambre
+pour B-sejour-nbCouple
+un I-sejour-nbCouple
+couple I-sejour-nbCouple
+
+bon O
+ben O
+c' O
+est O
+euh O
+la B-lienRef-elsEns
+deuxième B-rang
+option B-objet
+
+oui B-reponse
+à O
+quatre B-paiement-montant-entier
+vingts I-paiement-montant-entier
+euros B-paiement-monnaie
+est-ce O
+qu' O
+il O
+y O
+a O
+une B-hotel-services
+salle I-hotel-services
+de I-hotel-services
+sports I-hotel-services
+
+bon O
+euh O
+ben O
+euh O
+donc O
+euh O
+j' B-command-tache
+opte I-command-tache
+pour I-command-tache
+euh I-command-tache
+le B-nom
+Prado I-nom
+à O
+quatre B-paiement-montant-entier
+vingts I-paiement-montant-entier
+euros B-paiement-monnaie
+
+et B-command-tache
+qu' I-command-tache
+avez-vous I-command-tache
+à I-command-tache
+me I-command-tache
+proposer I-command-tache
+d' I-command-tache
+autre I-command-tache
+
+oui B-reponse
+
+ah O
+euh O
+vous O
+n' O
+avez O
+pas O
+cet B-lienRef-coRef
+équivalent B-objet
+en O
+quatre B-paiement-montant-entier
+vingts I-paiement-montant-entier
+euros B-paiement-monnaie
+bon O
+
+oui B-reponse
+oui I-reponse
+
+oui B-reponse
+
+d'accord B-reponse
+
+oui B-reponse
+
+allô O
+
+voilà B-reponse
+c' I-reponse
+est I-reponse
+entendu I-reponse
+
+non B-reponse
+merci O
+c' O
+est O
+tout O
+
+au O
+revoir O
+
+je O
+cherche O
+un B-objetBD
+hôtel I-objetBD
+situé O
+entre B-localisation-ville
+Mâcon I-localisation-ville
+et B-localisation-ville
+Marseille I-localisation-ville
+
+Mâcon B-localisation-ville
+et B-localisation-ville
+Marseille I-localisation-ville
+oui B-reponse
+
+les B-nombre-temps
+quatre I-nombre-temps
+premiers B-temps-axeTps
+jours B-temps-unite
+de B-temps-mois
+mars I-temps-mois
+
+Montélimar B-localisation-ville
+
+hum O
+pour B-nombre-temps
+les I-nombre-temps
+quatre I-nombre-temps
+premiers B-temps-axeTps
+jours B-temps-unite
+de B-temps-mois
+mars I-temps-mois
+
+une B-nombre-chambre
+chambre B-chambre-type
+simple I-chambre-type
+
+oh O
+c' O
+est O
+parfait O
+
+oui B-reponse
+c' O
+est O
+très O
+bien O
+oui B-reponse
+oui I-reponse
+
+bon O
+
+il O
+n' O
+y O
+a O
+pas O
+du O
+tout O
+d' B-lienRef-coDom
+autres I-lienRef-coDom
+villes B-localisation-lieuRelatif
+entre O
+les B-lienRef-coRef
+deux B-nombre-hotel
+y O
+a O
+pas O
+d' B-lienRef-coDom
+autres I-lienRef-coDom
+possibilités B-objet
+
+alors O
+euh O
+ce O
+sera O
+ce O
+sera O
+Marseille B-localisation-ville
+
+alors O
+ce O
+sera O
+plutôt O
+Mâcon B-localisation-ville
+alors O
+
+Mâcon B-localisation-ville
+
+oui B-reponse
+
+oui B-reponse
+
+oui B-reponse
+
+pour B-nombre-temps
+les I-nombre-temps
+quatre I-nombre-temps
+premiers B-temps-axeTps
+jours B-temps-unite
+de B-temps-mois
+mars I-temps-mois
+
+entendu B-reponse
+
+d'accord B-reponse
+
+non B-reponse
+non I-reponse
+
+non B-reponse
+c' O
+est O
+très O
+bien O
+je O
+vous O
+remercie O
+
+au O
+revoir O
+
+merci O
+au O
+revoir O
+
+je B-command-tache
+souhaiterais I-command-tache
+réserver I-command-tache
+du B-temps-date
+dix I-temps-date
+sept I-temps-date
+mai I-temps-date
+au B-temps-date
+premier I-temps-date
+juin I-temps-date
+à B-localisation-ville
+Thonon-Les-Bains I-localisation-ville
+pour B-evenement
+les I-evenement
+nuits I-evenement
+romantiques I-evenement
+du I-evenement
+Léman I-evenement
+deux B-nombre-chambre
+chambres B-chambre-type
+couples I-chambre-type
+dans O
+euh O
+dont O
+une O
+avec B-sejour-nbEnfant
+enfant I-sejour-nbEnfant
+pas B-paiement-montantQualitatif
+chère I-paiement-montantQualitatif
+près B-localisation-distanceRelative
+de I-localisation-distanceRelative
+d' I-localisation-distanceRelative
+un B-localisation-lieuRelatif
+cinéma I-localisation-lieuRelatif
+et B-connectProp
+près B-localisation-distanceRelative
+d' I-localisation-distanceRelative
+une B-localisation-lieuRelatif
+plage I-localisation-lieuRelatif
+
+l' B-nom-hotel
+hôtel I-nom-hotel
+du I-nom-hotel
+lac I-nom-hotel
+
+cinquante B-paiement-montant-entier
+euros B-paiement-monnaie
+la O
+nuit O
+euh O
+est-ce O
+qu' O
+il O
+serait O
+possible O
+de O
+l' O
+avoir O
+à O
+quarante B-paiement-montant-entier
+cinq I-paiement-montant-entier
+euros B-paiement-monnaie
+
+bon O
+alors O
+pour O
+cinquante B-paiement-montant-entier
+euros B-paiement-monnaie
+
+oui B-reponse
+
+deux B-nombre
+
+oui B-reponse
+à O
+ce O
+moment-là O
+dans O
+l' B-lienRef-coDom
+autre I-lienRef-coDom
+hôtel B-objetBD
+
+ok B-reponse
+ça I-reponse
+marche I-reponse
+
+non B-reponse
+
+merci O
+au O
+revoir O
+
+euh O
+je O
+voudrais O
+être O
+à B-localisation-ville
+Sceaux I-localisation-ville
+pour B-evenement
+le I-evenement
+festival I-evenement
+de I-evenement
+l' I-evenement
+orangerie I-evenement
+du B-temps-date
+treize I-temps-date
+au B-temps-date
+quatorze I-temps-date
+juillet I-temps-date
+et B-connectProp
+donc O
+je O
+voudrais O
+donc O
+euh O
+un B-objetBD
+hôtel I-objetBD
+euh O
+de O
+plus O
+précisément O
+un B-hotel-marque
+Sofitel I-hotel-marque
+près B-localisation-distanceRelative
+d' I-localisation-distanceRelative
+un B-localisation-lieuRelatif
+endroit I-localisation-lieuRelatif
+animé I-localisation-lieuRelatif
+et B-connectProp
+donc O
+je O
+désire O
+avoir O
+dix B-nombre-chambre
+huit I-nombre-chambre
+chambres B-chambre-type
+euh I-chambre-type
+individuelles I-chambre-type
+au B-objet
+prix I-objet
+de I-objet
+cent B-paiement-montant-entier
+vingt I-paiement-montant-entier
+euros B-paiement-monnaie
+la O
+nuit O
+
+oui B-reponse
+
+merci O
+
+euh O
+est-ce O
+que O
+parmi O
+ces B-lienRef-coRef
+trois B-nombre-hotel
+hôtels I-nombre-hotel
+quel O
+est O
+l' B-lienRef-coRef
+hôtel B-objetBD
+qui O
+se O
+trouve O
+près B-localisation-distanceRelative
+d' I-localisation-distanceRelative
+un B-localisation-lieuRelatif
+endroit I-localisation-lieuRelatif
+animé I-localisation-lieuRelatif
+
+et O
+le B-hotel-marque
+Sofitel I-hotel-marque
+pas O
+du O
+tout O
+
+euh O
+vous B-command-dial
+pourrez I-command-dial
+me I-command-dial
+redonner I-command-dial
+vous O
+dites O
+Papaye B-nom-hotel
+et B-nom-hotel
+Sarasin I-nom-hotel
+ils O
+sont O
+à O
+combien B-objet
+ce O
+sont O
+des B-chambre-type
+chambres I-chambre-type
+individuelles I-chambre-type
+
+bon B-command-tache
+je I-command-tache
+vais I-command-tache
+prendre I-command-tache
+donc O
+la B-objet
+chambre I-objet
+euh I-objet
+la I-objet
+chambre I-objet
+euh O
+Sarasin B-nom-hotel
+du B-temps-date
+treize I-temps-date
+au B-temps-date
+quatorze I-temps-date
+euh I-temps-date
+juillet I-temps-date
+donc B-connectProp
+ça O
+me O
+fait O
+dix B-nombre
+ouais O
+excusez-moi O
+s B-command-tache
+je I-command-tache
+vais I-command-tache
+prendre I-command-tache
+donc I-command-tache
+la I-command-tache
+une I-command-tache
+réservation I-command-tache
+du B-temps-date
+treize I-temps-date
+au B-temps-date
+quatorze I-temps-date
+juillet I-temps-date
+dix B-nombre-chambre
+huit I-nombre-chambre
+chambres B-chambre-type
+individuelles I-chambre-type
+est-ce B-objet
+que I-objet
+vous I-objet
+est I-objet
+est-ce I-objet
+que I-objet
+c' I-objet
+est I-objet
+disponible I-objet
+
+oui B-reponse
+dix B-nombre-chambre
+huit I-nombre-chambre
+chambres I-nombre-chambre
+madame O
+
+non B-reponse
+c' O
+est O
+bon O
+madame O
+merci O
+
+au O
+revoir O
+
+au O
+revoir O
+
+oui B-reponse
+
+huit B-nombre
+cent I-nombre
+vingt I-nombre
+six I-nombre
+
+ah O
+ah O
+attends O
+excusez-moi O
+alors O
+mon B-objet
+code I-objet
+d' I-objet
+appel I-objet
+est O
+le B-nombre
+euh I-nombre
+deux I-nombre
+cent I-nombre
+vingt I-nombre
+six I-nombre
+
+deux B-nombre
+cents I-nombre
+
+alors O
+s' O
+il O
+vous O
+plaît O
+je B-command-tache
+voudrais I-command-tache
+une I-command-tache
+réservation I-command-tache
+d' B-sejour-nbNuit
+une I-sejour-nbNuit
+nuit I-sejour-nbNuit
+à B-localisation-ville
+Albi I-localisation-ville
+au B-temps-mois
+mois I-temps-mois
+d' I-temps-mois
+octobre I-temps-mois
+prochain B-temps-axeTps
+
+alors O
+
+oui B-reponse
+
+alors O
+une B-sejour-nbNuit
+nuit I-sejour-nbNuit
+une B-nombre-chambre
+chambre B-chambre-type
+simple I-chambre-type
+à B-comparatif-paiement
+moins I-comparatif-paiement
+de I-comparatif-paiement
+cent B-paiement-montant-entier
+euros B-paiement-monnaie
+
+alors O
+excusez-moi O
+il O
+y O
+a O
+un B-hotel-services
+handicapé I-hotel-services
+avec I-hotel-services
+il I-hotel-services
+y I-hotel-services
+a I-hotel-services
+un I-hotel-services
+handicap I-hotel-services
+euh I-hotel-services
+un I-hotel-services
+handicapé I-hotel-services
+avec O
+moi O
+alors B-connectProp
+donc I-connectProp
+euh O
+je O
+voudrais O
+la B-rang
+troisième I-rang
+euh O
+euh O
+le B-lienRef-elsEns
+troisième B-rang-hotel
+hôtel B-objetBD
+que O
+vous O
+venez O
+de O
+me O
+citer O
+
+alors O
+le B-lienRef-elsEns
+deuxième B-rang
+excusez-moi O
+
+oui B-reponse
+
+vous O
+pouvez O
+me O
+donner O
+son B-lienRef-coRef
+prix B-objet
+s' O
+il O
+vous O
+plaît O
+
+eh O
+ben O
+c' O
+est O
+parfait O
+
+très O
+bien O
+
+et O
+ben O
+non B-reponse
+c' O
+est O
+c' O
+est O
+c' O
+est O
+c' O
+est O
+tout O
+ce O
+qui O
+me O
+fallait O
+alors O
+donc O
+c' O
+est O
+Albi B-localisation-ville
+au B-temps-mois
+mois I-temps-mois
+d' I-temps-mois
+octobre I-temps-mois
+une B-nombre-chambre
+chambre I-nombre-chambre
+à B-comparatif-paiement
+moins I-comparatif-paiement
+de I-comparatif-paiement
+cent B-paiement-montant-entier
+euros B-paiement-monnaie
+c' O
+est O
+et B-connectProp
+il O
+y O
+a O
+avec O
+moi O
+un B-hotel-services
+handicapé I-hotel-services
+
+ah O
+ben O
+c' O
+est O
+parfait O
+
+merci O
+beaucoup O
+
+non B-reponse
+ça O
+
+me O
+convient O
+
+merci O
+
+pour O
+une O
+euh O
+pour O
+des B-command-tache
+réservations I-command-tache
+je O
+voudrais O
+du B-temps-date
+premier I-temps-date
+au B-temps-date
+deux I-temps-date
+avril I-temps-date
+une B-sejour-nbNuit
+nuit I-sejour-nbNuit
+à B-localisation-ville
+Albi I-localisation-ville
+du B-temps-date
+deux I-temps-date
+au B-temps-date
+quatre I-temps-date
+avril I-temps-date
+donc B-connectProp
+deux B-sejour-nbNuit
+nuits I-sejour-nbNuit
+à B-localisation-ville
+Nevers I-localisation-ville
+en B-chambre-type
+chambres I-chambre-type
+individuelles I-chambre-type
+euh O
+dans B-objetBD
+un I-objetBD
+hôtel I-objetBD
+ayant B-hotel-services
+des I-hotel-services
+accès I-hotel-services
+pour I-hotel-services
+les I-hotel-services
+handicapés I-hotel-services
+à B-comparatif-paiement
+moins I-comparatif-paiement
+de I-comparatif-paiement
+cent B-paiement-montant-entier
+euros B-paiement-monnaie
+s' O
+il O
+vous O
+plaît O
+
+m O
+
+il O
+y O
+a O
+un B-hotel-services
+accès I-hotel-services
+pour I-hotel-services
+les I-hotel-services
+handicapés I-hotel-services
+
+euh O
+même O
+pour O
+les B-lienRef-coRef
+chambres B-objet
+et O
+tout O
+pour O
+aller O
+dans O
+les B-objet
+chambres I-objet
+pour O
+se O
+véhiculer O
+dans O
+tout O
+l' B-lienRef-coRef
+hôtel B-objetBD
+
+oui B-reponse
+c' O
+est O
+répété O
+ok B-reponse
+je B-command-tache
+réserve I-command-tache
+
+pour B-localisation-ville
+Albi I-localisation-ville
+
+l' B-nom-hotel
+hôtel I-nom-hotel
+du I-nom-hotel
+mérite I-nom-hotel
+
+oui B-reponse
+
+oui B-reponse
+
+non B-reponse
+
+euh O
+il O
+n' O
+y O
+a O
+pas O
+moins B-comparatif-paiement
+cher I-comparatif-paiement
+pour B-localisation-ville
+Nevers I-localisation-ville
+
+ok B-reponse
+bon B-command-tache
+ben I-command-tache
+je I-command-tache
+réserve I-command-tache
+que O
+pour B-localisation-ville
+Albi I-localisation-ville
+
+oui B-reponse
+
+non B-reponse
+merci O
+
+au O
+revoir O
+
+voilà O
+je B-command-tache
+voudrais I-command-tache
+réserver I-command-tache
+plusieurs B-nombreNonDigit
+chambres B-objet
+d' I-objet
+hôtel I-objet
+du B-temps-date
+vingt I-temps-date
+et I-temps-date
+un I-temps-date
+quatre I-temps-date
+c' B-connectProp
+est-à-dire I-connectProp
+du B-temps-date
+vingt I-temps-date
+et I-temps-date
+un I-temps-date
+avril I-temps-date
+au B-temps-date
+vingt I-temps-date
+trois I-temps-date
+avril I-temps-date
+deux B-sejour-nbNuit
+nuits I-sejour-nbNuit
+à B-localisation-ville
+Béziers I-localisation-ville
+du B-temps-date
+vingt I-temps-date
+trois I-temps-date
+avril I-temps-date
+au B-temps-date
+vingt I-temps-date
+six I-temps-date
+avril I-temps-date
+trois B-sejour-nbNuit
+nuits I-sejour-nbNuit
+à B-localisation-ville
+Tulle I-localisation-ville
+et B-connectProp
+du B-temps-date
+vingt I-temps-date
+six I-temps-date
+avril I-temps-date
+au B-temps-date
+vingt I-temps-date
+huit I-temps-date
+avril I-temps-date
+deux B-sejour-nbNuit
+nuits I-sejour-nbNuit
+à B-localisation-ville
+Angers I-localisation-ville
+ça O
+serait O
+pour O
+un B-sejour-nbCouple
+couple I-sejour-nbCouple
+avec B-sejour-nbEnfant
+un I-sejour-nbEnfant
+enfant I-sejour-nbEnfant
+je O
+voudrais O
+mettre O
+quatre B-paiement-montant-entier
+vingts I-paiement-montant-entier
+euros B-paiement-monnaie
+maximum B-comparatif-paiement
+et B-connectProp
+j' O
+ai O
+un B-hotel-services
+petit I-hotel-services
+chat I-hotel-services
+voilà O
+pouvez-vous B-command-tache
+me I-command-tache
+renseigner I-command-tache
+
+oui B-reponse
+
+oui B-reponse
+
+oui B-reponse
+
+oui B-reponse
+
+hôtel B-objetBD
+des O
+z O
+
+c' O
+est O
+très O
+bien O
+
+tu O
+prends O
+tu O
+prends O
+note O
+c' O
+est O
+qui O
+
+oui B-reponse
+
+d'accord B-reponse
+
+c' O
+est O
+très O
+bien O
+
+ah O
+c' O
+est O
+très O
+bien O
+par O
+contre O
+est-ce O
+que O
+l' B-lienRef-coRef
+hôtel B-objetBD
+de B-localisation-ville
+Béziers I-localisation-ville
+accepte O
+le B-hotel-services
+petit I-hotel-services
+chat I-hotel-services
+
+d'accord B-reponse
+
+d'accord B-reponse
+
+ok B-reponse
+
+je B-command-dial
+confirme I-command-dial
+
+euh O
+vous O
+n' O
+auriez O
+pas O
+moins B-comparatif-paiement
+de I-comparatif-paiement
+quatre B-paiement-montant-entier
+vingt I-paiement-montant-entier
+cinq I-paiement-montant-entier
+euros B-paiement-monnaie
+
+bon O
+ben O
+écoutez O
+je O
+vais O
+je O
+vais O
+le B-lienRef-coRef
+prendre O
+
+deux B-nombre
+
+cents B-nombre
+
+non B-reponse
+
+merci O
+au O
+revoir O
+
+oui O
+bonjour O
+j' B-command-tache
+aurais I-command-tache
+voulu I-command-tache
+réserver I-command-tache
+quatre B-sejour-nbNuit
+nuits I-sejour-nbNuit
+à B-localisation-ville
+Cannes I-localisation-ville
+du B-temps-jour-mois
+quatorze I-temps-jour-mois
+au O
+
+dix B-temps-date
+huit I-temps-date
+mars I-temps-date
+
+j' B-command-tache
+aurais I-command-tache
+voulu I-command-tache
+euh I-command-tache
+réserver I-command-tache
+quatre B-sejour-nbNuit
+nuits I-sejour-nbNuit
+à B-localisation-ville
+Cannes I-localisation-ville
+du B-temps-date
+quatorze I-temps-date
+au B-temps-date
+dix I-temps-date
+huit I-temps-date
+mars I-temps-date
+et B-connectProp
+deux B-sejour-nbNuit
+nuits I-sejour-nbNuit
+à B-localisation-ville
+Vichy I-localisation-ville
+le B-temps-date
+dix I-temps-date
+huit I-temps-date
+et B-temps-date
+dix I-temps-date
+neuf I-temps-date
+mars I-temps-date
+pour B-nombre-chambre
+deux I-nombre-chambre
+chambres B-chambre-type
+individuelles I-chambre-type
+à B-comparatif-paiement
+moins I-comparatif-paiement
+de I-comparatif-paiement
+cinquante B-paiement-montant-entier
+euros B-paiement-monnaie
+la O
+nuit O
+euh O
+nous O
+viendrons O
+avec O
+un B-hotel-services
+chien I-hotel-services
+et B-connectProp
+nous O
+aimerions O
+une B-chambre-equipement
+baignoire I-chambre-equipement
+dans O
+la B-lienRef-coRef
+chambre B-objet
+
+euh O
+je B-command-tache
+voudrais I-command-tache
+obtenir I-command-tache
+plus I-command-tache
+de I-command-tache
+détails I-command-tache
+s' O
+il O
+vous O
+plaît O
+je O
+voudrais O
+savoir O
+s' O
+ils B-lienRef-coRef
+acceptent O
+les B-hotel-services
+chiens I-hotel-services
+et B-connectProp
+s' O
+il O
+y O
+a O
+une B-chambre-equipement
+baignoire I-chambre-equipement
+dans O
+la B-lienRef-coRef
+chambre B-objet
+
+donc O
+oui B-reponse
+je B-command-tache
+veux I-command-tache
+bien I-command-tache
+faire I-command-tache
+une I-command-tache
+réservation I-command-tache
+dans O
+cet B-lienRef-coRef
+hôtel B-objetBD
+mais B-connectProp
+avec B-chambre-equipement
+une I-chambre-equipement
+baignoire I-chambre-equipement
+dans O
+la B-lienRef-coRef
+chambre B-objet
+
+bon O
+ben O
+d'accord B-reponse
+j' B-command-tache
+accepte I-command-tache
+euh I-command-tache
+la I-command-tache
+réservation I-command-tache
+dans O
+cet B-lienRef-coRef
+hôtel B-objetBD
+
+ah O
+euh O
+non B-reponse
+je O
+vous O
+avais O
+demandé O
+à B-comparatif-paiement
+moins I-comparatif-paiement
+de I-comparatif-paiement
+cinquante B-paiement-montant-entier
+euros B-paiement-monnaie
+la O
+nuit O
+
+oui B-reponse
+
+oui B-reponse
+c' I-reponse
+est I-reponse
+bon I-reponse
+d'accord I-reponse
+excusez-moi O
+
+non B-reponse
+je O
+vous O
+remercie O
+
+bonne O
+journée O
+
+réserver B-command-tache
+un B-objetBD
+hôtel I-objetBD
+à B-localisation-ville
+Paris I-localisation-ville
+dix B-localisation-arrondissement
+huitième I-localisation-arrondissement
+
+les B-nombre-temps
+quatre I-nombre-temps
+premiers B-temps-axeTps
+jours B-temps-unite
+de B-temps-mois
+janvier I-temps-mois
+si O
+possible O
+
+oui B-reponse
+
+je O
+voudrais O
+une B-nombre-chambre
+chambre I-nombre-chambre
+pour B-sejour-nbEnfant
+avec I-sejour-nbEnfant
+un I-sejour-nbEnfant
+enfant I-sejour-nbEnfant
+s' O
+il O
+vous O
+plaît O
+
+oui B-reponse
+l' B-nom-hotel
+hôtel I-nom-hotel
+du I-nom-hotel
+temps I-nom-hotel
+perdu I-nom-hotel
+s' O
+il O
+vous O
+plaît O
+
+oui B-reponse
+
+réserver B-command-tache
+dans B-objetBD
+un I-objetBD
+hôtel I-objetBD
+s' O
+il O
+vous O
+plaît O
+
+oui B-reponse
+
+oui B-reponse
+
+j' O
+aimerais O
+savoir O
+s' O
+il O
+y O
+a O
+une B-hotel-services
+piscine I-hotel-services
+et B-hotel-services
+un I-hotel-services
+restaurant I-hotel-services
+dans O
+l' B-lienRef-coRef
+hôtel B-objetBD
+
+s' O
+il O
+ait O
+s' O
+il O
+y O
+a O
+d' B-lienRef-coDom
+autres I-lienRef-coDom
+hôtels B-objetBD
+avec B-hotel-services
+une I-hotel-services
+piscine I-hotel-services
+
+non B-reponse
+
+au O
+revoir O
+
+j' O
+aimerais O
+faire O
+plusieurs B-nombreNonDigit
+réservations B-command-tache
+du B-temps-date
+dix I-temps-date
+neuf I-temps-date
+au B-temps-date
+vingt I-temps-date
+deux I-temps-date
+octobre I-temps-date
+à B-localisation-ville
+Rochefort I-localisation-ville
+du B-temps-date
+vingt I-temps-date
+deux I-temps-date
+au B-temps-date
+vingt I-temps-date
+sept I-temps-date
+octobre I-temps-date
+à B-localisation-ville
+Perpignan I-localisation-ville
+et B-connectProp
+du B-temps-date
+vingt I-temps-date
+sept I-temps-date
+au B-temps-date
+vingt I-temps-date
+huit I-temps-date
+octobre I-temps-date
+à B-localisation-ville
+Toulouse I-localisation-ville
+dans B-hotel-etoile
+des I-hotel-etoile
+hôtels I-hotel-etoile
+deux I-hotel-etoile
+étoiles I-hotel-etoile
+
+une B-nombre-chambre
+chambre B-chambre-type
+double I-chambre-type
+dans O
+chacun O
+des B-lienRef-coRef
+hôtels B-objetBD
+
+oui B-reponse
+
+ça O
+me O
+parait O
+bien O
+
+parfait O
+
+oui B-reponse
+parfait O
+
+oui B-reponse
+
+je O
+n' O
+en B-lienRef-coRef
+ai O
+pas O
+besoin O
+
+au O
+revoir O
+
+j' O
+aimerais O
+savoir O
+s' O
+il O
+est O
+possible O
+de O
+réserver B-command-tache
+trente B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+avec B-chambre-equipement
+la I-chambre-equipement
+douche I-chambre-equipement
+dans O
+la B-lienRef-coRef
+chambre B-objet
+aux B-comparatif-paiement
+environs I-comparatif-paiement
+de I-comparatif-paiement
+soixante B-paiement-montant-entier
+quinze I-paiement-montant-entier
+euros B-paiement-monnaie
+du B-temps-date
+vingt I-temps-date
+cinq I-temps-date
+au B-temps-date
+vingt I-temps-date
+sept I-temps-date
+novembre I-temps-date
+près B-localisation-distanceRelative
+de I-localisation-distanceRelative
+la B-localisation-lieuRelatif
+gare I-localisation-lieuRelatif
+Saint-Lazare I-localisation-lieuRelatif
+à B-localisation-ville
+Paris I-localisation-ville
+
+non B-reponse
+
+je B-command-tache
+désire I-command-tache
+réserver I-command-tache
+trente B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+avec B-chambre-equipement
+douches I-chambre-equipement
+dans O
+les B-lienRef-coRef
+chambres B-objet
+aux B-comparatif-paiement
+environs I-comparatif-paiement
+de I-comparatif-paiement
+soixante B-paiement-montant-entier
+quinze I-paiement-montant-entier
+euros B-paiement-monnaie
+la O
+chambre O
+du B-temps-date
+vingt I-temps-date
+cinq I-temps-date
+au B-temps-date
+vingt I-temps-date
+sept I-temps-date
+novembre I-temps-date
+près B-localisation-distanceRelative
+de I-localisation-distanceRelative
+la B-localisation-lieuRelatif
+gare I-localisation-lieuRelatif
+Saint-Lazare I-localisation-lieuRelatif
+à B-localisation-ville
+Paris I-localisation-ville
+
+oui B-reponse
+le B-lienRef-elsEns
+premier B-rang
+
+une B-nombre
+trentaine I-nombre
+
+non B-reponse
+trente B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+
+oui B-reponse
+
+je O
+la B-lienRef-coRef
+confirme B-command-dial
+
+non B-reponse
+c' O
+est O
+bon O
+merci O
+
+au O
+revoir O
+
+je B-command-tache
+souhaiterais I-command-tache
+réserver I-command-tache
+un B-objetBD
+hôtel I-objetBD
+je B-command-tache
+souhaiterais I-command-tache
+réserver I-command-tache
+un B-objetBD
+hôtel I-objetBD
+du B-temps-date
+vingt I-temps-date
+cinq I-temps-date
+au B-temps-date
+vingt I-temps-date
+sept I-temps-date
+novembre I-temps-date
+deux B-sejour-nbNuit
+nuits I-sejour-nbNuit
+à B-localisation-ville
+Douai I-localisation-ville
+et B-connectProp
+du B-temps-date
+vingt I-temps-date
+sept I-temps-date
+novembre I-temps-date
+au B-temps-date
+premier I-temps-date
+décembre I-temps-date
+quatre B-sejour-nbNuit
+nuits I-sejour-nbNuit
+à B-localisation
+Nogent-Sur-Oise I-localisation
+je O
+voudrais O
+une B-nombre-chambre
+chambre B-chambre-type
+individuelle I-chambre-type
+à B-comparatif-paiement
+moins I-comparatif-paiement
+de I-comparatif-paiement
+soixante B-paiement-montant-entier
+quinze I-paiement-montant-entier
+euros B-paiement-monnaie
+je O
+voudrais O
+une B-hotel-services
+piscine I-hotel-services
+plus B-hotel-services
+un I-hotel-services
+jacuzzi I-hotel-services
+et B-connectProp
+la B-chambre-equipement
+douche I-chambre-equipement
+dans O
+la B-lienRef-coRef
+chambre B-objet
+et B-connectProp
+j' B-hotel-services
+ai I-hotel-services
+deux I-hotel-services
+chats I-hotel-services
+donc B-connectProp
+il O
+faudrait O
+que O
+les B-hotel-services
+chats I-hotel-services
+sont O
+autorisés O
+
+y O
+a-t-il O
+une B-hotel-services
+piscine I-hotel-services
+un B-hotel-services
+jacuzzi I-hotel-services
+est-ce O
+que O
+les B-hotel-services
+chats I-hotel-services
+sont O
+autorisés O
+et B-connectProp
+est-ce O
+que O
+la B-chambre-equipement
+douche I-chambre-equipement
+est O
+dans O
+la B-lienRef-coRef
+chambre B-objet
+
+y O
+a-t-il O
+une B-hotel-services
+piscine I-hotel-services
+
+je O
+s O
+
+oui B-reponse
+
+y O
+a-t-il O
+hun O
+une B-hotel-services
+piscine I-hotel-services
+un B-hotel-services
+jacuzzi I-hotel-services
+est-ce O
+que O
+les B-hotel-services
+chats I-hotel-services
+sont O
+acceptés O
+et B-connectProp
+est-ce O
+que O
+il O
+y O
+a O
+une B-chambre-equipement
+douche I-chambre-equipement
+dans O
+la B-lienRef-coRef
+chambre B-objet
+
+y O
+a-t-il O
+une B-hotel-services
+piscine I-hotel-services
+
+oui B-reponse
+
+non B-reponse
+
+oui O
+bonjour O
+je B-command-tache
+souhaiterais I-command-tache
+réserver I-command-tache
+pour B-rang-temps
+la I-rang-temps
+quatrième I-rang-temps
+semaine B-temps-unite
+de B-temps-mois
+mai I-temps-mois
+entre B-localisation-ville
+Amiens I-localisation-ville
+et B-localisation-ville
+Valenciennes I-localisation-ville
+trois B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+avec B-objet
+un I-objet
+prix I-objet
+maximum B-comparatif-paiement
+de I-comparatif-paiement
+quatre B-paiement-montant-entier
+vingts I-paiement-montant-entier
+euros B-paiement-monnaie
+s' O
+il O
+vous O
+plaît O
+
+oui B-reponse
+
+non B-reponse
+
+non B-reponse
+non I-reponse
+non I-reponse
+je O
+Amiens B-localisation-ville
+et B-localisation-ville
+Valenciennes I-localisation-ville
+
+oui B-reponse
+
+c' O
+est O
+ça O
+
+oui B-reponse
+
+oui B-reponse
+
+oui B-reponse
+
+Ibis B-hotel-marque
+
+oui B-reponse
+
+oui B-reponse
+
+oui B-reponse
+je B-command-tache
+vais I-command-tache
+prendre I-command-tache
+euh O
+le B-hotel-marque
+Novotel I-hotel-marque
+le I-hotel-marque
+Novotel I-hotel-marque
+Novotel I-hotel-marque
+Valenciennes B-nom-hotel
+il O
+me O
+faudrait O
+trois B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+
+oui B-reponse
+oui I-reponse
+oui I-reponse
+trois B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+
+s' O
+il O
+vous O
+plaît O
+
+ah O
+
+donc O
+ben O
+
+réservez-moi B-command-tache
+l' B-lienRef-coDom
+autre I-lienRef-coDom
+ch O
+
+oui B-reponse
+non I-reponse
+non I-reponse
+n I-reponse
+
+non B-reponse
+non I-reponse
+je O
+préfère O
+garder O
+la B-lienRef-coRef
+même I-lienRef-coRef
+date B-objet
+mais B-connectProp
+réserver B-command-tache
+à B-localisation-ville
+Reims I-localisation-ville
+
+oui B-reponse
+
+oui B-reponse
+
+il O
+me O
+faudrait O
+
+trois B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+s' O
+il O
+vous O
+plaît O
+
+trois B-nombre-chambre
+chambres I-nombre-chambre
+
+oui B-reponse
+c' O
+est O
+ça O
+
+bien O
+mais O
+j' O
+aurais O
+je O
+
+oui B-reponse
+je O
+le B-lienRef-coRef
+confirme B-command-dial
+
+oui B-reponse
+
+deux B-nombre
+cent I-nombre
+
+vingt B-nombre
+six I-nombre
+
+non B-reponse
+c' O
+est O
+très O
+bien O
+merci O
+
+au O
+revoir O
+
+bonjour O
+je B-command-tache
+désirerais I-command-tache
+euh I-command-tache
+une I-command-tache
+réservation I-command-tache
+pour B-localisation-ville
+Orléans I-localisation-ville
+une B-nombre-temps
+semaine B-temps-unite
+au B-temps-mois
+mois I-temps-mois
+d' I-temps-mois
+août I-temps-mois
+euh O
+pendant B-temps-axeTps
+le B-evenement
+festival I-evenement
+du I-evenement
+film I-evenement
+alors O
+ce O
+serait O
+trois B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+à B-comparatif-paiement
+moins I-comparatif-paiement
+de I-comparatif-paiement
+cinquante B-paiement-montant-entier
+euros B-paiement-monnaie
+au B-localisation-lieuRelatif
+calme I-localisation-lieuRelatif
+si O
+possible O
+
+oui B-reponse
+
+euh O
+j' B-command-tache
+aimerais I-command-tache
+avoir I-command-tache
+une I-command-tache
+petite I-command-tache
+euh I-command-tache
+information I-command-tache
+en I-command-tache
+plus I-command-tache
+lequel O
+de B-lienRef-coRef
+ces I-lienRef-coRef
+deux B-nombre-hotel
+hôtels I-nombre-hotel
+est O
+euh O
+pour O
+vous O
+le B-localisation-lieuRelatif
+plus I-localisation-lieuRelatif
+calme I-localisation-lieuRelatif
+euh O
+euh O
+en B-localisation-lieuRelatif
+périphérie I-localisation-lieuRelatif
+ou I-localisation-lieuRelatif
+ou I-localisation-lieuRelatif
+au I-localisation-lieuRelatif
+centre I-localisation-lieuRelatif
+ville I-localisation-lieuRelatif
+par O
+exemple O
+
+rappelez-moi B-command-dial
+le B-lienRef-coRef
+prix B-objet
+s' O
+il O
+vous O
+plaît O
+
+et O
+l' B-lienRef-coDom
+autre I-lienRef-coDom
+hôtel B-objetBD
+euh O
+est-il O
+au B-localisation-lieuRelatif
+calme I-localisation-lieuRelatif
+ou O
+également O
+
+donc O
+euh O
+nous B-command-tache
+prendrons I-command-tache
+euh O
+l' B-lienRef-coRef
+hôtel B-objetBD
+à O
+cinquante B-paiement-montant-entier
+cinq I-paiement-montant-entier
+euros B-paiement-monnaie
+au B-localisation-lieuRelatif
+calme I-localisation-lieuRelatif
+
+je B-command-dial
+confirme I-command-dial
+cette B-command-tache
+réservation I-command-tache
+pour B-nombre-temps
+une I-nombre-temps
+semaine B-temps-unite
+trois B-nombre-chambre
+chambres I-nombre-chambre
+tout B-reponse
+à I-reponse
+fait I-reponse
+
+je O
+vous O
+remercie O
+je O
+j' O
+ai O
+tout O
+ce O
+qu' O
+il O
+me O
+faut O
+
+au O
+revoir O
+
+bonjour O
+je B-command-tache
+désirerais I-command-tache
+réserver I-command-tache
+c' B-connectProp
+est-à-dire I-connectProp
+deux B-nombre-hotel
+réservations I-nombre-hotel
+du B-temps-date
+dix I-temps-date
+neuf I-temps-date
+au B-temps-date
+vingt I-temps-date
+deux I-temps-date
+octobre I-temps-date
+à B-localisation-ville
+Rochefort I-localisation-ville
+et B-connectProp
+du B-temps-date
+vingt I-temps-date
+deux I-temps-date
+au B-temps-date
+vingt I-temps-date
+sept I-temps-date
+octobre I-temps-date
+à B-localisation-ville
+Toulouse I-localisation-ville
+une B-nombre-chambre
+chambre B-chambre-type
+double I-chambre-type
+à O
+quatre B-paiement-montant-entier
+vingt I-paiement-montant-entier
+dix I-paiement-montant-entier
+euros B-paiement-monnaie
+maximum B-comparatif-paiement
+avec B-hotel-etoile
+un I-hotel-etoile
+hôtel I-hotel-etoile
+euh I-hotel-etoile
+deux I-hotel-etoile
+étoiles I-hotel-etoile
+où O
+les B-hotel-services
+animaux I-hotel-services
+sont O
+acceptés O
+
+pouvez-vous O
+me O
+dire O
+si O
+cet B-lienRef-coRef
+hôtel B-objetBD
+est O
+un B-hotel-etoile
+hôtel I-hotel-etoile
+deux I-hotel-etoile
+étoiles I-hotel-etoile
+et B-connectProp
+qu O
+s' O
+il O
+accepte O
+les B-hotel-services
+animaux I-hotel-services
+
+alors B-command-tache
+nous I-command-tache
+faisons I-command-tache
+cette I-command-tache
+réservation I-command-tache
+du B-temps-date
+dix I-temps-date
+neuf I-temps-date
+au B-temps-date
+vingt I-temps-date
+deux I-temps-date
+octobre I-temps-date
+c' O
+est O
+d'accord B-reponse
+
+nous B-command-dial
+confirmons I-command-dial
+cette B-command-tache
+réservation I-command-tache
+
+oui B-reponse
+pouvez-vous O
+me O
+dire O
+s' O
+il B-lienRef-coRef
+est O
+également O
+deux B-hotel-etoile
+étoiles I-hotel-etoile
+et B-connectProp
+si O
+les B-hotel-services
+animaux I-hotel-services
+sont O
+acceptés O
+
+dans O
+ce O
+cas-là O
+nous B-command-tache
+prenons I-command-tache
+la I-command-tache
+réservation I-command-tache
+euh O
+du B-temps-jour-mois
+vingt I-temps-jour-mois
+deux I-temps-jour-mois
+au B-temps-jour-mois
+vingt I-temps-jour-mois
+sept I-temps-jour-mois
+
+je O
+vous O
+remercie O
+ce O
+sera O
+tout O
+
+la O
+je B-command-tache
+voudrais I-command-tache
+réserver I-command-tache
+euh O
+à B-localisation-ville
+Sceaux I-localisation-ville
+près B-localisation-distanceRelative
+de I-localisation-distanceRelative
+festival B-evenement
+de I-evenement
+l' I-evenement
+orangerie I-evenement
+l' I-evenement
+orangerie I-evenement
+du O
+
+treize B-nombre
+
+je B-command-tache
+voudrais I-command-tache
+faire I-command-tache
+une I-command-tache
+réservation I-command-tache
+à B-localisation-ville
+Sceaux I-localisation-ville
+près B-localisation-distanceRelative
+de I-localisation-distanceRelative
+festival B-evenement
+de I-evenement
+l' I-evenement
+orangerie I-evenement
+du B-temps-date
+treize I-temps-date
+au B-temps-date
+quatorze I-temps-date
+juillet I-temps-date
+pour B-nombre-chambre
+dix I-nombre-chambre
+huit I-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+à O
+cent B-paiement-montant-entier
+vingt I-paiement-montant-entier
+euros B-paiement-monnaie
+la O
+chambre O
+environ B-comparatif-paiement
+de O
+préférence O
+dans B-hotel-marque
+un I-hotel-marque
+hôtel I-hotel-marque
+Sofitel I-hotel-marque
+près B-localisation-distanceRelative
+d' I-localisation-distanceRelative
+un B-localisation-lieuRelatif
+endroit I-localisation-lieuRelatif
+animé I-localisation-lieuRelatif
+s' O
+il O
+vous O
+plaît O
+
+oui B-reponse
+Papaye B-nom
+
+dix B-nombre-chambre
+huit I-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+
+merci O
+
+euh O
+et O
+Sarasin B-nom-hotel
+vous O
+pourrez O
+me O
+regarder O
+ne O
+me O
+regarder O
+euh O
+je O
+préfère O
+avoir O
+euh O
+avoir O
+les B-lienRef-coRef
+dix B-nombre-chambre
+huit I-nombre-chambre
+chambres I-nombre-chambre
+dans B-objetBD
+le I-objetBD
+même I-objetBD
+hôtel I-objetBD
+s' O
+il O
+vous O
+plaît O
+
+est-ce O
+que O
+ça O
+répond O
+aux B-lienRef-coRef
+mêmes I-lienRef-coRef
+critères B-objet
+euh O
+que O
+ceux B-lienRef-elsEns
+à O
+cent B-paiement-montant-entier
+vingt I-paiement-montant-entier
+euros B-paiement-monnaie
+s' O
+il O
+vous O
+plaît O
+
+oui B-reponse
+alors B-command-tache
+je I-command-tache
+je I-command-tache
+faire I-command-tache
+une I-command-tache
+réservation I-command-tache
+alors I-command-tache
+
+cent B-nombre
+quarante I-nombre
+
+merci O
+
+au O
+revoir O
+
+oui O
+bonjour O
+je B-command-tache
+souhaiterais I-command-tache
+réserver I-command-tache
+pour B-nombre-temps
+les I-nombre-temps
+trois I-nombre-temps
+derniers B-temps-axeTps
+jours B-temps-unite
+de B-temps-mois
+janvier I-temps-mois
+à B-localisation-ville
+La I-localisation-ville
+Ciotat I-localisation-ville
+pour B-evenement
+la I-evenement
+conférence I-evenement
+une B-nombre-chambre
+chambre I-nombre-chambre
+pour B-sejour-nbCouple
+couple I-sejour-nbCouple
+avec B-sejour-nbEnfant
+enfant I-sejour-nbEnfant
+environ B-comparatif-paiement
+dans I-comparatif-paiement
+les I-comparatif-paiement
+cinquante B-paiement-montant-entier
+euros B-paiement-monnaie
+et B-connectProp
+il O
+faut O
+que O
+ce O
+soit O
+proche B-localisation-distanceRelative
+d' I-localisation-distanceRelative
+un B-localisation-lieuRelatif
+casino I-localisation-lieuRelatif
+et B-connectProp
+il O
+faut O
+que O
+le B-lienRef-coRef
+l' I-lienRef-coRef
+hôtel B-objetBD
+ait B-hotel-services
+un I-hotel-services
+restaurant I-hotel-services
+ait I-hotel-services
+un I-hotel-services
+restaurant I-hotel-services
+et B-hotel-services
+un I-hotel-services
+sauna I-hotel-services
+
+oui B-reponse
+
+oh O
+c'est O
+cher B-paiement-montantQualitatif
+
+oui B-reponse
+
+est-ce O
+que O
+
+oui B-reponse
+dites-moi O
+est-ce O
+que O
+c' O
+est O
+près B-localisation-distanceRelative
+de I-localisation-distanceRelative
+de I-localisation-distanceRelative
+la B-evenement
+conférence I-evenement
+et B-connectProp
+est-ce O
+qu' O
+il O
+y O
+a O
+un B-localisation-lieuRelatif
+casino I-localisation-lieuRelatif
+à B-localisation-distanceRelative
+proximité I-localisation-distanceRelative
+
+oui B-reponse
+et B-connectProp
+est-ce O
+que O
+il O
+y O
+a O
+un B-hotel-services
+sauna I-hotel-services
+et B-hotel-services
+un I-hotel-services
+restaurant I-hotel-services
+dans O
+l' B-lienRef-coRef
+hôtel B-objetBD
+
+oui B-reponse
+c' O
+est O
+très O
+bien O
+bon B-command-tache
+ben I-command-tache
+je I-command-tache
+vais I-command-tache
+réserver I-command-tache
+ce B-objetBD
+cet I-objetBD
+hôtel I-objetBD
+l' B-nom-hotel
+hôtel I-nom-hotel
+du I-nom-hotel
+cap I-nom-hotel
+alors O
+
+oui B-reponse
+
+oui B-reponse
+oui I-reponse
+je B-command-dial
+confirme I-command-dial
+
+cent B-nombre
+soixante I-nombre
+dix I-nombre
+neuf I-nombre
+
+euh O
+non B-reponse
+non I-reponse
+c' O
+est O
+bien O
+c'est O
+bien O
+c' O
+est O
+bien O
+la B-evenement
+conférence I-evenement
+qu' O
+il O
+y O
+a O
+à O
+cette B-lienRef-coRef
+époque-là B-objet
+hein O
+à B-localisation-ville
+La I-localisation-ville
+Ciotat I-localisation-ville
+
+très O
+bien O
+ben O
+c' O
+est O
+parfait O
+
+merci O
+
+à O
+bientôt O
+au O
+revoir O
+
+j' B-command-tache
+aurais I-command-tache
+voulu I-command-tache
+faire I-command-tache
+une I-command-tache
+réservation I-command-tache
+d' B-objetBD
+hôtel I-objetBD
+à B-localisation-ville
+Paris I-localisation-ville
+du B-temps-date
+treize I-temps-date
+juillet I-temps-date
+au B-temps-date
+quatorze I-temps-date
+juillet I-temps-date
+près B-localisation-distanceRelative
+du I-localisation-distanceRelative
+festival B-evenement
+de I-evenement
+l' I-evenement
+orangerie I-evenement
+
+d'accord B-reponse
+il O
+me O
+faudrait O
+cinq B-nombre-chambre
+chambres B-chambre-type
+doubles I-chambre-type
+à B-comparatif-paiement
+peu I-comparatif-paiement
+près I-comparatif-paiement
+soixante B-paiement-montant-entier
+quinze I-paiement-montant-entier
+euros B-paiement-monnaie
+la O
+chambre O
+
+d'accord B-reponse
+euh O
+le B-lienRef-elsEns
+premier B-rang
+s' O
+il O
+vous O
+plaît O
+
+cinq B-nombre
+
+chambres B-chambre-type
+doubles I-chambre-type
+
+hum O
+alors O
+le B-lienRef-elsEns
+deuxième B-rang-hotel
+hôtel B-objetBD
+c' O
+était O
+combien B-objet
+la B-lienRef-coRef
+chambre B-objet
+
+est-ce O
+qu' O
+il B-lienRef-coRef
+est O
+situé O
+près B-localisation-distanceRelative
+des I-localisation-distanceRelative
+restaurants B-localisation-lieuRelatif
+et B-localisation-lieuRelatif
+des I-localisation-lieuRelatif
+cafés I-localisation-lieuRelatif
+
+d'accord B-reponse
+ben B-command-tache
+on I-command-tache
+va I-command-tache
+réserver I-command-tache
+pour O
+cet B-lienRef-coRef
+hôtel B-objetBD
+
+oui B-reponse
+
+d'accord B-reponse
+
+d'accord B-reponse
+
+non B-reponse
+
+au O
+revoir O
+
+je B-command-tache
+voudrais I-command-tache
+réserver I-command-tache
+des B-objetBD
+hôtels I-objetBD
+euh O
+pour B-temps-mois
+le I-temps-mois
+mois I-temps-mois
+d' I-temps-mois
+octobre I-temps-mois
+
+sur B-localisation-ville
+Rochefort I-localisation-ville
+
+Périgueux B-localisation-ville
+et B-localisation-ville
+Toulouse I-localisation-ville
+
+alors O
+euh O
+à B-localisation-ville
+Rochefort I-localisation-ville
+d'abord O
+
+alors O
+du B-temps-jour-mois
+dix I-temps-jour-mois
+neuf I-temps-jour-mois
+au B-temps-jour-mois
+vingt I-temps-jour-mois
+deux I-temps-jour-mois
+pour B-sejour-nbNuit
+trois I-sejour-nbNuit
+nuits I-sejour-nbNuit
+
+alors O
+il O
+me O
+faudrait O
+une B-nombre-chambre
+chambre I-nombre-chambre
+pour B-sejour-nbCouple
+un I-sejour-nbCouple
+couple I-sejour-nbCouple
+avec B-sejour-nbEnfant
+un I-sejour-nbEnfant
+enfant I-sejour-nbEnfant
+si O
+possible O
+deux B-hotel-etoile
+étoiles I-hotel-etoile
+et B-connectProp
+un B-objetBD
+hôtel I-objetBD
+qui O
+accepte O
+les B-hotel-services
+animaux I-hotel-services
+s' O
+il O
+vous O
+plaît O
+
+euh O
+à O
+combien B-objet
+est O
+la O
+nuit O
+s' O
+il O
+vous O
+plaît O
+
+hum O
+c' O
+est O
+un B-objetBD
+hôtel I-objetBD
+combien O
+il O
+y O
+a O
+combien B-objet
+d' I-objet
+étoiles I-objet
+
+euh O
+c' O
+est O
+un B-objetBD
+hôtel I-objetBD
+qui O
+accepte O
+qui O
+accepte O
+les B-hotel-services
+animaux I-hotel-services
+
+d'accord B-reponse
+alors B-command-tache
+je I-command-tache
+vais I-command-tache
+réserver I-command-tache
+
+merci O
+
+oui B-reponse
+
+oui B-reponse
+à B-localisation-ville
+Périgueux I-localisation-ville
+du B-temps-jour-mois
+vingt I-temps-jour-mois
+deux I-temps-jour-mois
+au B-temps-jour-mois
+vingt I-temps-jour-mois
+sept I-temps-jour-mois
+
+octobre B-temps-mois
+
+alors O
+à O
+combien B-objet
+c' O
+est O
+la O
+nuit O
+
+d'accord B-reponse
+il B-lienRef-coRef
+a O
+il O
+avait O
+combien B-objet
+d' I-objet
+étoiles I-objet
+
+ok B-reponse
+très O
+bien O
+
+euh O
+oui B-reponse
+je B-command-tache
+vais I-command-tache
+réserver I-command-tache
+s' O
+il O
+vous O
+plaît O
+
+oui B-reponse
+
+du B-temps-jour-mois
+vingt I-temps-jour-mois
+sept I-temps-jour-mois
+au B-temps-jour-mois
+vingt I-temps-jour-mois
+huit I-temps-jour-mois
+
+du B-temps-date
+vingt I-temps-date
+sept I-temps-date
+au B-temps-date
+vingt I-temps-date
+huit I-temps-date
+octobre I-temps-date
+
+une B-sejour-nbNuit
+nuit I-sejour-nbNuit
+
+alors O
+une B-nombre-chambre
+chambre I-nombre-chambre
+toujours O
+pour B-sejour-nbCouple
+un I-sejour-nbCouple
+couple I-sejour-nbCouple
+avec B-sejour-nbEnfant
+un I-sejour-nbEnfant
+enfant I-sejour-nbEnfant
+
+euh O
+hum O
+je O
+voudrais O
+il O
+y O
+a O
+combien B-objet
+d' I-objet
+étoiles I-objet
+
+trois B-hotel-etoile
+étoiles I-hotel-etoile
+à O
+quatre B-paiement-montant-entier
+vingt I-paiement-montant-entier
+dix I-paiement-montant-entier
+euros B-paiement-monnaie
+la O
+nuit O
+c' B-command-dial
+est I-command-dial
+ça I-command-dial
+
+d'accord B-reponse
+oui I-reponse
+je B-command-tache
+vais I-command-tache
+réserver I-command-tache
+s' O
+il O
+vous O
+plaît O
+
+donc O
+c' O
+est O
+bon O
+
+s' O
+il O
+vous O
+plaît O
+
+oui B-reponse
+je O
+voudrais O
+euh O
+savoir O
+quel O
+est O
+le B-objet
+mon I-objet
+coût I-objet
+le I-objet
+coût I-objet
+total I-objet
+de I-objet
+la I-objet
+réservation I-objet
+que O
+j' O
+ai O
+fait O
+sur B-localisation-ville
+Rochefort I-localisation-ville
+s' O
+il O
+vous O
+plaît O
+
+oui B-reponse
+
+d'accord B-reponse
+
+non B-reponse
+c' O
+est O
+bon O
+merci O
+
+au O
+revoir O
+
+oui B-reponse
+je B-command-tache
+voudrais I-command-tache
+réserver I-command-tache
+euh O
+euh O
+deux B-nombre-chambre
+chambres I-nombre-chambre
+à B-localisation-ville
+Thonon-Les-Bains I-localisation-ville
+du B-temps-date
+dix I-temps-date
+sept I-temps-date
+mai I-temps-date
+au B-temps-date
+premier I-temps-date
+juin I-temps-date
+voilà O
+donc O
+euh O
+la B-lienRef-elsEns
+chambre B-objet
+la B-comparatif-paiement
+plus I-comparatif-paiement
+chère I-comparatif-paiement
+possible I-comparatif-paiement
+et B-connectProp
+il O
+faut O
+que O
+ce O
+soit O
+près B-localisation-distanceRelative
+d' I-localisation-distanceRelative
+un B-localisation-lieuRelatif
+cinéma I-localisation-lieuRelatif
+et B-connectProp
+près B-localisation-distanceRelative
+d' I-localisation-distanceRelative
+une B-localisation-lieuRelatif
+plage I-localisation-lieuRelatif
+
+oui B-reponse
+
+oui B-reponse
+euh O
+bon O
+ben O
+euh O
+hôtel B-nom-hotel
+du I-nom-hotel
+lac I-nom-hotel
+
+alors O
+deux B-nombre-chambre
+chambres B-chambre-type
+doubles I-chambre-type
+les B-lienRef-elsEns
+plus B-comparatif-paiement
+chères I-comparatif-paiement
+hein O
+et B-chambre-standing
+les I-chambre-standing
+mieux I-chambre-standing
+
+oui B-reponse
+
+moi O
+je B-command-tache
+vais I-command-tache
+prendre I-command-tache
+l' B-nom-hotel
+hôtel I-nom-hotel
+du I-nom-hotel
+lac I-nom-hotel
+est-ce O
+qu' O
+il O
+y O
+a O
+est-ce O
+que O
+c' O
+est O
+près B-localisation-distanceRelative
+d' I-localisation-distanceRelative
+un B-localisation-lieuRelatif
+cinéma I-localisation-lieuRelatif
+
+d'accord B-reponse
+et B-connectProp
+il O
+y O
+a O
+une B-localisation-lieuRelatif
+plage I-localisation-lieuRelatif
+
+d'accord B-reponse
+et O
+bien O
+c' O
+est O
+parfait O
+donc O
+je B-command-tache
+prends I-command-tache
+cette I-command-tache
+réservation I-command-tache
+
+oui B-reponse
+
+donc O
+euh O
+ben O
+on O
+essaye O
+essayons O
+le B-nom-hotel
+la I-nom-hotel
+rotonde I-nom-hotel
+hôtel I-nom-hotel
+la I-nom-hotel
+rotonde I-nom-hotel
+
+voilà O
+
+euh O
+oui B-reponse
+oui I-reponse
+tout I-reponse
+à I-reponse
+fait I-reponse
+
+voilà O
+
+merci O
+
+oui B-reponse
+
+d'accord B-reponse
+merci O
+
+au O
+revoir O
+
+voilà O
+j' B-command-tache
+aurais I-command-tache
+besoin I-command-tache
+de I-command-tache
+réserver I-command-tache
+euh O
+douze B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+à B-localisation-ville
+Carpentras I-localisation-ville
+du B-temps-date
+quinze I-temps-date
+mars I-temps-date
+au B-temps-date
+dix I-temps-date
+sept I-temps-date
+mai I-temps-date
+des B-objet
+chambres I-objet
+à O
+environ B-comparatif-paiement
+cinquante B-paiement-montant-entier
+euros B-paiement-monnaie
+
+oui B-reponse
+
+Ambassador B-nom
+oui B-reponse
+euh O
+est-ce O
+que O
+c'est O
+possible O
+d' O
+avoir O
+douze B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+
+oui B-reponse
+
+oui B-reponse
+parfaitement I-reponse
+
+quel O
+est O
+le B-lienRef-coRef
+prix B-objet
+de O
+la B-lienRef-coRef
+chambre B-objet
+
+quel O
+est O
+le B-lienRef-coRef
+prix B-objet
+de O
+la B-lienRef-coRef
+chambre B-objet
+
+et O
+ben O
+c' O
+est O
+parfait O
+voilà O
+merci O
+et B-command-tache
+j' I-command-tache
+ai I-command-tache
+besoin I-command-tache
+euh I-command-tache
+d' I-command-tache
+autres I-command-tache
+réservations I-command-tache
+
+à B-localisation-ville
+Mende I-localisation-ville
+
+alors O
+
+pour B-temps-date
+le I-temps-date
+dix I-temps-date
+neuf I-temps-date
+mars I-temps-date
+également O
+douze B-nombre-chambre
+chambres I-nombre-chambre
+également O
+uniquement O
+pour B-temps-date
+le I-temps-date
+dix I-temps-date
+neuf I-temps-date
+mars I-temps-date
+
+hum O
+
+oui B-reponse
+
+oui B-reponse
+
+douze B-nombre
+
+oui B-reponse
+et O
+ben O
+je O
+
+à B-localisation-ville
+Moulins I-localisation-ville
+
+alors O
+
+euh O
+ben O
+du B-temps-jour-mois
+dix I-temps-jour-mois
+neuf I-temps-jour-mois
+au B-temps-jour-mois
+vingt I-temps-jour-mois
+donc B-connectProp
+pour B-sejour-nbNuit
+une I-sejour-nbNuit
+nuit I-sejour-nbNuit
+
+mars B-temps-mois
+
+euh O
+ben O
+en O
+fait O
+c'est O
+une B-sejour-nbNuit
+une I-sejour-nbNuit
+une I-sejour-nbNuit
+nuit I-sejour-nbNuit
+seulement O
+au B-temps-mois
+mois I-temps-mois
+de I-temps-mois
+pour I-temps-mois
+le I-temps-mois
+mois I-temps-mois
+c' I-temps-mois
+est I-temps-mois
+pour I-temps-mois
+le I-temps-mois
+mois I-temps-mois
+de I-temps-mois
+mars I-temps-mois
+hein O
+à B-localisation-ville
+Moulins I-localisation-ville
+et B-connectProp
+également O
+douze B-nombre-chambre
+chambres I-nombre-chambre
+aussi O
+
+oui B-reponse
+
+soixante B-nombre
+bon O
+oui B-reponse
+ça O
+va O
+ça O
+ça O
+ira O
+donc O
+voilà O
+c' O
+est O
+bon O
+
+oui B-reponse
+tout I-reponse
+à I-reponse
+fait I-reponse
+voilà I-reponse
+
+très O
+bien O
+
+d'accord B-reponse
+
+non B-reponse
+ça O
+va O
+je O
+vous O
+remercie O
+
+au O
+revoir O
+
+je B-command-tache
+voudrais I-command-tache
+réserver I-command-tache
+à B-localisation-ville
+Paris I-localisation-ville
+près B-localisation-distanceRelative
+de I-localisation-distanceRelative
+la B-evenement
+conférence I-evenement
+Amnesty I-evenement
+International I-evenement
+du B-temps-date
+quinze I-temps-date
+au B-temps-date
+dix I-temps-date
+sept I-temps-date
+mars I-temps-date
+
+des B-command-tache
+informations I-command-tache
+supplémentaires I-command-tache
+supplémentaires I-command-tache
+
+je O
+voudrais O
+six B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+à O
+quatre B-paiement-montant-entier
+vingt I-paiement-montant-entier
+dix I-paiement-montant-entier
+euros B-paiement-monnaie
+maximum B-comparatif-paiement
+avec B-hotel-services
+un I-hotel-services
+restaurant I-hotel-services
+végétarien I-hotel-services
+dans O
+l' B-lienRef-coRef
+hôtel B-objetBD
+
+six B-nombre
+
+oui B-reponse
+
+hôtel B-nom-hotel
+Chénier I-nom-hotel
+
+euh O
+j' B-command-tache
+aurais I-command-tache
+voulu I-command-tache
+d' I-command-tache
+autres I-command-tache
+informations I-command-tache
+
+avec B-hotel-services
+un I-hotel-services
+restaurant I-hotel-services
+végétarien I-hotel-services
+dans O
+l' B-lienRef-coRef
+hôtel B-objetBD
+
+oui B-reponse
+
+non B-reponse
+merci O
+
+au O
+revoir O
+
+souhaitons B-command-tache
+une I-command-tache
+réservation I-command-tache
+d' B-nombre-chambre
+une I-nombre-chambre
+chambre I-nombre-chambre
+à B-localisation-ville
+Nevers I-localisation-ville
+du I-localisation-ville
+ah I-localisation-ville
+pardon I-localisation-ville
+à I-localisation-ville
+Nevers I-localisation-ville
+du B-temps-date
+deux I-temps-date
+au B-temps-date
+quatre I-temps-date
+octobre I-temps-date
+en B-chambre-type
+chambre I-chambre-type
+simple I-chambre-type
+à O
+cent B-paiement-montant-entier
+euros B-paiement-monnaie
+voire B-connectAttr
+plus B-comparatif-paiement
+s' B-connectProp
+il O
+y O
+a O
+piscine B-hotel-services
+avec B-hotel-services
+un I-hotel-services
+accès I-hotel-services
+aux I-hotel-services
+handicapés I-hotel-services
+
+oui B-reponse
+
+ben O
+j' O
+aimerais O
+savoir O
+s' O
+il O
+y O
+a O
+un O
+accès O
+à O
+la B-hotel-services
+piscine I-hotel-services
+un B-hotel-services
+accès I-hotel-services
+aux I-hotel-services
+handicapés I-hotel-services
+
+d'accord B-reponse
+est-ce O
+qu' O
+il O
+y O
+a O
+une B-hotel-services
+piscine I-hotel-services
+
+oui B-reponse
+je B-command-tache
+voudrais I-command-tache
+réservation I-command-tache
+aussi I-command-tache
+du B-temps-date
+premier I-temps-date
+au B-temps-date
+deux I-temps-date
+octobre I-temps-date
+à B-localisation-ville
+Albi I-localisation-ville
+
+ok B-reponse
+et B-connectProp
+pareil O
+s' O
+il O
+y O
+a O
+une B-hotel-services
+piscine I-hotel-services
+et B-hotel-services
+avec I-hotel-services
+un I-hotel-services
+accès I-hotel-services
+handicapés I-hotel-services
+
+ok B-reponse
+bon O
+ben O
+c' O
+est O
+très O
+bien O
+et B-connectProp
+donc O
+une B-nombre-chambre
+chambre B-chambre-type
+simple I-chambre-type
+aux B-comparatif-paiement
+alentours I-comparatif-paiement
+des I-comparatif-paiement
+cent B-paiement-montant-entier
+euros B-paiement-monnaie
+
+oui B-reponse
+c' O
+est O
+un B-paiement-montantQualitatif
+petit I-paiement-montantQualitatif
+peu I-paiement-montantQualitatif
+cher I-paiement-montantQualitatif
+ça O
+est-ce O
+qu' O
+il O
+y O
+a O
+pas O
+en-dessous B-comparatif-paiement
+
+bon O
+ben O
+on O
+va O
+dire O
+ok B-reponse
+alors O
+hein O
+
+merci O
+
+ok B-reponse
+d'accord I-reponse
+
+non B-reponse
+c' O
+est O
+bon O
+ça O
+ira O
+merci O
+
+au O
+revoir O
+
+oui O
+bonjour O
+j' B-command-tache
+aimerais I-command-tache
+réserver I-command-tache
+à B-localisation-ville
+Albi I-localisation-ville
+une B-nombre-chambre
+chambre I-nombre-chambre
+en O
+du B-temps-date
+trois I-temps-date
+au B-temps-date
+cinq I-temps-date
+juillet I-temps-date
+une B-nombre-chambre
+chambre B-chambre-type
+simple I-chambre-type
+avec B-objet
+parking I-objet
+et B-connectProp
+j' O
+aimerais O
+qu' O
+elle O
+soit O
+à B-comparatif-paiement
+moins I-comparatif-paiement
+de I-comparatif-paiement
+cinquante B-paiement-montant-entier
+euros B-paiement-monnaie
+
+oui B-reponse
+oui I-reponse
+ça I-reponse
+m' I-reponse
+irait I-reponse
+oui I-reponse
+et B-connectProp
+est-ce O
+que O
+c' O
+est O
+à B-comparatif-paiement
+moins I-comparatif-paiement
+de I-comparatif-paiement
+cinquante B-paiement-montant-entier
+euros B-paiement-monnaie
+
+c' O
+est O
+parfait O
+est-ce O
+qu' O
+il O
+y O
+a O
+un B-objet
+parking I-objet
+
+ben O
+c' O
+est O
+parfait O
+
+merci O
+beaucoup O
+
+une B-nombre
+seule I-nombre
+
+mais O
+je O
+voulais O
+du B-temps-jour-mois
+trois I-temps-jour-mois
+au B-temps-jour-mois
+cinq I-temps-jour-mois
+moi O
+
+ah O
+c' O
+est O
+très O
+bien O
+c' O
+est O
+ce O
+que O
+je O
+veux O
+oui B-reponse
+c' O
+est O
+ce O
+
+que O
+je O
+souhaite O
+
+absolument B-reponse
+oui I-reponse
+
+oui B-reponse
+oui I-reponse
+
+deux B-nombre
+cent I-nombre
+trente I-nombre
+quatre I-nombre
+zéro I-nombre
+soixante I-nombre
+cinq I-nombre
+merci O
+beaucoup O
+
+au O
+revoir O
+
+euh O
+je O
+je O
+vais O
+je O
+voudrais O
+être O
+à B-localisation-ville
+Paris I-localisation-ville
+du B-temps-date
+premier I-temps-date
+au B-temps-date
+deux I-temps-date
+euh I-temps-date
+août I-temps-date
+dans B-localisation-quartier
+le I-localisation-quartier
+quartier I-localisation-quartier
+de I-localisation-quartier
+Montparnasse I-localisation-quartier
+et B-connectProp
+je O
+désirais O
+donc O
+une B-nombre-chambre
+chambre B-chambre-type
+individuelle I-chambre-type
+environ B-comparatif-paiement
+euh O
+euh O
+de O
+cinquante B-paiement-montant-entier
+euros B-paiement-monnaie
+près B-localisation-distanceRelative
+d' I-localisation-distanceRelative
+un B-localisation-lieuRelatif
+endroit I-localisation-lieuRelatif
+animé I-localisation-lieuRelatif
+le B-temps-plageTps
+soir I-temps-plageTps
+et B-connectProp
+de O
+préférence O
+avec O
+une O
+précision O
+avec O
+une B-nombre-chambre
+chambre B-chambre-fumeur
+fumeurs I-chambre-fumeur
+
+pas B-localisation-ville
+à I-localisation-ville
+Nancy I-localisation-ville
+madame O
+à B-localisation-ville
+Paris I-localisation-ville
+
+ah B-reponse
+oui I-reponse
+
+merci O
+
+c' O
+est O
+dans B-localisation-quartier
+le I-localisation-quartier
+quartier I-localisation-quartier
+de I-localisation-quartier
+Montparnasse I-localisation-quartier
+
+hum O
+d'accord B-reponse
+euh O
+vous O
+m' O
+avez O
+dit O
+environ B-comparatif-paiement
+cinquante B-paiement-montant-entier
+euros B-paiement-monnaie
+donc O
+une B-nombre-chambre
+chambre B-chambre-type
+individuelle I-chambre-type
+c' O
+est O
+animé O
+près B-localisation-distanceRelative
+d' I-localisation-distanceRelative
+un B-localisation-lieuRelatif
+endroit I-localisation-lieuRelatif
+animé I-localisation-lieuRelatif
+le B-temps-plageTps
+soir I-temps-plageTps
+avec B-chambre-fumeur
+chambres I-chambre-fumeur
+fumeurs I-chambre-fumeur
+
+vous B-command-dial
+pouvez I-command-dial
+me I-command-dial
+redire I-command-dial
+les B-lienRef-coRef
+hôtels B-objetBD
+madame O
+s' O
+il O
+vous O
+plaît O
+
+euh O
+je B-command-tache
+réserve I-command-tache
+donc O
+sur O
+la B-lienRef-coRef
+chambre B-objet
+Roissy B-nom-hotel
+madame O
+
+non B-reponse
+
+au O
+revoir O
+merci O
+au O
+revoir O
+
+oui B-reponse
+
+bonjour O
+je O
+voudrais O
+une B-sejour-nbNuit
+nuit I-sejour-nbNuit
+euh O
+du B-temps-date
+premier I-temps-date
+au B-temps-date
+deux I-temps-date
+mars I-temps-date
+à B-localisation-ville
+Paris I-localisation-ville
+dans B-localisation-arrondissement
+le I-localisation-arrondissement
+treizième I-localisation-arrondissement
+arrondissement I-localisation-arrondissement
+pour B-nombre-chambre
+vingt I-nombre-chambre
+huit I-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+à B-comparatif-paiement
+environ I-comparatif-paiement
+cinquante B-paiement-montant-entier
+francs B-paiement-monnaie
+cinquante B-paiement-montant-entier
+euros B-paiement-monnaie
+la O
+nuit O
+il O
+faut O
+prévoir O
+une B-hotel-services
+salle I-hotel-services
+de I-hotel-services
+réunion I-hotel-services
+dans O
+l' B-lienRef-coRef
+hôtel B-objetBD
+des B-localisation-lieuRelatif
+transports I-localisation-lieuRelatif
+en I-localisation-lieuRelatif
+commun I-localisation-lieuRelatif
+près B-localisation-distanceRelative
+de I-localisation-distanceRelative
+l' B-objetBD
+hôtel I-objetBD
+
+non B-reponse
+à B-localisation-ville
+Paris I-localisation-ville
+
+euh O
+ben O
+cinquante B-paiement-montant-entier
+cinq I-paiement-montant-entier
+euros B-paiement-monnaie
+oui B-reponse
+
+oui B-reponse
+
+alors O
+vingt B-nombre-chambre
+huit I-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+
+oui B-reponse
+mais B-connectProp
+je O
+voudrais O
+aussi O
+une B-hotel-services
+salle I-hotel-services
+de I-hotel-services
+réunion I-hotel-services
+dans O
+l' B-lienRef-coRef
+hôtel B-objetBD
+et B-connectProp
+des B-localisation-lieuRelatif
+transports I-localisation-lieuRelatif
+en I-localisation-lieuRelatif
+commun I-localisation-lieuRelatif
+près B-localisation-distanceRelative
+de I-localisation-distanceRelative
+l' B-objetBD
+hôtel I-objetBD
+
+d'accord B-reponse
+
+vingt B-nombre-chambre
+huit I-nombre-chambre
+chambres I-nombre-chambre
+pas B-nombre-chambre
+huit I-nombre-chambre
+vingt B-nombre-chambre
+huit I-nombre-chambre
+
+non B-reponse
+merci O
+beaucoup O
+
+au O
+revoir O
+
+oui O
+bonjour O
+
+alors O
+je B-command-tache
+je I-command-tache
+voudrais I-command-tache
+s' I-command-tache
+il I-command-tache
+vous I-command-tache
+plaît I-command-tache
+réserver I-command-tache
+vingt B-nombre-chambre
+huit I-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+à O
+moins O
+à O
+cinquante B-paiement-montant-entier
+euros B-paiement-monnaie
+à B-comparatif-paiement
+peu I-comparatif-paiement
+près I-comparatif-paiement
+avec B-hotel-services
+une I-hotel-services
+salle I-hotel-services
+de I-hotel-services
+réunion I-hotel-services
+à O
+l' B-lienRef-coRef
+hôtel B-objetBD
+près B-localisation-distanceRelative
+d' I-localisation-distanceRelative
+un B-localisation-lieuRelatif
+métro I-localisation-lieuRelatif
+
+oui B-reponse
+dans B-localisation-arrondissement
+le I-localisation-arrondissement
+treizième I-localisation-arrondissement
+arrondissement I-localisation-arrondissement
+oui B-reponse
+du B-temps-date
+quatorze I-temps-date
+au B-temps-date
+deux I-temps-date
+juin I-temps-date
+
+hum O
+hum O
+euh O
+vingt B-nombre-chambre
+huit I-nombre-chambre
+chambres I-nombre-chambre
+
+ah O
+alors O
+je O
+l' B-lienRef-coRef
+ai O
+mal O
+écrite O
+alors O
+alors O
+quatorze B-nombre
+
+au O
+deux B-nombre
+
+et O
+bien O
+écoutez O
+elle B-lienRef-coRef
+est O
+mal O
+écrite O
+elle O
+est O
+mal O
+écrite O
+alors O
+du B-temps-date
+quatorze I-temps-date
+au B-temps-date
+deux I-temps-date
+euh I-temps-date
+mai I-temps-date
+peut-être B-reponse
+
+quatorze B-temps-jour-mois
+au B-temps-jour-mois
+deux I-temps-jour-mois
+ce O
+n' O
+est O
+pas B-objet
+une I-objet
+date I-objet
+correcte I-objet
+alors O
+alors O
+donc O
+euh O
+alors O
+peut-être B-reponse
+que O
+c' O
+est O
+c' O
+est O
+s O
+euh O
+quatorze B-nombre
+dans B-localisation-arrondissement
+le I-localisation-arrondissement
+treizième I-localisation-arrondissement
+ah I-localisation-arrondissement
+treizième I-localisation-arrondissement
+arrondissement I-localisation-arrondissement
+
+et O
+ben O
+écoutez O
+je O
+eh O
+la O
+demande O
+elle O
+est O
+de O
+vingt B-nombre-chambre
+huit I-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+à O
+cinquante B-paiement-montant-entier
+euros B-paiement-monnaie
+la O
+chambre O
+avec B-hotel-services
+une I-hotel-services
+salle I-hotel-services
+de I-hotel-services
+réunion I-hotel-services
+à O
+l' B-lienRef-coRef
+hôtel B-objetBD
+près B-localisation-distanceRelative
+du I-localisation-distanceRelative
+métro B-localisation-lieuRelatif
+
+eh O
+ma B-objet
+mes I-objet
+dates I-objet
+de O
+séjour O
+je O
+alors O
+il O
+y O
+a O
+marqué O
+du B-temps-date
+quatorze I-temps-date
+au B-temps-date
+deux I-temps-date
+ch I-temps-date
+ch I-temps-date
+m I-temps-date
+mai I-temps-date
+juin I-temps-date
+alors O
+janvier B-temps-mois
+février B-temps-mois
+mars B-temps-mois
+mars I-temps-mois
+avril B-temps-mois
+mai B-temps-mois
+juin B-temps-mois
+juillet B-temps-mois
+août B-temps-mois
+
+et O
+ben O
+écoutez O
+je O
+n' O
+arrive O
+pas O
+à O
+trouver O
+le B-temps-unite
+jour I-temps-unite
+c' O
+est O
+ça O
+le O
+problème O
+et B-temps-unite
+le I-temps-unite
+mois I-temps-unite
+le I-temps-unite
+mois I-temps-unite
+eh O
+il O
+m' O
+a O
+pas O
+été O
+donné O
+j' O
+ai O
+j' O
+ai O
+marqué O
+juin B-temps-mois
+juin I-temps-mois
+vous O
+dites O
+qu' O
+il O
+n' O
+existe O
+pas O
+
+alors O
+
+ouais B-reponse
+n' O
+est O
+pas B-objet
+une I-objet
+date I-objet
+correcte I-objet
+bon O
+et O
+ben O
+écoutez O
+je B-command-dial
+je I-command-dial
+vous I-command-dial
+je I-command-dial
+vous I-command-dial
+réitérerai I-command-dial
+ma I-command-dial
+demande I-command-dial
+après B-comparatif-temps
+après I-comparatif-temps
+
+avoir O
+connu O
+
+et O
+bien O
+est-ce O
+que O
+est-ce O
+que O
+je O
+peux O
+vous O
+rappeler O
+avec O
+la O
+précision O
+de O
+la B-lienRef-coRef
+date B-objet
+je O
+peux O
+vous O
+rappeler O
+après O
+la O
+précision O
+de O
+la B-lienRef-coRef
+date B-objet
+
+et O
+ben O
+écoutez O
+je O
+vous O
+remercie O
+
+merci O
+
+au O
+revoir O
+
+j' B-command-tache
+aurais I-command-tache
+voulu I-command-tache
+réserver I-command-tache
+pour O
+la O
+période O
+du B-temps-date
+dix I-temps-date
+huit I-temps-date
+au B-temps-date
+vingt I-temps-date
+trois I-temps-date
+novembre I-temps-date
+en B-localisation-lieuRelatif
+banlieue I-localisation-lieuRelatif
+est B-localisation-cardinal
+euh O
+quatre B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+et B-connectProp
+une B-nombre-chambre
+chambre B-chambre-type
+double I-chambre-type
+à B-comparatif-paiement
+moins I-comparatif-paiement
+de I-comparatif-paiement
+cinquante B-paiement-montant-entier
+euros B-paiement-monnaie
+la O
+nuit O
+avec B-chambre-equipement
+téléphone I-chambre-equipement
+s' O
+il O
+vous O
+plaît O
+
+est-ce O
+qu' O
+il B-lienRef-coRef
+est O
+bien O
+en B-localisation-lieuRelatif
+banlieue I-localisation-lieuRelatif
+est B-localisation-cardinal
+
+bon B-reponse
+d'accord I-reponse
+je O
+veux O
+bien O
+donc O
+quatre B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+et B-connectProp
+une B-nombre-chambre
+chambre B-chambre-type
+double I-chambre-type
+avec B-chambre-equipement
+téléphone I-chambre-equipement
+s' O
+il O
+vous O
+plaît O
+
+oui B-reponse
+
+euh O
+vous O
+m' O
+avez O
+dit O
+quatre B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+il O
+me O
+faudrait O
+aussi O
+une B-nombre-chambre
+chambre B-chambre-type
+double I-chambre-type
+
+oui B-reponse
+et B-connectProp
+est-ce O
+qu' O
+il O
+y O
+a O
+le B-chambre-equipement
+téléphone I-chambre-equipement
+
+bon O
+ben O
+c' O
+est O
+d'accord B-reponse
+je O
+vous O
+remercie O
+
+merci O
+au O
+revoir O
+
+je B-command-tache
+voudrais I-command-tache
+réserver I-command-tache
+euh O
+six B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+à B-localisation-ville
+Paris I-localisation-ville
+place B-localisation-rue
+d' I-localisation-rue
+Italie I-localisation-rue
+près B-localisation-distanceRelative
+de I-localisation-distanceRelative
+la B-evenement
+conférence I-evenement
+Amnesty I-evenement
+Amnesty I-evenement
+International I-evenement
+euh O
+du B-temps-date
+vingt I-temps-date
+quatre I-temps-date
+au B-temps-date
+vingt I-temps-date
+six I-temps-date
+juillet I-temps-date
+avec B-objet
+un I-objet
+prix I-objet
+euh O
+maximum B-comparatif-paiement
+euh O
+quatre B-paiement-montant-entier
+vingt I-paiement-montant-entier
+dix I-paiement-montant-entier
+euros B-paiement-monnaie
+et B-connectProp
+également O
+je O
+souhaiterais O
+avoir O
+un B-hotel-services
+restaurant I-hotel-services
+végétarien I-hotel-services
+
+six B-nombre-chambre
+chambres I-nombre-chambre
+pardon O
+
+oui B-reponse
+
+oui B-reponse
+
+ah B-reponse
+non I-reponse
+c' O
+est O
+pas B-localisation-ville
+à I-localisation-ville
+Nancy I-localisation-ville
+c' O
+est O
+à B-localisation-ville
+Paris I-localisation-ville
+place B-localisation-rue
+d' I-localisation-rue
+Italie I-localisation-rue
+à B-localisation-ville
+Paris I-localisation-ville
+
+oui B-reponse
+
+est-ce O
+que O
+l' B-nom-hotel
+hôtel I-nom-hotel
+Chenier I-nom-hotel
+est O
+près B-localisation-distanceRelative
+de I-localisation-distanceRelative
+la I-localisation-distanceRelative
+de I-localisation-distanceRelative
+la B-evenement
+conférence I-evenement
+Amnesty I-evenement
+International I-evenement
+
+bon O
+c' O
+est O
+parfait O
+hum O
+est-ce O
+qu' O
+il O
+y O
+a O
+un B-hotel-services
+restaurant I-hotel-services
+végétarien I-hotel-services
+dans O
+ce O
+euh O
+dans O
+cet B-lienRef-coRef
+hôtel B-objetBD
+ou B-connectAttr
+aux B-localisation-distanceRelative
+alentours I-localisation-distanceRelative
+
+bon O
+c' O
+est O
+parfait O
+est-ce O
+qu' O
+il O
+y O
+a O
+bien O
+six B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+de B-nombre-chambre-disponible
+libres I-nombre-chambre-disponible
+à O
+
+oui B-reponse
+alors B-command-tache
+je I-command-tache
+réserve I-command-tache
+
+oui B-reponse
+
+oui B-reponse
+
+non B-reponse
+c' O
+est O
+tout O
+
+au O
+revoir O
+
+oui B-reponse
+
+je B-command-tache
+voudrais I-command-tache
+réserver I-command-tache
+pour B-sejour-nbNuit
+six I-sejour-nbNuit
+nuits I-sejour-nbNuit
+du B-temps-date
+dix I-temps-date
+neuf I-temps-date
+au B-temps-date
+vingt I-temps-date
+cinq I-temps-date
+juillet I-temps-date
+à B-localisation-ville
+Paris I-localisation-ville
+près B-localisation-distanceRelative
+d' I-localisation-distanceRelative
+Ivry B-localisation-ville
+pour B-evenement
+la I-evenement
+conférence I-evenement
+altermondialiste I-evenement
+quatre B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+à B-comparatif-paiement
+moins I-comparatif-paiement
+de I-comparatif-paiement
+cent B-paiement-montant-entier
+cinquante I-paiement-montant-entier
+euros B-paiement-monnaie
+la O
+chambre O
+plus B-connectProp
+le B-hotel-services
+restaurant I-hotel-services
+et B-objet
+le I-objet
+parking I-objet
+dans O
+l' B-lienRef-coRef
+hôtel B-objetBD
+
+oui B-reponse
+je O
+sais O
+pas O
+pourquoi O
+j' O
+ai O
+dit O
+oui O
+parce O
+que O
+elle O
+m' O
+entend O
+pas O
+c'est O
+un O
+serveur O
+vocal O
+
+à B-localisation-ville
+Paris I-localisation-ville
+
+oui B-reponse
+
+il O
+y O
+a O
+le B-hotel-services
+restaurant I-hotel-services
+et B-objet
+le I-objet
+parking I-objet
+dans O
+l' B-lienRef-coRef
+hôtel B-objetBD
+
+oui B-reponse
+ben B-command-tache
+je I-command-tache
+réserve I-command-tache
+
+oui B-reponse
+
+oui B-reponse
+
+non B-reponse
+c' O
+est O
+tout O
+merci O
+
+au O
+revoir O
+
+je B-command-tache
+souhaiterais I-command-tache
+réserver I-command-tache
+euh O
+vingt B-nombre-chambre
+cinq I-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+à B-comparatif-paiement
+moins I-comparatif-paiement
+de I-comparatif-paiement
+cinquante B-paiement-montant-entier
+euros B-paiement-monnaie
+du B-temps-date
+cinq I-temps-date
+au B-temps-date
+sept I-temps-date
+avril I-temps-date
+à B-localisation-ville
+Paris I-localisation-ville
+gare B-localisation-lieuRelatif
+de I-localisation-lieuRelatif
+Montparnasse I-localisation-lieuRelatif
+donc B-connectProp
+tout B-localisation-distanceRelative
+près I-localisation-distanceRelative
+de I-localisation-distanceRelative
+la B-localisation-lieuRelatif
+gare I-localisation-lieuRelatif
+dans B-hotel-etoile
+un I-hotel-etoile
+hôtel I-hotel-etoile
+deux I-hotel-etoile
+étoiles I-hotel-etoile
+
+non B-reponse
+c' O
+est O
+pas O
+ça O
+
+je B-command-tache
+souhaiterais I-command-tache
+faire I-command-tache
+une I-command-tache
+réservation I-command-tache
+du B-temps-date
+cinq I-temps-date
+au B-temps-date
+sept I-temps-date
+avril I-temps-date
+à B-localisation-ville
+Paris I-localisation-ville
+près B-localisation-distanceRelative
+de I-localisation-distanceRelative
+la B-localisation-lieuRelatif
+gare I-localisation-lieuRelatif
+de I-localisation-lieuRelatif
+Montparnasse I-localisation-lieuRelatif
+pour B-nombre-reservation
+vingt I-nombre-reservation
+
+cinq B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+
+dans O
+le B-lienRef-elsEns
+deuxième B-rang
+
+vingt B-nombre-chambre
+cinq I-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+
+non B-reponse
+vingt B-nombre
+cinq I-nombre
+
+vingt B-nombre-chambre
+cinq I-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+
+est-ce O
+que O
+c' O
+est O
+près B-localisation-distanceRelative
+de I-localisation-distanceRelative
+la B-localisation-lieuRelatif
+gare I-localisation-lieuRelatif
+
+est-ce O
+que O
+c' O
+est O
+un B-hotel-etoile
+hôtel I-hotel-etoile
+deux I-hotel-etoile
+étoiles I-hotel-etoile
+
+je B-command-tache
+souhaite I-command-tache
+réserver I-command-tache
+
+c' B-command-tache
+est I-command-tache
+bien I-command-tache
+réservé I-command-tache
+pour B-nombre-chambre
+vingt I-nombre-chambre
+cinq I-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+hein B-command-dial
+
+c' O
+est O
+bien O
+moins B-comparatif-paiement
+de I-comparatif-paiement
+cinquante B-paiement-montant-entier
+euros B-paiement-monnaie
+
+c' O
+est O
+bon O
+alors O
+c' O
+est O
+ok B-reponse
+
+voilà B-command-tache
+je I-command-tache
+souhaite I-command-tache
+réserver I-command-tache
+dans B-localisation-quartier
+le I-localisation-quartier
+quartier I-localisation-quartier
+Montparnasse I-localisation-quartier
+une B-nombre-chambre
+chambre B-chambre-type
+simple I-chambre-type
+fumeurs B-chambre-fumeur
+environ B-comparatif-paiement
+cinquante B-paiement-montant-entier
+euros B-paiement-monnaie
+et B-connectProp
+près B-localisation-distanceRelative
+d' I-localisation-distanceRelative
+un B-localisation-lieuRelatif
+endroit I-localisation-lieuRelatif
+animé I-localisation-lieuRelatif
+le B-temps-plageTps
+soir I-temps-plageTps
+s' O
+il O
+vous O
+plaît O
+
+non B-reponse
+
+une B-command-tache
+réservation I-command-tache
+dans B-localisation-quartier
+le I-localisation-quartier
+quartier I-localisation-quartier
+Montparnasse I-localisation-quartier
+d' B-nombre-chambre
+une I-nombre-chambre
+chambre B-chambre-type
+simple I-chambre-type
+fumeurs B-chambre-fumeur
+environ B-comparatif-paiement
+cinquante B-paiement-montant-entier
+euros B-paiement-monnaie
+et B-connectProp
+près B-localisation-distanceRelative
+d' I-localisation-distanceRelative
+un B-localisation-lieuRelatif
+endroit I-localisation-lieuRelatif
+animé I-localisation-lieuRelatif
+le B-temps-plageTps
+soir I-temps-plageTps
+
+à B-nom-hotel
+l' I-nom-hotel
+hôtel I-nom-hotel
+Roissy I-nom-hotel
+
+une B-nombre-chambre
+chambre B-chambre-type
+simple I-chambre-type
+fumeurs B-chambre-fumeur
+
+non B-reponse
+une B-nombre-chambre
+chambre B-chambre-type
+simple I-chambre-type
+fumeurs B-chambre-fumeur
+
+oui B-reponse
+
+ça O
+sera O
+tout O
+
+au O
+revoir O
+
+bonjour O
+je B-command-tache
+désire I-command-tache
+réserver I-command-tache
+du B-temps-date
+sept I-temps-date
+euh I-temps-date
+du I-temps-date
+sept I-temps-date
+au B-temps-date
+neuf I-temps-date
+novembre I-temps-date
+à B-localisation-ville
+Gap I-localisation-ville
+quatre B-nombre-chambre
+chambres B-chambre-type
+doubles I-chambre-type
+à B-comparatif-paiement
+moins I-comparatif-paiement
+de I-comparatif-paiement
+soixante B-paiement-montant-entier
+dix I-paiement-montant-entier
+euros B-paiement-monnaie
+avec B-objet
+parking I-objet
+dans I-objet
+l' I-objet
+hôtel I-objet
+parking I-objet
+dans O
+l' B-lienRef-coRef
+hôtel B-objetBD
+s' O
+il O
+vous O
+plaît O
+
+oui B-reponse
+
+vous O
+n' O
+avez O
+pas O
+de O
+chambres B-chambre-type
+doubles I-chambre-type
+à O
+soixante B-paiement-montant-entier
+dix I-paiement-montant-entier
+euros B-paiement-monnaie
+euh O
+je O
+désire O
+quatre B-nombre-chambre
+chambres B-chambre-type
+doubles I-chambre-type
+
+ah O
+c' O
+est O
+bon O
+alors O
+d'accord B-reponse
+je O
+suis O
+avec B-objet
+parking I-objet
+
+c' O
+est O
+bon O
+je B-command-tache
+réserve I-command-tache
+je O
+
+je B-command-dial
+maintiens I-command-dial
+
+oui B-reponse
+
+je B-command-dial
+confirme I-command-dial
+
+non B-reponse
+
+j' B-command-tache
+aurais I-command-tache
+voulu I-command-tache
+faire I-command-tache
+une I-command-tache
+réservation I-command-tache
+euh O
+d' B-objetBD
+hôtel I-objetBD
+à B-localisation-ville
+Gap I-localisation-ville
+du B-temps-date
+sept I-temps-date
+au B-temps-date
+neuf I-temps-date
+novembre I-temps-date
+
+oui B-reponse
+euh O
+quel O
+prix B-objet
+à I-objet
+quel I-objet
+prix I-objet
+est O
+la B-lienRef-coRef
+chambre B-chambre-type
+double I-chambre-type
+
+oui B-reponse
+est-ce O
+que O
+il O
+y O
+a O
+un B-hotel-parking
+parking I-hotel-parking
+privé I-hotel-parking
+dans O
+l' B-lienRef-coRef
+hôtel B-objetBD
+
+d'accord B-reponse
+donc B-connectProp
+j' O
+aurais O
+voulu O
+quatre B-nombre-chambre
+chambres B-chambre-type
+doubles I-chambre-type
+s' O
+il O
+vous O
+plaît O
+
+oui B-reponse
+
+d'accord B-reponse
+
+ok B-reponse
+
+oui B-reponse
+
+oui B-reponse
+j' B-command-tache
+aurais I-command-tache
+voulu I-command-tache
+réserver I-command-tache
+d O
+
+une B-nombre
+pareille O
+du B-temps-date
+neuf I-temps-date
+au B-temps-date
+douze I-temps-date
+novembre I-temps-date
+à B-localisation-ville
+Rodez I-localisation-ville
+
+hum O
+hum O
+
+quel O
+prix B-objet
+à I-objet
+quel I-objet
+prix I-objet
+est O
+la B-lienRef-coRef
+chambre B-chambre-type
+double I-chambre-type
+
+pardon O
+à O
+quel O
+prix B-objet
+est O
+la B-lienRef-coRef
+chambre B-chambre-type
+double I-chambre-type
+
+d'accord B-reponse
+est-ce O
+qu' O
+il O
+y O
+a O
+un B-hotel-parking
+parking I-hotel-parking
+privé I-hotel-parking
+
+d'accord B-reponse
+donc B-connectProp
+j' B-command-tache
+aurais I-command-tache
+voulu I-command-tache
+réserver I-command-tache
+pareil O
+quatre B-nombre-chambre
+chambres B-chambre-type
+doubles I-chambre-type
+
+hum O
+hum O
+
+oui B-reponse
+
+ok B-reponse
+
+oui B-reponse
+j' B-command-tache
+aurais I-command-tache
+voulu I-command-tache
+faire I-command-tache
+encore I-command-tache
+une I-command-tache
+réservation I-command-tache
+du B-temps-date
+douze I-temps-date
+au B-temps-date
+quinze I-temps-date
+novembre I-temps-date
+à B-localisation-ville
+Limoges I-localisation-ville
+
+quatre B-nombre-chambre
+chambres I-nombre-chambre
+
+doubles B-chambre-type
+j' O
+aurais O
+d' O
+abord O
+voulu O
+savoir O
+le B-lienRef-coRef
+prix B-objet
+
+hum O
+
+vous O
+n' O
+avez O
+pas O
+moins B-comparatif-paiement
+cher I-comparatif-paiement
+
+d'accord B-reponse
+y O
+a-t-il O
+un B-hotel-parking
+parking I-hotel-parking
+privé I-hotel-parking
+
+d'accord B-reponse
+ben O
+on O
+va O
+faire O
+pareil O
+alors O
+quatre B-nombre-chambre
+quatre I-nombre-chambre
+chambres B-chambre-type
+doubles I-chambre-type
+
+hum O
+
+oui B-reponse
+s' O
+il O
+vous O
+plaît O
+
+d'accord B-reponse
+
+non B-reponse
+c' O
+est O
+bon O
+
+au O
+revoir O
+
+attends B-command-dial
+attends I-command-dial
+
+oui O
+bonjour O
+j' B-command-tache
+aurais I-command-tache
+voulu I-command-tache
+faire I-command-tache
+une I-command-tache
+réservation I-command-tache
+dans B-localisation-cardinal
+le I-localisation-cardinal
+nord I-localisation-cardinal
+de B-localisation-ville
+Paris I-localisation-ville
+
+du B-temps-date
+cinq I-temps-date
+au B-temps-date
+sept I-temps-date
+juillet I-temps-date
+
+au O
+sept B-temps-date
+juillet I-temps-date
+
+oui B-reponse
+
+hum O
+hum O
+
+pouvez-vous O
+me O
+donner O
+les B-lienRef-coRef
+prix B-objet
+
+euh O
+deux B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+
+est-ce O
+que O
+c' O
+est O
+situé O
+près B-localisation-distanceRelative
+d' I-localisation-distanceRelative
+un B-localisation-lieuRelatif
+UGC I-localisation-lieuRelatif
+et B-localisation-lieuRelatif
+d' I-localisation-lieuRelatif
+un I-localisation-lieuRelatif
+restaurant I-localisation-lieuRelatif
+
+d'accord B-reponse
+ben O
+à O
+
+l' B-nom-hotel
+hôtel I-nom-hotel
+le I-nom-hotel
+phare I-nom-hotel
+alors O
+
+oui B-reponse
+
+non B-reponse
+c' O
+est O
+tout O
+
+au O
+revoir O
+
+je B-command-tache
+voudrais I-command-tache
+réserver I-command-tache
+un B-objetBD
+hôtel I-objetBD
+
+à B-localisation-ville
+Rochefort I-localisation-ville
+
+du B-temps-date
+dix I-temps-date
+neuf I-temps-date
+au B-temps-date
+vingt I-temps-date
+deux I-temps-date
+octobre I-temps-date
+et B-connectProp
+à B-localisation-ville
+Périgueux I-localisation-ville
+du B-temps-date
+vingt I-temps-date
+deux I-temps-date
+au B-temps-date
+vingt I-temps-date
+sept I-temps-date
+octobre I-temps-date
+puis B-connectProp
+à B-localisation-ville
+Toulouse I-localisation-ville
+du B-temps-date
+vingt I-temps-date
+sept I-temps-date
+au B-temps-date
+vingt I-temps-date
+huit I-temps-date
+octobre I-temps-date
+
+obtenir B-command-tache
+des I-command-tache
+informations I-command-tache
+
+je O
+voudrais O
+une B-nombre-chambre
+chambre I-nombre-chambre
+pour B-sejour-nbCouple
+un I-sejour-nbCouple
+couple I-sejour-nbCouple
+avec B-sejour-nbEnfant
+un I-sejour-nbEnfant
+enfant I-sejour-nbEnfant
+quatre B-paiement-montant-entier
+vingt I-paiement-montant-entier
+dix I-paiement-montant-entier
+euros B-paiement-monnaie
+environ B-comparatif-paiement
+de O
+préférence O
+un O
+deux B-hotel-etoile
+étoiles I-hotel-etoile
+et B-connectProp
+qui O
+accepte O
+les B-hotel-services
+animaux I-hotel-services
+
+oui B-reponse
+
+une B-nombre-chambre
+chambre I-nombre-chambre
+pour B-sejour-nbCouple
+un I-sejour-nbCouple
+couple I-sejour-nbCouple
+et B-sejour-nbEnfant
+un I-sejour-nbEnfant
+enfant I-sejour-nbEnfant
+
+oui B-reponse
+
+oui B-reponse
+je B-command-tache
+voudrais I-command-tache
+réserver I-command-tache
+une B-nombre-chambre
+chambre I-nombre-chambre
+à B-localisation-ville
+Périgueux I-localisation-ville
+du B-temps-date
+vingt I-temps-date
+deux I-temps-date
+au B-temps-date
+vingt I-temps-date
+sept I-temps-date
+octobre I-temps-date
+
+oui B-reponse
+
+oui B-reponse
+
+obtenir B-command-tache
+des I-command-tache
+informations I-command-tache
+supplémentaires I-command-tache
+
+j' O
+aimerais O
+une B-nombre-chambre
+chambre I-nombre-chambre
+à B-comparatif-paiement
+moins I-comparatif-paiement
+de I-comparatif-paiement
+quatre B-paiement-montant-entier
+vingt I-paiement-montant-entier
+dix I-paiement-montant-entier
+euros B-paiement-monnaie
+dans B-hotel-etoile
+un I-hotel-etoile
+hôtel I-hotel-etoile
+deux I-hotel-etoile
+étoiles I-hotel-etoile
+qui O
+accepte O
+les B-hotel-services
+animaux I-hotel-services
+
+non B-reponse
+
+oui B-reponse
+
+oui B-reponse
+
+non B-reponse
+
+je B-command-tache
+voudrais I-command-tache
+réserver I-command-tache
+une B-nombre-chambre
+chambre I-nombre-chambre
+à B-localisation-ville
+Paris I-localisation-ville
+gare B-localisation-lieuRelatif
+Saint-Lazare I-localisation-lieuRelatif
+
+du B-temps-date
+vingt I-temps-date
+cinq I-temps-date
+au B-temps-date
+vingt I-temps-date
+sept I-temps-date
+novembre I-temps-date
+il O
+me O
+faudrait O
+trente B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+pour B-objet
+un I-objet
+montant I-objet
+de I-objet
+soixante B-paiement-montant-entier
+quinze I-paiement-montant-entier
+euros B-paiement-monnaie
+environ B-comparatif-paiement
+par O
+chambre O
+
+non B-reponse
+trente B-nombre
+
+oui B-reponse
+
+obtenir B-command-tache
+des I-command-tache
+informations I-command-tache
+supplémentaires I-command-tache
+
+je O
+voudrais O
+des B-objet
+chambres I-objet
+avec B-chambre-equipement
+douche I-chambre-equipement
+
+à B-nom-hotel
+l' I-nom-hotel
+hôtel I-nom-hotel
+de I-nom-hotel
+Laeken I-nom-hotel
+
+oui B-reponse
+
+non B-reponse
+
+au O
+revoir O
+
+euh O
+je B-command-tache
+souhaiterais I-command-tache
+réserver I-command-tache
+une B-nombre-chambre
+chambre I-nombre-chambre
+du B-temps-date
+treize I-temps-date
+au B-temps-date
+dix I-temps-date
+huit I-temps-date
+décembre I-temps-date
+une B-nombre-chambre
+chambre B-chambre-type
+double I-chambre-type
+euh O
+à B-comparatif-paiement
+moins I-comparatif-paiement
+de I-comparatif-paiement
+quatre B-paiement-montant-entier
+vingts I-paiement-montant-entier
+euros B-paiement-monnaie
+avec B-hotel-services
+euh I-hotel-services
+une I-hotel-services
+piscine I-hotel-services
+et B-objet
+un I-objet
+parking I-objet
+dans O
+l' B-lienRef-coRef
+hôtel B-objetBD
+à B-localisation-ville
+Carcassonne I-localisation-ville
+s' O
+il O
+vous O
+plaît O
+
+pourais-je O
+
+pourrais-je B-command-tache
+avoir I-command-tache
+des I-command-tache
+renseignements I-command-tache
+sur O
+les B-lienRef-coRef
+les I-lienRef-coRef
+prix B-objet
+et O
+
+une B-nombre-chambre
+chambre B-chambre-type
+double I-chambre-type
+
+euh O
+à B-nom-hotel
+l' I-nom-hotel
+hôtel I-nom-hotel
+Elisabeth I-nom-hotel
+s' O
+il O
+vous O
+plaît O
+
+oui B-reponse
+est-ce O
+qu' O
+il O
+y O
+a O
+une B-hotel-services
+piscine I-hotel-services
+
+et O
+un B-objet
+parking I-objet
+
+et O
+hum O
+le B-lienRef-elsEns
+troisième B-rang-hotel
+hôtel B-objetBD
+hum O
+euh O
+a-t- O
+il O
+une B-hotel-services
+piscine I-hotel-services
+et B-objet
+un I-objet
+parking I-objet
+
+et O
+il B-lienRef-coRef
+est O
+à O
+quatre B-paiement-montant-entier
+vingts I-paiement-montant-entier
+euros B-paiement-monnaie
+
+euh O
+je B-command-tache
+vais I-command-tache
+réserver I-command-tache
+dans O
+celui-là B-lienRef-elsEns
+s' O
+il O
+vous O
+plaît O
+
+euh O
+oui B-reponse
+s' O
+il O
+vous O
+plaît O
+
+euh O
+non B-reponse
+merci O
+
+merci O
+au O
+revoir O
+
+euh O
+je B-command-tache
+souhaiterais I-command-tache
+réserver I-command-tache
+vingt B-nombre-chambre
+huit I-nombre-chambre
+chambres I-nombre-chambre
+à O
+cinquante B-paiement-montant-entier
+euros B-paiement-monnaie
+la O
+chambre O
+dans B-localisation-ville
+Paris I-localisation-ville
+treizième B-localisation-arrondissement
+s' O
+il O
+vous O
+plaît O
+du B-temps-date
+premier I-temps-date
+au B-temps-date
+deux I-temps-date
+mars I-temps-date
+
+ah B-reponse
+non I-reponse
+c' O
+est O
+le B-localisation-arrondissement
+treizième I-localisation-arrondissement
+arrondissement I-localisation-arrondissement
+
+oui B-reponse
+
+quels O
+sont O
+les B-lienRef-coRef
+tarifs B-objet
+
+salle B-hotel-services
+de I-hotel-services
+réunion I-hotel-services
+une B-nombre-chambre
+chambre I-nombre-chambre
+à O
+cinquante B-paiement-montant-entier
+euros B-paiement-monnaie
+la O
+chambre O
+salle B-hotel-services
+de I-hotel-services
+réunion I-hotel-services
+
+d'accord B-reponse
+
+d'accord B-reponse
+je O
+dois O
+en B-lienRef-coRef
+réserver B-command-tache
+vingt B-nombre-reservation
+huit I-nombre-reservation
+hein O
+
+vingt B-nombre-chambre
+huit I-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+
+oui B-reponse
+
+hum O
+près B-localisation-distanceRelative
+du I-localisation-distanceRelative
+métro B-localisation-lieuRelatif
+euh O
+est-ce O
+qu' O
+il O
+y O
+a O
+un B-objetBD
+hôtel I-objetBD
+près B-localisation-distanceRelative
+du I-localisation-distanceRelative
+métro B-localisation-lieuRelatif
+
+d'accord B-reponse
+du B-temps-date
+premier I-temps-date
+au B-temps-date
+deux I-temps-date
+mars I-temps-date
+
+oui B-reponse
+
+elles B-lienRef-coRef
+sont O
+à O
+quel O
+tarif B-objet
+
+soixante B-paiement-montant-entier
+euros B-paiement-monnaie
+hum O
+d'accord B-reponse
+ben B-command-tache
+je I-command-tache
+veux I-command-tache
+bien I-command-tache
+réserver I-command-tache
+
+merci O
+
+oui B-reponse
+
+cent B-nombre
+quatre I-nombre
+vingt I-nombre
+quatorze I-nombre
+deux I-nombre
+cent I-nombre
+vingt I-nombre
+
+sept B-nombre
+
+d' B-reponse
+accord I-reponse
+
+oui B-reponse
+
+non B-reponse
+merci O
+
+je O
+vous O
+en O
+prie O
+au O
+revoir O
+
+je B-command-tache
+souhaiterais I-command-tache
+réserver I-command-tache
+une B-nombre-chambre
+chambre I-nombre-chambre
+à B-localisation-ville
+Cannes I-localisation-ville
+pour B-evenement
+la I-evenement
+conférence I-evenement
+du I-evenement
+prêt I-evenement
+à I-evenement
+porter I-evenement
+les B-nombre-temps
+quatre I-nombre-temps
+derniers B-temps-axeTps
+jours B-temps-unite
+de B-temps-mois
+septembre I-temps-mois
+
+oui B-reponse
+
+hum O
+
+je B-command-tache
+souhaiterais I-command-tache
+avoir I-command-tache
+avoir I-command-tache
+des I-command-tache
+informations I-command-tache
+
+sur O
+le B-lienRef-coRef
+prix B-objet
+
+le B-lienRef-coRef
+prix B-objet
+
+d' O
+une O
+part O
+
+alors O
+une B-nombre-chambre
+chambre B-chambre-type
+simple I-chambre-type
+
+et O
+le B-evenement
+festival I-evenement
+n' O
+est O
+pas B-localisation-distanceRelative
+loin I-localisation-distanceRelative
+de I-localisation-distanceRelative
+la B-localisation-lieuRelatif
+plage I-localisation-lieuRelatif
+je O
+pense O
+
+oui B-reponse
+et O
+bien O
+ce O
+sera O
+pour O
+le B-evenement
+festival I-evenement
+pour B-nombre-temps
+les I-nombre-temps
+quatre I-nombre-temps
+derniers B-temps-axeTps
+jours B-temps-unite
+de B-temps-mois
+septembre I-temps-mois
+une B-nombre-chambre
+chambre B-chambre-type
+simple I-chambre-type
+
+oui B-reponse
+
+oui B-reponse
+
+hum O
+
+c' O
+est O
+parfait O
+
+non B-reponse
+ce O
+sera O
+parfait O
+c' O
+est O
+tout O
+
+je O
+
+au O
+revoir O
+
+deux B-nombre
+cent I-nombre
+quarante I-nombre
+
+ben B-command-tache
+je I-command-tache
+souhaiterais I-command-tache
+réserver I-command-tache
+euh O
+des B-objet
+chambres I-objet
+une B-nombre-chambre
+douzaine I-nombre-chambre
+de I-nombre-chambre
+chambres I-nombre-chambre
+pour O
+un O
+circuit O
+pour O
+plusieurs B-nombreNonDigit
+jours B-temps-unite
+différents I-temps-unite
+dans O
+différentes B-nombreNonDigit
+villes B-localisation-lieuRelatif
+
+alors O
+je B-command-tache
+voudrais I-command-tache
+réserver I-command-tache
+du B-temps-date
+quinze I-temps-date
+au B-temps-date
+dix I-temps-date
+sept I-temps-date
+mars I-temps-date
+à B-localisation-ville
+Carpentras I-localisation-ville
+du B-temps-date
+dix I-temps-date
+sept I-temps-date
+au B-temps-date
+dix I-temps-date
+neuf I-temps-date
+à B-localisation-ville
+Mendès I-localisation-ville
+Mende I-localisation-ville
+et B-connectProp
+du B-temps-date
+dix I-temps-date
+neuf I-temps-date
+au B-temps-date
+vingt I-temps-date
+à B-localisation-ville
+Moulins I-localisation-ville
+
+je O
+voudrais O
+une B-nombre-chambre
+douzaine I-nombre-chambre
+de I-nombre-chambre
+chambres I-nombre-chambre
+et B-connectProp
+si O
+possible O
+toutes O
+au B-chambre-voisine
+même I-chambre-voisine
+étage I-chambre-voisine
+
+euh O
+à O
+quel O
+prix B-objet
+
+et O
+elles B-lienRef-coRef
+sont O
+toutes O
+au B-objet
+même I-objet
+étage I-objet
+
+d'accord B-reponse
+alors I-reponse
+ok I-reponse
+pour B-nom-hotel
+le I-nom-hotel
+l' I-nom-hotel
+Ambassador I-nom-hotel
+à B-localisation-ville
+Mendès I-localisation-ville
+
+à B-localisation-ville
+Mende I-localisation-ville
+oui B-reponse
+du B-temps-jour-mois
+dix I-temps-jour-mois
+sept I-temps-jour-mois
+au B-temps-jour-mois
+dix I-temps-jour-mois
+neuf I-temps-jour-mois
+
+et O
+vous O
+avez O
+pas O
+moins B-comparatif-paiement
+cher I-comparatif-paiement
+
+vous O
+avez O
+moins B-comparatif-paiement
+cher I-comparatif-paiement
+un B-hotel-marque
+hôtel I-hotel-marque
+Formule I-hotel-marque
+Un I-hotel-marque
+par O
+exemple O
+
+d'accord B-reponse
+donc B-connectProp
+c' O
+est O
+du B-temps-jour-mois
+dix I-temps-jour-mois
+sept I-temps-jour-mois
+au B-temps-jour-mois
+dix I-temps-jour-mois
+neuf I-temps-jour-mois
+hein O
+douze B-nombre-chambre
+chambres I-nombre-chambre
+
+d'accord B-reponse
+toujours O
+le B-objet
+même I-objet
+au I-objet
+même I-objet
+étage I-objet
+
+on O
+verra O
+sur O
+place O
+
+d'accord B-reponse
+et B-connectProp
+pour B-localisation-ville
+Moulins I-localisation-ville
+
+hum O
+hum O
+
+c' O
+est O
+un B-hotel-marque
+Formule I-hotel-marque
+Un I-hotel-marque
+aussi O
+
+et O
+vous O
+avez O
+un B-hotel-marque
+Formule I-hotel-marque
+Un I-hotel-marque
+à B-localisation-ville
+Moulins I-localisation-ville
+
+d'accord B-reponse
+ils B-lienRef-coRef
+ont O
+douze B-nombre-chambre-disponible
+chambres I-nombre-chambre-disponible
+de I-nombre-chambre-disponible
+disponibles I-nombre-chambre-disponible
+
+d'accord B-reponse
+
+euh O
+oui B-reponse
+
+d'accord B-reponse
+dans O
+chaque B-objetBD
+hôtel I-objetBD
+hein O
+
+ok B-reponse
+euh O
+qu' O
+est-ce O
+que O
+je O
+voulais O
+dire O
+il O
+y O
+a O
+les B-objet
+parkings I-objet
+pour O
+ces O
+dans O
+ces B-lienRef-coRef
+hôtels-là B-objetBD
+
+oui B-reponse
+
+d'accord B-reponse
+
+et O
+les B-hotel-services
+petits I-hotel-services
+déjeuners I-hotel-services
+sont I-hotel-services
+compris I-hotel-services
+
+hum O
+
+oui B-reponse
+est-ce O
+que O
+les B-hotel-services
+les I-hotel-services
+petits I-hotel-services
+déjeuners I-hotel-services
+sont I-hotel-services
+compris I-hotel-services
+dans O
+les B-lienRef-coRef
+chambres B-objet
+
+d'accord B-reponse
+je O
+vous O
+remercie O
+
+au O
+revoir O
+
+euh O
+alors O
+ce B-command-tache
+serait I-command-tache
+pour I-command-tache
+euh I-command-tache
+réserver I-command-tache
+euh O
+une B-nombre-chambre
+chambre I-nombre-chambre
+enfin I-nombre-chambre
+trois I-nombre-chambre
+chambres B-chambre-type
+pour I-chambre-type
+une I-chambre-type
+personne I-chambre-type
+euh O
+pour B-rang-temps
+la I-rang-temps
+deuxième I-rang-temps
+semaine B-temps-unite
+de B-temps-mois
+mars I-temps-mois
+euh O
+hum O
+enfin O
+le B-rang-temps
+deuxième I-rang-temps
+week-end B-temps-unite
+de B-temps-mois
+mars I-temps-mois
+en O
+fait O
+non O
+le B-rang-temps
+deuxième I-rang-temps
+week-end B-temps-unite
+de B-temps-mois
+mars I-temps-mois
+euh O
+à B-localisation-ville
+Bourges I-localisation-ville
+et B-connectProp
+là O
+il O
+faudrait O
+bon O
+il O
+y O
+a O
+deux O
+exigences O
+que O
+ça O
+soit O
+pas B-localisation-distanceRelative
+trop I-localisation-distanceRelative
+près I-localisation-distanceRelative
+de I-localisation-distanceRelative
+l' B-localisation-lieuRelatif
+autoroute I-localisation-lieuRelatif
+et B-connectProp
+euh O
+éventuellement O
+que O
+ce O
+soit O
+près B-localisation-distanceRelative
+d' I-localisation-distanceRelative
+un B-localisation-lieuRelatif
+restaurant I-localisation-lieuRelatif
+euh I-localisation-lieuRelatif
+de I-localisation-lieuRelatif
+cuisine I-localisation-lieuRelatif
+locale I-localisation-lieuRelatif
+éventuellement O
+voilà O
+
+oui B-reponse
+
+alors O
+il O
+faudrait O
+que O
+ce O
+soit O
+euh O
+trois B-nombre-chambre
+chambres B-chambre-type
+pour I-chambre-type
+une I-chambre-type
+personne I-chambre-type
+et B-connectProp
+que O
+ce O
+soit O
+euh O
+pas B-paiement-montantQualitatif
+trop I-paiement-montantQualitatif
+cher I-paiement-montantQualitatif
+euh O
+donc O
+enfin O
+d' B-comparatif-paiement
+environs I-comparatif-paiement
+de I-comparatif-paiement
+soixante B-paiement-montant-entier
+quinze I-paiement-montant-entier
+euros B-paiement-monnaie
+si O
+possible O
+
+ben O
+là B-lienRef-coRef
+où O
+c' O
+est O
+soixante B-paiement-montant-entier
+dix I-paiement-montant-entier
+euros B-paiement-monnaie
+
+euh O
+oui B-reponse
+est-ce O
+que O
+enfin O
+est-ce O
+que O
+c' O
+est O
+pas B-localisation-distanceRelative
+trop I-localisation-distanceRelative
+près I-localisation-distanceRelative
+de I-localisation-distanceRelative
+l' B-localisation-lieuRelatif
+autoroute I-localisation-lieuRelatif
+et B-connectProp
+est-ce O
+qu' O
+il O
+y O
+a O
+bien O
+un B-localisation-lieuRelatif
+restaurant I-localisation-lieuRelatif
+à B-localisation-distanceRelative
+côté I-localisation-distanceRelative
+ou O
+pas O
+
+bon O
+c' O
+est O
+bien O
+et O
+euh O
+autre B-command-tache
+question I-command-tache
+est-ce O
+que O
+ces B-lienRef-coRef
+chambres B-objet
+sont O
+non B-chambre-fumeur
+fumeurs I-chambre-fumeur
+
+d'accord B-reponse
+mais O
+très O
+bien O
+
+euh O
+oui B-reponse
+parfait O
+
+euh O
+non B-reponse
+ça O
+va O
+merci O
+beaucoup O
+
+au O
+revoir O
+
+euh O
+alors O
+ce B-command-tache
+serait I-command-tache
+pour I-command-tache
+réserver I-command-tache
+hum O
+euh O
+une B-nombre-chambre
+une I-nombre-chambre
+chambre B-chambre-type
+double I-chambre-type
+si O
+possible O
+euh O
+la B-rang-temps
+deuxième I-rang-temps
+semaine B-temps-unite
+de B-temps-mois
+novembre I-temps-mois
+euh O
+à B-localisation-ville
+Paris I-localisation-ville
+euh O
+dans B-localisation-lieuRelatif
+la I-localisation-lieuRelatif
+banlieue I-localisation-lieuRelatif
+sud B-localisation-cardinal
+voilà O
+
+euh O
+oui B-reponse
+une B-nombre-chambre
+chambre B-chambre-type
+double I-chambre-type
+si O
+possible O
+
+euh O
+y O
+a O
+p O
+c' O
+est O
+pas O
+possible O
+l' B-hotel-marque
+hôtel I-hotel-marque
+Novotel I-hotel-marque
+
+ah O
+euh O
+ben O
+c' O
+est O
+très O
+bien O
+est-ce O
+que O
+enfin O
+qu' O
+est O
+ce O
+qu' O
+il O
+y O
+a O
+dans O
+l' B-lienRef-coRef
+hôtel B-objetBD
+je O
+voudrais O
+savoir O
+comme O
+euh O
+comme O
+services B-objet
+
+enfin O
+j' O
+aurais O
+voulu O
+savoir O
+s' O
+il O
+y O
+a O
+piscine B-hotel-services
+jacuzzi B-hotel-services
+euh O
+des O
+des O
+activités O
+dans O
+ce O
+genre-là O
+
+bon O
+euh O
+et O
+c' O
+est O
+quoi O
+les B-lienRef-coRef
+prix B-objet
+
+l' B-nom-hotel
+hôtel I-nom-hotel
+du I-nom-hotel
+mont I-nom-hotel
+c' O
+est O
+celui O
+qui O
+est O
+Novotel B-hotel-marque
+c' B-command-dial
+est I-command-dial
+ça I-command-dial
+
+bon O
+euh O
+et O
+moi O
+j' O
+aurais O
+préféré O
+cent B-nombre-reservation
+vingt I-nombre-reservation
+ben O
+non B-reponse
+mais I-reponse
+oui I-reponse
+ça O
+va O
+alors B-command-tache
+je I-command-tache
+prends I-command-tache
+je I-command-tache
+fais I-command-tache
+quand I-command-tache
+même I-command-tache
+la I-command-tache
+réservation I-command-tache
+
+euh O
+ben O
+oui B-reponse
+oui I-reponse
+alors O
+
+ben O
+je O
+voudrais O
+celui B-lienRef-elsEns
+qui O
+est O
+le B-localisation-distanceRelative
+plus I-localisation-distanceRelative
+près I-localisation-distanceRelative
+des B-objet
+services I-objet
+euh O
+tels O
+que O
+la B-hotel-services
+piscine I-hotel-services
+jacuzzi B-hotel-services
+et B-connectProp
+le B-objet
+prix I-objet
+de B-comparatif-paiement
+plus I-comparatif-paiement
+ou I-comparatif-paiement
+moins I-comparatif-paiement
+cent B-paiement-montant-entier
+vingt I-paiement-montant-entier
+euros B-paiement-monnaie
+c' O
+est O
+possible O
+
+euh O
+oui B-reponse
+
+euh O
+je B-reponse
+sais I-reponse
+pas I-reponse
+l' B-nombre
+un I-nombre
+des B-lienRef-coRef
+deux B-nombre
+si O
+possible O
+je B-reponse
+sais I-reponse
+pas I-reponse
+non B-reponse
+euh O
+
+n' O
+importe O
+enfin O
+l' B-nombre
+un I-nombre
+des B-lienRef-coRef
+deux B-nombre
+c' B-reponse
+est I-reponse
+équivalent I-reponse
+
+oui B-reponse
+très O
+bien O
+
+euh O
+non B-reponse
+ça O
+va O
+merci O
+
+au O
+revoir O
+
+ah O
+alors O
+ce B-command-tache
+serait I-command-tache
+pour I-command-tache
+euh I-command-tache
+faire I-command-tache
+une I-command-tache
+réservation I-command-tache
+euh O
+alors O
+c' O
+est O
+cinq B-nombre-chambre
+il I-nombre-chambre
+faudrait I-nombre-chambre
+cinq I-nombre-chambre
+chambres B-chambre-type
+doubles I-chambre-type
+voilà O
+à B-localisation-ville
+Paris I-localisation-ville
+ou B-connectAttr
+peut-être O
+proche B-localisation-distanceRelative
+de I-localisation-distanceRelative
+Sceaux B-localisation-ville
+en O
+fait O
+c'est O
+à O
+l' O
+occasion O
+du O
+festival B-evenement
+de I-evenement
+l' I-evenement
+orangerie I-evenement
+de I-evenement
+Sceaux I-evenement
+donc B-connectProp
+ce O
+serait O
+bien O
+si O
+c' O
+était O
+dans B-objet
+ce I-objet
+coin-là I-objet
+euh O
+du B-temps-date
+treize I-temps-date
+au B-temps-date
+quatorze I-temps-date
+juillet I-temps-date
+voilà O
+
+ben O
+eh O
+en O
+fait O
+c' O
+est O
+c' O
+est O
+c'est O
+ça O
+serait O
+intéressant O
+de O
+savoir O
+s' O
+ils B-lienRef-coRef
+sont O
+près B-localisation-distanceRelative
+du I-localisation-distanceRelative
+euh O
+festival B-evenement
+de I-evenement
+l' I-evenement
+orangerie I-evenement
+de I-evenement
+Sceaux I-evenement
+
+bon O
+ben O
+très O
+bien O
+alors O
+est-ce O
+qu' O
+il O
+y O
+a O
+cinq B-nombre-chambre
+chambres B-chambre-type
+doubles I-chambre-type
+libres B-nombre-chambre-disponible
+pour O
+ces B-lienRef-coRef
+dates-là B-objet
+
+euh O
+en O
+fait O
+il O
+faudrait O
+que O
+je O
+sache O
+les B-lienRef-coRef
+prix B-objet
+euh O
+vous O
+avez O
+les B-lienRef-coRef
+prix B-objet
+de B-nombre-chambre
+d' I-nombre-chambre
+une I-nombre-chambre
+chambre B-chambre-type
+double I-chambre-type
+dans B-objetBD
+un I-objetBD
+hôtel I-objetBD
+
+et O
+dans O
+les B-lienRef-coRef
+hôtels B-objetBD
+
+ben O
+je O
+prends O
+le B-lienRef-elsEns
+premier B-rang
+alors O
+à O
+soixante B-paiement-montant-entier
+dix I-paiement-montant-entier
+euros B-paiement-monnaie
+
+euh O
+oui B-reponse
+éventuellement B-reponse
+
+oui B-reponse
+euh O
+est-ce O
+que O
+est-ce O
+que O
+ce O
+sont O
+dans O
+un B-objet
+quartier I-objet
+où O
+il O
+y O
+a O
+des B-localisation-lieuRelatif
+restaurants I-localisation-lieuRelatif
+et B-localisation-lieuRelatif
+les I-localisation-lieuRelatif
+cafés I-localisation-lieuRelatif
+où B-localisation-lieuRelatif
+c' I-localisation-lieuRelatif
+est I-localisation-lieuRelatif
+possible I-localisation-lieuRelatif
+de I-localisation-lieuRelatif
+sortir I-localisation-lieuRelatif
+ou B-connectProp
+euh I-connectProp
+ou I-connectProp
+c' O
+est O
+plutôt O
+un B-localisation-lieuRelatif
+quartier I-localisation-lieuRelatif
+calme I-localisation-lieuRelatif
+
+bon O
+mais O
+ça O
+va O
+alors O
+je B-command-tache
+vais I-command-tache
+faire I-command-tache
+la I-command-tache
+réservation I-command-tache
+
+non B-reponse
+ça O
+va O
+très O
+bien O
+merci O
+
+au O
+revoir O
+
+allô O
+je B-command-tache
+souhaite I-command-tache
+une I-command-tache
+réservation I-command-tache
+pour B-nombre-chambre
+euh I-nombre-chambre
+une I-nombre-chambre
+pour I-nombre-chambre
+une I-nombre-chambre
+une I-nombre-chambre
+chambre I-nombre-chambre
+pour B-localisation-ville
+Rennes I-localisation-ville
+début B-temps-plageRelative
+septembre B-temps-mois
+deux B-nombre-chambre
+chambres I-nombre-chambre
+pour B-localisation-ville
+Rennes I-localisation-ville
+début B-temps-plageRelative
+septembre B-temps-mois
+minimum B-comparatif-paiement
+au I-comparatif-paiement
+maximum I-comparatif-paiement
+cent B-paiement-montant-entier
+cinquante I-paiement-montant-entier
+euros B-paiement-monnaie
+dans B-localisation-lieuRelatif
+un I-localisation-lieuRelatif
+quartier I-localisation-lieuRelatif
+touristique I-localisation-lieuRelatif
+
+oui B-reponse
+
+oui B-reponse
+
+oui B-reponse
+
+oui B-reponse
+
+la B-lienRef-elsEns
+première B-rang
+chambre B-objet
+à O
+cent B-paiement-montant-entier
+cinquante I-paiement-montant-entier
+euros B-paiement-monnaie
+
+allô O
+
+euh O
+la B-lienRef-elsEns
+première B-rang
+chambre B-objet
+
+euh O
+s B-paiement-montant-entier
+mille I-paiement-montant-entier
+huit I-paiement-montant-entier
+cents I-paiement-montant-entier
+euros B-paiement-monnaie
+attendez B-command-dial
+hum O
+mille B-paiement-montant-entier
+huit I-paiement-montant-entier
+cents I-paiement-montant-entier
+euros B-paiement-monnaie
+c' O
+est O
+non B-reponse
+c' O
+est O
+trop B-comparatif-paiement
+cher I-comparatif-paiement
+
+oui B-reponse
+tout I-reponse
+à I-reponse
+fait I-reponse
+ah I-reponse
+oui I-reponse
+oui I-reponse
+tout I-reponse
+à I-reponse
+fait I-reponse
+s I-reponse
+oui I-reponse
+oui I-reponse
+oui I-reponse
+je B-command-dial
+confirme I-command-dial
+
+d'accord B-reponse
+
+non B-reponse
+merci O
+par B-connectProp
+contre I-connectProp
+si I-connectProp
+par I-connectProp
+contre I-connectProp
+je O
+voudrais O
+savoir O
+je O
+je O
+je O
+suis O
+bien O
+dans B-localisation-lieuRelatif
+le I-localisation-lieuRelatif
+quartier I-localisation-lieuRelatif
+touristique I-localisation-lieuRelatif
+
+d'accord B-reponse
+ben O
+c' O
+est O
+parfait O
+
+au O
+revoir O
+
+alors O
+je O
+voudrais O
+désirais O
+avoir O
+une B-nombre-chambre
+chambre I-nombre-chambre
+pour B-localisation-ville
+Paris I-localisation-ville
+pour B-sejour-nbNuit
+quatre I-sejour-nbNuit
+jours I-sejour-nbNuit
+euh O
+l B-temps-axeTps
+le I-temps-axeTps
+premier I-temps-axeTps
+jour B-temps-unite
+c' O
+est O
+ça O
+serait O
+en B-temps-mois
+janvier I-temps-mois
+euh I-temps-mois
+au I-temps-mois
+je I-temps-mois
+je I-temps-mois
+re I-temps-mois
+au I-temps-mois
+janvier I-temps-mois
+euh O
+j' O
+aimerais O
+bien O
+avoir O
+une B-nombre-chambre
+chambre B-chambre-type
+double I-chambre-type
+euh O
+max B-comparatif-paiement
+hum I-comparatif-paiement
+minimum I-comparatif-paiement
+quatre B-paiement-montant-entier
+vingt I-paiement-montant-entier
+dix I-paiement-montant-entier
+euros B-paiement-monnaie
+par O
+jour O
+et B-connectProp
+euh O
+avec B-hotel-services
+piscine I-hotel-services
+et B-hotel-services
+restaurant I-hotel-services
+et O
+situé O
+au O
+voilà O
+
+oui B-reponse
+
+oui B-reponse
+avec B-objet
+chambre I-objet
+une B-nombre-chambre
+chambre B-chambre-type
+double I-chambre-type
+
+avec B-hotel-services
+piscine I-hotel-services
+et B-hotel-services
+restaurant I-hotel-services
+
+oui B-reponse
+
+euh O
+y O
+a-t-il O
+la B-hotel-services
+piscine I-hotel-services
+et B-hotel-services
+les I-hotel-services
+restaurants I-hotel-services
+le I-hotel-services
+restaurant I-hotel-services
+
+alors O
+dispose-t- O
+il B-lienRef-coRef
+d' B-hotel-services
+une I-hotel-services
+piscine I-hotel-services
+
+et O
+à O
+l' B-lienRef-coDom
+autre I-lienRef-coDom
+
+ben B-command-tache
+je I-command-tache
+réserverai I-command-tache
+dans O
+le B-lienRef-elsEns
+premier B-rang-reservation
+mais B-connectProp
+par I-connectProp
+contre I-connectProp
+et O
+c' O
+était O
+bien O
+c' O
+est O
+bien O
+une B-nombre-chambre
+chambre B-chambre-type
+double I-chambre-type
+y O
+a-t-il O
+bien O
+une B-nombre-chambre
+chambre B-chambre-type
+double I-chambre-type
+à B-nom-hotel
+l' I-nom-hotel
+hôtel I-nom-hotel
+René I-nom-hotel
+
+d'accord B-reponse
+euh I-reponse
+d'accord I-reponse
+ben B-command-tache
+je I-command-tache
+vais I-command-tache
+réserver I-command-tache
+pour O
+le B-lienRef-elsEns
+premier B-rang-hotel
+hôtel B-objetBD
+
+ah B-reponse
+non I-reponse
+
+euh O
+non B-reponse
+je B-command-tache
+ne I-command-tache
+souhaite I-command-tache
+pas I-command-tache
+d' I-command-tache
+autres I-command-tache
+renseignements I-command-tache
+mais B-connectProp
+par I-connectProp
+contre I-connectProp
+euh O
+je B-command-tache
+je I-command-tache
+ne I-command-tache
+souhaite I-command-tache
+pas I-command-tache
+réserver I-command-tache
+parce B-connectProp
+que I-connectProp
+je O
+voulais O
+m B-comparatif-paiement
+le I-comparatif-paiement
+maximum I-comparatif-paiement
+quatre B-paiement-montant-entier
+vingt I-paiement-montant-entier
+dix I-paiement-montant-entier
+euros B-paiement-monnaie
+donc B-connectProp
+ça B-reponse
+ne I-reponse
+me I-reponse
+convient I-reponse
+pas I-reponse
+en B-connectProp
+plus I-connectProp
+il O
+y O
+a O
+pas B-hotel-services
+de I-hotel-services
+piscine I-hotel-services
+
+merci O
+beaucoup O
+
+au O
+revoir O
+
+alors O
+je B-command-tache
+souhaite I-command-tache
+faire I-command-tache
+souhaite I-command-tache
+faire I-command-tache
+une I-command-tache
+réservation I-command-tache
+pour B-localisation-ville
+Paris I-localisation-ville
+pendant B-temps-axeTps
+quatre B-sejour-nbNuit
+jours I-sejour-nbNuit
+euh O
+en B-temps-mois
+janvier I-temps-mois
+quatre B-sejour-nbNuit
+jours I-sejour-nbNuit
+en B-temps-mois
+janvier I-temps-mois
+euh O
+et B-connectProp
+je O
+voudrais O
+une B-nombre-chambre
+chambre I-nombre-chambre
+dans B-localisation-arrondissement
+le I-localisation-arrondissement
+dix I-localisation-arrondissement
+huitième I-localisation-arrondissement
+arrondissement I-localisation-arrondissement
+une B-nombre-chambre
+chambre B-chambre-type
+double I-chambre-type
+avec B-hotel-services
+piscine I-hotel-services
+et B-hotel-services
+restaurant I-hotel-services
+et B-connectProp
+maxi B-comparatif-paiement
+quatre B-paiement-montant-entier
+vingt I-paiement-montant-entier
+dix I-paiement-montant-entier
+euros B-paiement-monnaie
+par O
+jour O
+
+oui B-reponse
+pendant B-temps-axeTps
+quatre B-sejour-nbNuit
+jours I-sejour-nbNuit
+dans B-localisation-arrondissement
+le I-localisation-arrondissement
+dix I-localisation-arrondissement
+huitième I-localisation-arrondissement
+arrondissement I-localisation-arrondissement
+avec B-hotel-services
+piscine I-hotel-services
+et B-hotel-services
+restaurant I-hotel-services
+une B-nombre-chambre
+chambre B-chambre-type
+double I-chambre-type
+dans B-localisation-arrondissement
+le I-localisation-arrondissement
+dix I-localisation-arrondissement
+huitième I-localisation-arrondissement
+
+oui B-reponse
+
+oui B-reponse
+
+est-ce O
+que O
+l' B-nom-hotel
+hôtel I-nom-hotel
+des I-nom-hotel
+vignes I-nom-hotel
+euh O
+y O
+a-t-il O
+la B-hotel-services
+piscine I-hotel-services
+et B-hotel-services
+le I-hotel-services
+restaurant I-hotel-services
+
+dispose-t- O
+il B-lienRef-coRef
+
+dispose-t- O
+il B-lienRef-coRef
+d' B-hotel-services
+une I-hotel-services
+piscine I-hotel-services
+
+d'accord B-reponse
+et B-connectProp
+dans O
+l' B-lienRef-coDom
+autre I-lienRef-coDom
+y O
+a-t-il O
+piscine B-hotel-services
+et B-hotel-services
+restaurant I-hotel-services
+
+hum O
+hum O
+d'accord B-reponse
+y O
+a-t-il O
+une B-nombre-chambre
+chambre B-chambre-type
+double I-chambre-type
+
+d'accord B-reponse
+là O
+je B-command-tache
+vais I-command-tache
+réserver I-command-tache
+le B-lienRef-coRef
+le I-lienRef-coRef
+prix B-objet
+est O
+de O
+de O
+combien O
+
+par O
+jour B-temps-unite
+
+et O
+ben O
+je B-command-tache
+vais I-command-tache
+prendre I-command-tache
+le B-lienRef-elsEns
+le I-lienRef-elsEns
+deuxième B-rang-hotel
+hôtel B-objetBD
+
+cet B-lienRef-coRef
+hôtel B-objetBD
+
+je B-command-tache
+souhaite I-command-tache
+réserver I-command-tache
+euh O
+le B-lienRef-elsEns
+deuxième B-rang-hotel
+hôtel B-objetBD
+que O
+vous O
+m' O
+avez O
+dit O
+où O
+qui O
+a O
+tous O
+les B-lienRef-coRef
+critères B-objet
+qui O
+correspond O
+à O
+ma B-lienRef-coRef
+à I-lienRef-coRef
+ma I-lienRef-coRef
+à I-lienRef-coRef
+ma I-lienRef-coRef
+demande B-objet
+
+non B-reponse
+
+je B-command-tache
+ne I-command-tache
+souhaite I-command-tache
+pas I-command-tache
+d' I-command-tache
+autres I-command-tache
+renseignements I-command-tache
+je O
+vous O
+
+remercie O
+
+au O
+revoir O
+
+cent B-nombre
+soixante I-nombre
+quatorze I-nombre
+
+réserver B-command-tache
+une B-nombre-chambre
+chambre I-nombre-chambre
+à B-command-tache
+n I-command-tache
+n I-command-tache
+réserver I-command-tache
+à B-localisation-ville
+Nantes I-localisation-ville
+les B-nombre-temps
+trois I-nombre-temps
+derniers B-temps-axeTps
+jours B-temps-unite
+de B-temps-mois
+mars I-temps-mois
+
+oui B-reponse
+
+six B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+
+six B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+aux B-comparatif-paiement
+alentours I-comparatif-paiement
+de I-comparatif-paiement
+quatre B-paiement-montant-entier
+vingts I-paiement-montant-entier
+euros B-paiement-monnaie
+
+non B-reponse
+je O
+veux O
+aux B-comparatif-paiement
+environs I-comparatif-paiement
+de I-comparatif-paiement
+quatre B-paiement-montant-entier
+vingts I-paiement-montant-entier
+euros B-paiement-monnaie
+
+donc O
+lequel O
+vous O
+me O
+dites O
+recommencez B-command-dial
+
+oui B-reponse
+bon O
+celui-là B-lienRef-elsEns
+celui-là I-lienRef-elsEns
+
+donc O
+le B-lienRef-elsEns
+premier B-rang
+
+six B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+
+alors O
+j' O
+ai O
+un B-hotel-services
+chat I-hotel-services
+et B-connectProp
+je O
+veux O
+un B-hotel-services
+restaurant I-hotel-services
+
+je B-command-dial
+confirme I-command-dial
+
+non B-reponse
+c' O
+est O
+bon O
+
+merci O
+
+oui O
+bonjour O
+je B-command-tache
+désirais I-command-tache
+réserver I-command-tache
+deux B-nombre-chambre
+chambres B-chambre-type
+doubles I-chambre-type
+à B-localisation-ville
+Colmar I-localisation-ville
+pour B-rang-temps
+le I-rang-temps
+quatrième I-rang-temps
+jour B-temps-unite
+de B-temps-mois
+janvier I-temps-mois
+des B-objet
+chambres I-objet
+euh O
+à O
+cent B-paiement-montant-entier
+euros B-paiement-monnaie
+environ B-comparatif-paiement
+avec B-chambre-equipement
+une I-chambre-equipement
+baignoire I-chambre-equipement
+et B-chambre-equipement
+un I-chambre-equipement
+accès I-chambre-equipement
+à I-chambre-equipement
+internet I-chambre-equipement
+s' O
+il O
+vous O
+plaît O
+
+pour B-rang-temps
+le I-rang-temps
+quatrième I-rang-temps
+jour B-temps-unite
+de B-temps-mois
+janvier I-temps-mois
+un B-nombre-temps
+seul I-nombre-temps
+jour B-temps-unite
+le B-rang-temps
+quatrième I-rang-temps
+jour B-temps-unite
+
+merci O
+
+oui B-reponse
+
+euh O
+je O
+voudrais O
+simplement O
+savoir O
+s' O
+il O
+y O
+a O
+baignoires B-chambre-equipement
+et B-chambre-equipement
+surtout I-chambre-equipement
+un I-chambre-equipement
+accès I-chambre-equipement
+à I-chambre-equipement
+internet I-chambre-equipement
+
+alors O
+c' O
+est O
+parfait O
+à O
+cent B-paiement-montant-entier
+euros B-paiement-monnaie
+environ B-comparatif-paiement
+la O
+chambre O
+
+ah O
+mais O
+c' O
+est O
+parfait O
+
+c' B-reponse
+est I-reponse
+entendu I-reponse
+
+je B-command-tache
+réserve I-command-tache
+
+deux B-nombre-chambre
+chambres I-nombre-chambre
+
+merci O
+
+c'est O
+parfait O
+
+oui B-reponse
+oui I-reponse
+tout I-reponse
+à I-reponse
+fait I-reponse
+
+oui B-reponse
+
+tout B-reponse
+à I-reponse
+fait I-reponse
+
+non B-reponse
+s O
+ce O
+sera O
+tout O
+
+je O
+vous O
+remercie O
+
+merci O
+au O
+revoir O
+madame O
+
+bonjour O
+madame O
+je B-command-tache
+désirais I-command-tache
+réserver I-command-tache
+des B-objet
+chambres I-objet
+à B-localisation-ville
+Paris I-localisation-ville
+près B-localisation-distanceRelative
+du I-localisation-distanceRelative
+centre B-localisation-lieuRelatif
+Pompidou I-localisation-lieuRelatif
+s' O
+il O
+vous O
+plaît O
+
+tout B-reponse
+à I-reponse
+fait I-reponse
+
+le B-temps-axeTps
+dernier I-temps-axeTps
+week-end B-temps-unite
+du B-temps-mois
+mois I-temps-mois
+d' I-temps-mois
+août I-temps-mois
+
+merci O
+
+alors O
+je O
+désirais O
+que O
+cet O
+hôtel O
+euh O
+ces B-lienRef-coRef
+chambres B-objet
+coûtent O
+cent B-paiement-montant-entier
+vingt I-paiement-montant-entier
+euros B-paiement-monnaie
+environ B-comparatif-paiement
+la O
+chambre O
+et B-connectProp
+je O
+souhaiterais O
+également O
+le B-objet
+parking I-objet
+et B-hotel-services
+la I-hotel-services
+piscine I-hotel-services
+s' O
+il O
+vous O
+plaît O
+
+ah O
+je O
+désirais O
+alors O
+un B-nombre-hotel
+autre B-lienRef-coDom
+hôtel B-objetBD
+
+je O
+désirais O
+le O
+
+ah O
+c' O
+est O
+parfait O
+c' O
+est O
+parfait O
+et O
+quel O
+est O
+le B-lienRef-coRef
+montant B-objet
+de I-objet
+chaque I-objet
+chambre I-objet
+
+des B-chambre-type
+chambres I-chambre-type
+doubles I-chambre-type
+s' O
+il O
+vous O
+plaît O
+cinq B-nombre-chambre
+chambres B-chambre-type
+doubles I-chambre-type
+
+ah O
+c' O
+est O
+parfait O
+c' O
+est O
+parfait O
+
+oui B-reponse
+je B-command-tache
+désire I-command-tache
+réserver I-command-tache
+dans O
+cet B-lienRef-coRef
+hôtel B-objetBD
+
+oui B-reponse
+
+merci O
+madame O
+
+ah B-command-tache
+alors I-command-tache
+qu' I-command-tache
+avez-vous I-command-tache
+d' I-command-tache
+autre I-command-tache
+à I-command-tache
+me I-command-tache
+proposer I-command-tache
+
+et O
+il O
+y O
+a-t-il O
+parking B-objet
+parking I-objet
+et B-hotel-services
+piscine I-hotel-services
+
+ah O
+je O
+suis O
+bien O
+ennuyée O
+car O
+je O
+désirais O
+avoir O
+les B-lienRef-coRef
+deux B-nombre
+
+et O
+bien O
+écoutez O
+je O
+prends O
+celui B-lienRef-elsEns
+avec B-objet
+parking I-objet
+
+oui B-reponse
+c' O
+est O
+ça O
+
+hein B-reponse
+oui I-reponse
+évidemment I-reponse
+s B-connectProp
+étant I-connectProp
+donné I-connectProp
+qu' O
+il O
+y O
+a O
+pas B-hotel-services
+la I-hotel-services
+piscine I-hotel-services
+oui B-reponse
+et I-reponse
+bien I-reponse
+d'accord I-reponse
+entendu I-reponse
+
+merci O
+
+oui B-reponse
+
+oui B-reponse
+oui I-reponse
+oui I-reponse
+tout I-reponse
+à I-reponse
+fait I-reponse
+puisque B-connectProp
+vous O
+n' O
+avez O
+pas B-hotel-services
+avec I-hotel-services
+piscine I-hotel-services
+oui B-reponse
+oui I-reponse
+tout I-reponse
+à I-reponse
+fait I-reponse
+
+merci O
+
+oui B-reponse
+
+entendu B-reponse
+madame O
+
+tout B-reponse
+à I-reponse
+fait I-reponse
+
+non B-reponse
+non I-reponse
+non I-reponse
+ça O
+ira O
+
+au O
+revoir O
+madame O
+
+oui O
+bonjour O
+j' B-command-tache
+aurais I-command-tache
+voulu I-command-tache
+réserver I-command-tache
+trois B-nombre-chambre
+chambres B-chambre-type
+pour I-chambre-type
+une I-chambre-type
+personne I-chambre-type
+le B-comparatif-paiement
+moins I-comparatif-paiement
+cher I-comparatif-paiement
+possible I-comparatif-paiement
+à B-localisation-ville
+Arles I-localisation-ville
+pendant B-temps-axeTps
+les B-evenement
+rencontres I-evenement
+de I-evenement
+foot I-evenement
+
+hein O
+hein O
+euh O
+pendant B-temps-axeTps
+les B-objet
+dates I-objet
+du B-temps-date
+six I-temps-date
+au B-temps-date
+quatorze I-temps-date
+re I-temps-date
+quatorze I-temps-date
+juillet I-temps-date
+euh O
+est-ce O
+qu' O
+il O
+y O
+a O
+un B-objet
+hôtel I-objet
+qui I-objet
+a I-objet
+des I-objet
+chambres I-objet
+
+trois B-nombre-chambre
+chambres B-chambre-type
+pour I-chambre-type
+une I-chambre-type
+personne I-chambre-type
+
+d'accord B-reponse
+donc B-connectProp
+du O
+hum O
+et O
+c' O
+est O
+les B-lienRef-elsEns
+moins B-comparatif-paiement
+chères I-comparatif-paiement
+qu' O
+il O
+y O
+ait O
+
+et O
+y O
+a-t-il O
+des B-objet
+chambres I-objet
+de I-objet
+libres I-objet
+du B-temps-date
+six I-temps-date
+au B-temps-date
+quatorze I-temps-date
+juillet I-temps-date
+
+d'accord B-reponse
+euh O
+est-ce O
+que O
+le O
+est-ce O
+que O
+le B-lienRef-coRef
+l' I-lienRef-coRef
+hôtel B-hotel-etat-complet
+qui I-hotel-etat-complet
+a I-hotel-etat-complet
+des I-hotel-etat-complet
+chambres I-hotel-etat-complet
+du B-temps-date
+six I-temps-date
+au B-temps-date
+quatorze I-temps-date
+juillet I-temps-date
+libres B-hotel-etat-complet
+euh O
+est O
+au B-localisation-lieuRelatif
+centre I-localisation-lieuRelatif
+ville I-localisation-lieuRelatif
+
+hum O
+hum O
+d'accord B-reponse
+et B-connectProp
+vous B-command-dial
+pouvez I-command-dial
+me I-command-dial
+répéter I-command-dial
+le B-lienRef-coRef
+prix B-objet
+
+d'accord B-reponse
+et O
+bien O
+je B-command-tache
+voudrais I-command-tache
+réserver I-command-tache
+trois B-nombre-chambre
+chambres B-chambre-type
+pour I-chambre-type
+une I-chambre-type
+personne I-chambre-type
+du B-temps-date
+six I-temps-date
+au B-temps-date
+quatorze I-temps-date
+juillet I-temps-date
+
+non B-reponse
+je O
+vous O
+remercie O
+
+au O
+revoir O
+
+euh O
+réservation B-command-tache
+d' B-objetBD
+hôtel I-objetBD
+
+Colmar B-localisation-ville
+
+les B-nombre-temps
+quatre I-nombre-temps
+premiers B-temps-axeTps
+jours B-temps-unite
+de B-temps-mois
+janvier I-temps-mois
+
+obtenir B-command-tache
+des I-command-tache
+informations I-command-tache
+supplémentaires I-command-tache
+sur O
+les B-lienRef-coRef
+chambres B-chambre-type
+doubles I-chambre-type
+s' O
+il O
+vous O
+plaît O
+
+euh O
+je O
+souhaiterais O
+avoir O
+savoir O
+s' O
+il O
+y O
+a O
+deux B-nombre-chambre
+chambres B-chambre-type
+doubles I-chambre-type
+deux B-nombre-chambre
+chambres B-chambre-type
+doubles I-chambre-type
+avec B-chambre-equipement
+une I-chambre-equipement
+baignoire I-chambre-equipement
+et B-chambre-equipement
+accès I-chambre-equipement
+internet I-chambre-equipement
+pour O
+cent B-paiement-montant-entier
+euros B-paiement-monnaie
+
+le B-lienRef-elsEns
+deuxième B-rang-hotel
+hôtel B-objetBD
+c' B-connectProp
+est-à-dire I-connectProp
+euh O
+le B-lienRef-elsEns
+dernier B-rang-hotel
+que O
+vous O
+venez O
+de O
+me O
+mentionner O
+
+deux B-nombre-chambre
+chambres B-chambre-type
+doubles I-chambre-type
+donc O
+une B-chambre-equipement
+baignoire I-chambre-equipement
+et B-chambre-equipement
+accès I-chambre-equipement
+à I-chambre-equipement
+internet I-chambre-equipement
+euh O
+pour O
+soixante B-paiement-montant-entier
+euros B-paiement-monnaie
+si O
+j' O
+ai O
+bonne O
+mémoire O
+
+si B-connectProp
+c' O
+est O
+avec O
+une B-chambre-equipement
+baignoire I-chambre-equipement
+et B-chambre-equipement
+accès I-chambre-equipement
+internet I-chambre-equipement
+je B-command-tache
+réserve I-command-tache
+
+non B-reponse
+
+au O
+revoir O
+
+bonjour O
+j' B-command-tache
+aimerais I-command-tache
+avoir I-command-tache
+réserver I-command-tache
+un B-nombre-temps
+un I-nombre-temps
+week-end B-temps-unite
+en B-temps-mois
+avril I-temps-mois
+alors O
+c' B-connectProp
+est-à-dire I-connectProp
+le B-rang-temps
+troisième I-rang-temps
+week-end B-temps-unite
+d' B-temps-mois
+avril I-temps-mois
+à B-localisation-ville
+Cannes I-localisation-ville
+alors O
+pour B-sejour-nbPersonne
+cinq I-sejour-nbPersonne
+personnes I-sejour-nbPersonne
+donc O
+deux B-nombre-chambre
+chambres B-chambre-type
+doubles I-chambre-type
+une B-nombre-chambre
+chambre B-chambre-type
+simple I-chambre-type
+alors O
+j' O
+aimerais O
+euh O
+pour O
+un B-objet
+prix I-objet
+euh O
+un B-comparatif-paiement
+peu I-comparatif-paiement
+moins I-comparatif-paiement
+de I-comparatif-paiement
+cent B-paiement-montant-entier
+euros B-paiement-monnaie
+la O
+chambre O
+et O
+la O
+nuit O
+voi O
+et B-connectProp
+j' O
+aimerais O
+savoir O
+si O
+le B-hotel-services
+petit I-hotel-services
+déjeuner I-hotel-services
+est I-hotel-services
+compris I-hotel-services
+également O
+
+voilà O
+
+c' O
+est O
+ça O
+
+oui B-reponse
+
+merci O
+
+et O
+quel O
+prix B-objet
+
+oui B-reponse
+
+euh O
+pour O
+cent B-paiement-montant-entier
+cinquante I-paiement-montant-entier
+euros B-paiement-monnaie
+pouvez-vous O
+me O
+dire O
+s' O
+il O
+y O
+a O
+une B-hotel-services
+piscine I-hotel-services
+
+oui B-reponse
+
+il O
+y O
+a O
+une B-hotel-services
+piscine I-hotel-services
+bon O
+et O
+bien O
+écoutez O
+euh O
+je O
+crois O
+que O
+je O
+vais O
+prendre O
+j' O
+aurais O
+voulu O
+je O
+ne O
+voudrais O
+pas B-comparatif-paiement
+dépasser I-comparatif-paiement
+cent B-paiement-montant-entier
+euros B-paiement-monnaie
+mais B-connectProp
+euh O
+pour O
+euh O
+pour O
+avec O
+la B-hotel-services
+piscine I-hotel-services
+c' O
+est O
+d'accord B-reponse
+je B-command-tache
+peux I-command-tache
+prendre I-command-tache
+le I-command-tache
+l' I-command-tache
+hôtel I-command-tache
+réserver I-command-tache
+l' B-nom-hotel
+hôtel I-nom-hotel
+de I-nom-hotel
+la I-nom-hotel
+croisette I-nom-hotel
+avec B-hotel-services
+la I-hotel-services
+piscine I-hotel-services
+
+voilà O
+
+c' O
+est O
+ça O
+
+oui B-reponse
+
+alors O
+
+c' O
+est O
+parfait O
+
+voilà O
+merci O
+beaucoup O
+
+alors O
+
+dossier O
+cent B-nombre-reservation
+six I-nombre-reservation
+cent I-nombre-reservation
+cinquante I-nombre-reservation
+cinq I-nombre-reservation
+merci O
+beaucoup O
+
+merci O
+au O
+revoir O
+
+oui O
+bonjour O
+je B-command-tache
+voudrais I-command-tache
+réserver I-command-tache
+un B-objetBD
+hôtel I-objetBD
+à B-localisation-ville
+Manosque I-localisation-ville
+les B-nombre-temps
+trois I-nombre-temps
+premiers B-temps-axeTps
+jours B-temps-unite
+de B-temps-mois
+mai I-temps-mois
+hum O
+en O
+fait O
+ce B-command-tache
+serait I-command-tache
+pour I-command-tache
+réserver I-command-tache
+douze B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+si O
+possible O
+sur B-chambre-voisine
+le I-chambre-voisine
+même I-chambre-voisine
+étage I-chambre-voisine
+et B-connectProp
+avec I-connectProp
+un B-objet
+tarif I-objet
+euh O
+inférieur B-comparatif-paiement
+à I-comparatif-paiement
+quatre B-paiement-montant-entier
+vingt I-paiement-montant-entier
+dix I-paiement-montant-entier
+euros B-paiement-monnaie
+par O
+nuit O
+
+tout B-reponse
+à I-reponse
+fait I-reponse
+madame O
+
+exactement B-reponse
+donc B-connectProp
+douze B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+si O
+c' O
+est O
+possible O
+au B-chambre-voisine
+même I-chambre-voisine
+étage I-chambre-voisine
+et B-connectProp
+également I-connectProp
+que O
+chaque B-objet
+chambre I-objet
+en O
+fait O
+ben O
+que O
+le B-objet
+prix I-objet
+de O
+la O
+nuit O
+soit O
+inférieur B-comparatif-paiement
+à I-comparatif-paiement
+quatre B-paiement-montant-entier
+vingt I-paiement-montant-entier
+dix I-paiement-montant-entier
+euros B-paiement-monnaie
+
+merci O
+
+d'accord B-reponse
+
+alors O
+donc O
+hôtel B-nom-hotel
+de I-nom-hotel
+flore I-nom-hotel
+et B-nom-hotel
+hôtel I-nom-hotel
+de I-nom-hotel
+et I-nom-hotel
+l' I-nom-hotel
+hippodrome I-nom-hotel
+d'accord B-reponse
+vous O
+avez O
+les O
+concernant O
+les B-lienRef-coRef
+chambres B-objet
+est-ce O
+que O
+vous O
+avez O
+de O
+disponibles B-nombre-chambre-disponible
+douze I-nombre-chambre-disponible
+chambres B-chambre-type
+simples I-chambre-type
+ou O
+non O
+pour B-nombre-temps
+les I-nombre-temps
+trois I-nombre-temps
+premiers B-temps-axeTps
+jours B-temps-unite
+de B-temps-mois
+mai I-temps-mois
+
+d'accord B-reponse
+et B-connectProp
+concernant O
+les B-lienRef-coRef
+les I-lienRef-coRef
+tarifs B-objet
+
+soixante B-paiement-montant-entier
+dix I-paiement-montant-entier
+euros B-paiement-monnaie
+
+cent B-paiement-montant-entier
+euros B-paiement-monnaie
+d'accord B-reponse
+oui I-reponse
+donc B-connectProp
+l' B-nom-hotel
+hôtel I-nom-hotel
+de I-nom-hotel
+flore I-nom-hotel
+est O
+plus O
+adapté O
+s O
+à O
+mes B-lienRef-coRef
+critères B-objet
+en O
+fait O
+d'accord B-reponse
+donc O
+euh O
+
+ce O
+serait O
+possible O
+
+ben O
+écoutez O
+je O
+pense O
+que O
+je O
+vais O
+je O
+vais O
+réfléchir O
+euh O
+je O
+vais O
+voir O
+ça O
+avec O
+mon O
+mon O
+compagnon O
+et O
+puis O
+je O
+je O
+re O
+je O
+vous O
+rappelle O
+hein O
+donc O
+vous O
+m' O
+aviez O
+bien O
+dit O
+hôtel B-nom-hotel
+de I-nom-hotel
+flore I-nom-hotel
+c' B-command-dial
+est I-command-dial
+cela I-command-dial
+
+d'accord B-reponse
+bon O
+ben O
+je O
+je O
+rappellerai O
+merci O
+
+au O
+revoir O
+
+oui O
+bonsoir O
+mademoiselle O
+je O
+vous O
+appelle O
+voilà O
+je B-command-tache
+voudrais I-command-tache
+réserver I-command-tache
+une B-nombre-chambre
+chambre I-nombre-chambre
+à B-localisation-ville
+Paris I-localisation-ville
+près B-localisation-distanceRelative
+des I-localisation-distanceRelative
+grands B-localisation-lieuRelatif
+magasins I-localisation-lieuRelatif
+du B-temps-date
+vingt I-temps-date
+quatre I-temps-date
+février I-temps-date
+au B-temps-date
+quatre I-temps-date
+mars I-temps-date
+ce O
+serait O
+une B-nombre-chambre
+chambre I-nombre-chambre
+en O
+fait O
+pour B-sejour-nbCouple
+un I-sejour-nbCouple
+couple I-sejour-nbCouple
+avec B-sejour-nbEnfant
+un I-sejour-nbEnfant
+enfant I-sejour-nbEnfant
+et B-connectProp
+ce O
+qui O
+est O
+important O
+ce O
+que O
+la O
+il O
+puisse O
+y O
+avoir O
+un B-hotel-services
+accès I-hotel-services
+handicapés I-hotel-services
+et B-connectProp
+d' O
+autre O
+part O
+que O
+la B-lienRef-coRef
+chambre B-objet
+puisse O
+être O
+euh O
+à B-comparatif-paiement
+moins I-comparatif-paiement
+de I-comparatif-paiement
+cent B-paiement-montant-entier
+euros B-paiement-monnaie
+la O
+nuit O
+
+tout B-reponse
+à I-reponse
+fait I-reponse
+
+exact B-reponse
+
+oui B-reponse
+
+d'accord B-reponse
+
+oui B-reponse
+
+d'accord B-reponse
+Haussmann B-nom
+Haussmann I-nom
+ça O
+me O
+parait O
+bien O
+ça O
+comme O
+euh O
+c' O
+est O
+oui B-reponse
+et O
+ben O
+c' O
+est O
+une B-nombre-chambre
+chambre I-nombre-chambre
+donc O
+où O
+il O
+y O
+a O
+il O
+y O
+a O
+un B-hotel-services
+accès I-hotel-services
+handicapés I-hotel-services
+
+d'accord B-reponse
+très O
+bien O
+et B-connectProp
+donc O
+vous O
+avez O
+une B-nombre-chambre-disponible
+chambre I-nombre-chambre-disponible
+pour B-sejour-nbCouple
+un I-sejour-nbCouple
+couple I-sejour-nbCouple
+avec B-sejour-nbEnfant
+un I-sejour-nbEnfant
+enfant I-sejour-nbEnfant
+
+oui B-reponse
+
+cinquante B-paiement-montant-entier
+euros B-paiement-monnaie
+d'accord B-reponse
+ben O
+écoutez O
+c' O
+est O
+parfait O
+hein O
+bon O
+ben O
+dans O
+ce O
+cas O
+je O
+vais O
+voir O
+et O
+puis O
+je O
+vous O
+rappelle O
+ultérieurement O
+merci O
+mademoiselle O
+
+au O
+revoir O
+
+oui O
+bonjour O
+je B-command-tache
+voudrais I-command-tache
+avoir I-command-tache
+euh I-command-tache
+de I-command-tache
+réserver I-command-tache
+pour B-nombre-temps
+les I-nombre-temps
+trois I-nombre-temps
+derniers B-temps-axeTps
+jours B-temps-unite
+du B-temps-mois
+mois I-temps-mois
+de I-temps-mois
+mai I-temps-mois
+à B-localisation-ville
+Paris I-localisation-ville
+près B-localisation-distanceRelative
+de I-localisation-distanceRelative
+la B-localisation-rue
+place I-localisation-rue
+de I-localisation-rue
+la I-localisation-rue
+nation I-localisation-rue
+je B-command-tache
+voudrais I-command-tache
+réserver I-command-tache
+pour B-nombre-chambre
+trois I-nombre-chambre
+chambres B-chambre-type
+individuelles I-chambre-type
+pour I-chambre-type
+une I-chambre-type
+personne I-chambre-type
+et B-connectProp
+euh O
+si O
+possible O
+et O
+même O
+c' O
+est O
+c' O
+est O
+plutôt O
+impératif O
+avec B-hotel-services
+accès I-hotel-services
+pour I-hotel-services
+handicapés I-hotel-services
+à O
+l' B-lienRef-coRef
+hôtel B-objetBD
+
+voilà O
+c' O
+est O
+
+ça O
+
+voilà O
+
+et O
+avec O
+
+merci O
+
+oui B-reponse
+
+oui B-reponse
+
+et O
+quels O
+sont O
+les B-lienRef-coRef
+prix B-objet
+
+et O
+bien O
+
+et O
+bien O
+c' O
+est O
+une B-nombre-chambre
+chambre I-nombre-chambre
+chaque B-objet
+chambre I-objet
+pour B-sejour-nbPersonne
+une I-sejour-nbPersonne
+personne I-sejour-nbPersonne
+chambre B-chambre-type
+individuelle I-chambre-type
+pour I-chambre-type
+une I-chambre-type
+personne I-chambre-type
+donc B-connectProp
+trois B-nombre-chambre
+chambres I-nombre-chambre
+et B-connectProp
+euh O
+pouvez-vous O
+me O
+donner O
+le B-lienRef-coRef
+le I-lienRef-coRef
+prix B-objet
+pour O
+la O
+nuit O
+s' O
+il O
+vous O
+plaît O
+
+oui B-reponse
+
+oui B-reponse
+
+cent B-paiement-montant-entier
+euros B-paiement-monnaie
+alors O
+écoutez O
+elle O
+dans O
+lequel O
+de B-lienRef-coRef
+ces I-lienRef-coRef
+hôtels B-objetBD
+donne O
+accés B-hotel-services
+a I-hotel-services
+accès I-hotel-services
+avec I-hotel-services
+pour I-hotel-services
+handicapés I-hotel-services
+
+oui B-reponse
+
+ah O
+bon O
+accès B-hotel-services
+handicapés I-hotel-services
+handicapés I-hotel-services
+bon O
+alors O
+dans O
+ces O
+conditions O
+là O
+je B-command-tache
+vais I-command-tache
+prendre I-command-tache
+euh O
+le B-nom-hotel
+l' I-nom-hotel
+hôtel I-nom-hotel
+de I-nom-hotel
+la I-nom-hotel
+nation I-nom-hotel
+et B-connectProp
+pouvez-vous O
+me O
+dire O
+euh O
+le B-lienRef-coRef
+prix B-objet
+s' O
+il O
+vous O
+plaît O
+cinquante B-paiement-montant-entier
+euros B-paiement-monnaie
+vous O
+m' O
+avez O
+dit O
+je O
+crois O
+
+oui B-reponse
+d'accord I-reponse
+alors O
+c' O
+est O
+parfait O
+donc B-connectProp
+je B-command-tache
+peux I-command-tache
+vous I-command-tache
+retenir I-command-tache
+euh O
+trois B-nombre-chambre
+chambres I-nombre-chambre
+pour B-nombre-temps
+les I-nombre-temps
+trois I-nombre-temps
+derniers B-temps-axeTps
+les B-nombre-temps
+trois I-nombre-temps
+derniers B-temps-axeTps
+jours B-temps-unite
+du B-temps-mois
+mois I-temps-mois
+de I-temps-mois
+mai I-temps-mois
+à B-nom-hotel
+dans I-nom-hotel
+cet I-nom-hotel
+hôtel I-nom-hotel
+à I-nom-hotel
+l' I-nom-hotel
+hôtel I-nom-hotel
+de I-nom-hotel
+la I-nom-hotel
+nation I-nom-hotel
+
+pour O
+
+pour O
+cinquante B-paiement-montant-entier
+euros B-paiement-monnaie
+
+d'accord B-reponse
+merci O
+
+ah O
+bon O
+eh O
+et O
+l' B-nom-hotel
+hôtel I-nom-hotel
+des I-nom-hotel
+lilas I-nom-hotel
+a-t-il O
+accès B-hotel-services
+avec I-hotel-services
+handicapés I-hotel-services
+pour I-hotel-services
+handicapés I-hotel-services
+
+il O
+n' O
+a O
+pas B-hotel-services
+d' I-hotel-services
+accès I-hotel-services
+handicapés I-hotel-services
+ah O
+voilà O
+bon O
+alors O
+écoutez O
+je B-command-tache
+vais I-command-tache
+prendre I-command-tache
+trois B-nombre
+euh O
+l' B-nom-hotel
+hôtel I-nom-hotel
+du I-nom-hotel
+mont I-nom-hotel
+hôtel I-nom-hotel
+du I-nom-hotel
+mont I-nom-hotel
+
+parce O
+que O
+
+d'accord B-reponse
+
+oui B-reponse
+s' O
+il O
+vous O
+plaît O
+oui O
+
+voilà O
+oui B-reponse
+
+zéro B-nombre
+quarante I-nombre
+cinq I-nombre
+cent I-nombre
+quinze I-nombre
+
+donc O
+c' O
+est O
+
+euh O
+neuf B-paiement-montant-entier
+cents I-paiement-montant-entier
+euros B-paiement-monnaie
+mais B-connectProp
+vous O
+m' O
+avez O
+dit O
+cent B-paiement-montant-entier
+euros B-paiement-monnaie
+par O
+personne O
+
+trois B-nombre
+
+trois B-nombre-temps
+jours B-temps-unite
+
+trois B-nombre
+
+chambres B-objet
+
+oui B-reponse
+donc B-connectProp
+ça O
+fait O
+ça O
+devrait O
+faire O
+trois B-nombre-chambre
+euh I-nombre-chambre
+trois I-nombre-chambre
+chambres I-nombre-chambre
+ah B-reponse
+oui I-reponse
+pour B-sejour-nbNuit
+trois I-sejour-nbNuit
+jours I-sejour-nbNuit
+vous O
+avez O
+raison O
+ça O
+fait O
+trois B-paiement-montant-entier
+cents I-paiement-montant-entier
+ça O
+fait O
+trois B-nombre
+fois B-unknown
+trois B-nombre
+neuf B-nombre
+neuf B-paiement-montant-entier
+cents I-paiement-montant-entier
+euros B-paiement-monnaie
+d'accord B-reponse
+euh O
+le B-hotel-services
+déjeuner I-hotel-services
+le I-hotel-services
+petit I-hotel-services
+déjeuner I-hotel-services
+est-il I-hotel-services
+compris I-hotel-services
+
+ah O
+bon O
+bon O
+bon O
+écoutez O
+merci O
+beaucoup O
+
+ah O
+donc O
+je B-command-tache
+retiens I-command-tache
+
+je B-command-tache
+je I-command-tache
+retiens I-command-tache
+pour B-nombre-chambre
+les I-nombre-chambre
+trois I-nombre-chambre
+chambres I-nombre-chambre
+pour B-nombre-temps
+les I-nombre-temps
+trois I-nombre-temps
+derniers B-temps-axeTps
+jours B-temps-unite
+de B-temps-mois
+mai I-temps-mois
+de I-temps-mois
+mai I-temps-mois
+
+d'accord B-reponse
+
+d'accord B-reponse
+merci O
+beaucoup O
+
+merci O
+
+au O
+revoir O
+
+euh O
+bonjour O
+je B-command-tache
+voudrais I-command-tache
+réserver I-command-tache
+des B-objet
+chambres I-objet
+d' I-objet
+hôtel I-objet
+
+je B-command-tache
+souhaite I-command-tache
+réserver I-command-tache
+à B-localisation-ville
+Bayonne I-localisation-ville
+pour B-evenement
+la I-evenement
+compétition I-evenement
+de I-evenement
+surf I-evenement
+
+euh O
+pour O
+ça O
+tombe O
+pour O
+la B-rang-temps
+troisième I-rang-temps
+semaine B-temps-unite
+de B-temps-mois
+février I-temps-mois
+
+je B-command-tache
+voudrais I-command-tache
+des I-command-tache
+informations I-command-tache
+supplémentaires I-command-tache
+s' O
+il O
+vous O
+
+plaît O
+
+alors O
+hum O
+je O
+voudrais O
+connaître O
+le B-lienRef-coRef
+prix B-objet
+de O
+de O
+ces B-lienRef-coRef
+des I-lienRef-coRef
+chambres B-objet
+
+euh O
+je B-command-tache
+voudrais I-command-tache
+réserver I-command-tache
+deux B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+
+euh O
+et O
+bien O
+l' B-nom-hotel
+hôtel I-nom-hotel
+Elisabeth I-nom-hotel
+euh O
+je O
+compte O
+y O
+mettre O
+cinquante B-paiement-montant-entier
+euros B-paiement-monnaie
+par O
+chambre O
+plus B-comparatif-paiement
+ou I-comparatif-paiement
+moins I-comparatif-paiement
+donc B-connectProp
+hum O
+l' B-nom-hotel
+hôtel I-nom-hotel
+Elisabeth I-nom-hotel
+me O
+conviendrait O
+
+bon B-command-tache
+ben I-command-tache
+on I-command-tache
+va I-command-tache
+réserver I-command-tache
+dans O
+dans O
+un B-nombre-hotel
+autre B-lienRef-coDom
+hôtel B-objetBD
+dans O
+ce O
+cas O
+euh O
+qu' B-command-tache
+est-ce I-command-tache
+que I-command-tache
+vous I-command-tache
+avez I-command-tache
+d' I-command-tache
+autre I-command-tache
+à I-command-tache
+me I-command-tache
+proposer I-command-tache
+
+à O
+quatre B-paiement-montant-entier
+vingts I-paiement-montant-entier
+euros B-paiement-monnaie
+la O
+chambre O
+c' B-command-dial
+est I-command-dial
+ça I-command-dial
+
+la O
+nuit O
+hum O
+en O
+fait O
+il O
+me O
+faut O
+un B-objetBD
+hôtel I-objetBD
+qui O
+accepte O
+les B-hotel-services
+chats I-hotel-services
+également O
+est-ce O
+que O
+cet B-lienRef-coRef
+hôtel B-objetBD
+accepterait O
+les B-hotel-services
+chats I-hotel-services
+
+bon O
+alors O
+dans O
+ce O
+cas O
+hum O
+quels O
+sont O
+quels O
+sont O
+les B-lienRef-coRef
+prix B-objet
+
+donc O
+ben O
+ce O
+sera O
+très O
+bien O
+alors B-command-tache
+on I-command-tache
+va I-command-tache
+on I-command-tache
+va I-command-tache
+prendre I-command-tache
+deux B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+à B-nom-hotel
+l' I-nom-hotel
+hôtel I-nom-hotel
+de I-nom-hotel
+la I-nom-hotel
+tour I-nom-hotel
+blanche I-nom-hotel
+
+c' O
+est O
+un B-objetBD
+hôtel I-objetBD
+
+hum O
+est-ce O
+un B-objetBD
+hôtel I-objetBD
+près B-localisation-distanceRelative
+de I-localisation-distanceRelative
+la B-localisation-lieuRelatif
+mer I-localisation-lieuRelatif
+
+bon O
+alors O
+c' O
+est O
+très O
+bien O
+on B-command-tache
+va I-command-tache
+réserver I-command-tache
+les B-lienRef-coRef
+deux B-nombre-chambre
+chambres B-chambre-type
+simples I-chambre-type
+à B-nom-hotel
+l' I-nom-hotel
+hôtel I-nom-hotel
+Elisabeth I-nom-hotel
+euh I-nom-hotel
+de I-nom-hotel
+la I-nom-hotel
+tour I-nom-hotel
+blanche I-nom-hotel
+alors O
+
+non B-reponse
+c' O
+est O
+très O
+bien O
+je O
+vous O
+remercie O
+
+au O
+revoir O
+
+je B-command-tache
+désire I-command-tache
+désire I-command-tache
+réserver I-command-tache
+euh O
+euh O
+hum O
+hum O
+une B-nombre-chambre
+chambre B-chambre-type
+double I-chambre-type
+euh O
+à B-localisation-ville
+Béziers I-localisation-ville
+du B-temps-date
+vingt I-temps-date
+et I-temps-date
+un I-temps-date
+au B-temps-date
+vingt I-temps-date
+trois I-temps-date
+avril I-temps-date
+ainsi B-connectProp
+qu' I-connectProp
+à B-localisation-ville
+Tulle I-localisation-ville
+du B-temps-date
+vingt I-temps-date
+trois I-temps-date
+au B-temps-date
+vingt I-temps-date
+six I-temps-date
+avril I-temps-date
+et B-connectProp
+Angers B-localisation-ville
+du B-temps-date
+vingt I-temps-date
+et I-temps-date
+un I-temps-date
+au B-temps-date
+vingt I-temps-date
+huit I-temps-date
+avril I-temps-date
+
+je O
+voudrais O
+avoir O
+
+des B-command-tache
+informations I-command-tache
+supplémentaires I-command-tache
+
+euh O
+hum O
+je O
+voudrais O
+avoir O
+le B-lienRef-coRef
+prix B-objet
+de O
+ce B-lienRef-coRef
+cet I-lienRef-coRef
+hôtel B-objetBD
+pour O
+une B-nombre-chambre
+chambre B-chambre-type
+double I-chambre-type
+
+voilà O
+c' O
+est O
+parfait O
+nous B-command-tache
+voulons I-command-tache
+réserver I-command-tache
+à B-nom-hotel
+l' I-nom-hotel
+hôtel I-nom-hotel
+des I-nom-hotel
+agapes I-nom-hotel
+est-ce O
+que O
+cet B-objetBD
+hôtel I-objetBD
+accepte O
+euh O
+les B-hotel-services
+chiens I-hotel-services
+
+donc O
+c' O
+est O
+parfait O
+nous B-command-tache
+pouvons I-command-tache
+réserver I-command-tache
+
+oui B-reponse
+
+je B-command-tache
+voudrais I-command-tache
+également I-command-tache
+réserver I-command-tache
+à B-localisation-ville
+Tulle I-localisation-ville
+euh O
+une B-nombre-chambre
+chambre B-chambre-type
+double I-chambre-type
+
+du B-temps-date
+vingt I-temps-date
+trois I-temps-date
+au B-temps-date
+vingt I-temps-date
+six I-temps-date
+avril I-temps-date
+
+hum O
+je B-command-tache
+voudrais I-command-tache
+avoir I-command-tache
+d' I-command-tache
+autres I-command-tache
+informations I-command-tache
+j' O
+aurais O
+voulu O
+savoir O
+si O
+l' B-lienRef-coRef
+hôtel B-objetBD
+accepte O
+les B-hotel-services
+chiens I-hotel-services
+
+donc O
+nous B-command-tache
+pouvons I-command-tache
+réserver I-command-tache
+
+l' O
+offre O
+est O
+très O
+bien O
+
+euh O
+je B-command-tache
+voudrais I-command-tache
+réserver I-command-tache
+également I-command-tache
+à B-localisation-ville
+Angers I-localisation-ville
+euh O
+pour O
+du B-temps-date
+vingt I-temps-date
+six I-temps-date
+au B-temps-date
+vingt I-temps-date
+huit I-temps-date
+avril I-temps-date
+
+hum O
+est-ce O
+que O
+les B-hotel-services
+chiens I-hotel-services
+sont O
+acceptés O
+dans O
+cet B-lienRef-coRef
+hôtel B-objetBD
+
+donc O
+nous B-command-tache
+pouvons I-command-tache
+réserver I-command-tache
+
+non B-reponse
+merci O
+c' O
+est O
+parfait O
+
+bonjour O
+je B-command-tache
+désire I-command-tache
+réserver I-command-tache
+une B-nombre-chambre
+chambre I-nombre-chambre
+d' I-nombre-chambre
+hôtel I-nombre-chambre
+du B-temps-date
+dix I-temps-date
+neuf I-temps-date
+au B-temps-date
+vingt I-temps-date
+deux I-temps-date
+octobre I-temps-date
+pour B-localisation-ville
+Rochefort I-localisation-ville
+
+alors B-command-tache
+je I-command-tache
+souhaite I-command-tache
+réserver I-command-tache
+euh O
+une B-nombre-chambre
+une I-nombre-chambre
+une I-nombre-chambre
+chambre B-chambre-type
+double I-chambre-type
+une B-nombre-chambre
+chambre B-chambre-type
+double I-chambre-type
+maxi B-comparatif
+deux B-hotel-etoile
+étoiles I-hotel-etoile
+avec B-hotel-services
+animaux I-hotel-services
+et B-connectProp
+je B-command-tache
+souhaite I-command-tache
+réserver I-command-tache
+une B-nombre-chambre
+autre B-lienRef-coDom
+chambre B-objet
+du B-temps-date
+vingt I-temps-date
+deux I-temps-date
+au B-temps-date
+vingt I-temps-date
+sept I-temps-date
+octobre I-temps-date
+pour B-localisation-ville
+Périgueux I-localisation-ville
+
+oui B-reponse
+
+euh O
+oui B-reponse
+ça O
+sera O
+parfait O
+
+cet B-lienRef-coRef
+hôtel B-objetBD
+
+d'accord B-reponse
+
+d'accord B-reponse
+j' O
+accepte O
+
+merci O
+
+il O
+y O
+a O
+des B-hotel-services
+animaux I-hotel-services
+
+donc O
+je B-command-tache
+vais I-command-tache
+prendre I-command-tache
+cette B-lienRef-coRef
+chambre B-objet
+oui B-reponse
+
+euh O
+quatre B-nombre
+cent I-nombre
+vingt I-nombre
+cinq I-nombre
+c' O
+est O
+pour O
+combien B-objet
+de I-objet
+jours I-objet
+
+c'est O
+pour O
+les O
+les O
+
+euh O
+moi O
+je O
+vous O
+ai O
+demandé O
+du B-temps-jour-mois
+vingt I-temps-jour-mois
+deux I-temps-jour-mois
+au B-temps-jour-mois
+vingt I-temps-jour-mois
+sept I-temps-jour-mois
+ah O
+oui B-reponse
+tout I-reponse
+à I-reponse
+fait I-reponse
+c' O
+est O
+ça O
+c' O
+est O
+tout O
+c' O
+est O
+ça O
+c' O
+est O
+tout O
+à O
+fait O
+c' O
+est O
+parfait O
+je B-command-dial
+ré I-command-dial
+je I-command-dial
+je I-command-dial
+maintiens I-command-dial
+excusez-moi O
+
+non B-reponse
+ça O
+ça O
+ira O
+je O
+vous O
+remercie O
+au O
+revoir O
+
+au O
+revoir O
+
+bonjour O
+alors B-command-tache
+j' I-command-tache
+aimerais I-command-tache
+avoir I-command-tache
+une I-command-tache
+réservation I-command-tache
+à B-localisation-ville
+Arles I-localisation-ville
+b B-temps-date
+du I-temps-date
+six I-temps-date
+au B-temps-date
+quatorze I-temps-date
+juillet I-temps-date
+s' O
+il O
+vous O
+plaît O
+alors O
+trois B-nombre-chambre
+chambres B-chambre-type
+pour I-chambre-type
+une I-chambre-type
+personne I-chambre-type
+
+oui B-reponse
+du B-temps-date
+six I-temps-date
+au B-temps-date
+quatorze I-temps-date
+juillet I-temps-date
+et B-connectProp
+je O
+voudrais O
+euh O
+euh O
+donc O
+une B-nombre-chambre
+trois I-nombre-chambre
+chambres B-chambre-type
+pour I-chambre-type
+une I-chambre-type
+personne I-chambre-type
+
+d'accord B-reponse
+
+euh O
+j' O
+aimerais O
+savoir O
+euh O
+alors O
+euh O
+le B-nom-hotel
+Van I-nom-hotel
+Gogh I-nom-hotel
+euh O
+me O
+conviendrait O
+à O
+cinquante B-paiement-montant-entier
+euros B-paiement-monnaie
+mais B-connectProp
+euh O
+est-il O
+situé O
+au B-localisation-lieuRelatif
+centre I-localisation-lieuRelatif
+ville I-localisation-lieuRelatif
+
+ah O
+bon O
+parce O
+que O
+j' O
+aurais O
+aimé O
+si O
+possible O
+avoir O
+euh O
+un B-objetBD
+un I-objetBD
+hôtel I-objetBD
+au B-localisation-lieuRelatif
+centre I-localisation-lieuRelatif
+ville I-localisation-lieuRelatif
+et B-connectProp
+l' B-lienRef-coDom
+autre I-lienRef-coDom
+hôtel B-objetBD
+pont B-nom
+comment B-objet
+vous I-objet
+l' I-objet
+appelez I-objet
+
+l' B-lienRef-coRef
+hôtel B-objetBD
+
+alors O
+et O
+celui-ci B-lienRef-elsEns
+fait O
+quel O
+prix B-objet
+
+quatre B-paiement-montant-entier
+vingts I-paiement-montant-entier
+euros B-paiement-monnaie
+et B-connectProp
+petit B-hotel-services
+déjeuner I-hotel-services
+compris I-hotel-services
+
+petit B-hotel-services
+déjeuner I-hotel-services
+est I-hotel-services
+inclus I-hotel-services
+bon B-command-tache
+bien I-command-tache
+je I-command-tache
+vais I-command-tache
+prendre I-command-tache
+celui-ci B-lienRef-elsEns
+alors O
+
+à O
+l O
+
+oui B-reponse
+
+oui B-reponse
+
+il O
+en O
+il O
+en O
+reste O
+deux B-nombre-chambre-disponible
+ou B-connectAttr
+trois B-nombre-chambre-disponible
+parce B-connectProp
+que I-connectProp
+la B-command-tache
+réservation I-command-tache
+c' O
+est O
+pour O
+trois B-nombre-chambre
+chambres B-chambre-type
+pour I-chambre-type
+une I-chambre-type
+personne I-chambre-type
+
+d'accord B-reponse
+
+d'accord O
+alors B-reponse
+
+je O
+suis O
+d'accord B-reponse
+
+d'accord B-reponse
+
+d'accord B-reponse
+
+merci O
+beaucoup O
+
+zéro B-nombre
+quarante I-nombre
+huit I-nombre
+
+zéro B-nombre-reservation
+quarante I-nombre-reservation
+huit I-nombre-reservation
+cent I-nombre-reservation
+cinquante I-nombre-reservation
+cinq I-nombre-reservation
+dossiers O
+non B-reponse
+c' O
+est O
+tout O
+merci O
+beaucoup O
+
+au O
+revoir O
+
+euh O
+oui B-reponse
+j' B-command-tache
+aimerais I-command-tache
+euh I-command-tache
+réserver I-command-tache
+euh O
+trois B-sejour-nbNuit
+nuits I-sejour-nbNuit
+à B-localisation-ville
+Marseille I-localisation-ville
+du B-temps-date
+quinze I-temps-date
+au B-temps-date
+dix I-temps-date
+huit I-temps-date
+mars I-temps-date
+s' O
+il O
+vous O
+plaît O
+
+du O
+quinze O
+non B-reponse
+non I-reponse
+non I-reponse
+à B-localisation-ville
+Marseille I-localisation-ville
+
+Marseille B-localisation-ville
+pas B-localisation-ville
+Versailles I-localisation-ville
+Marseille B-localisation-ville
+Marseille I-localisation-ville
+
+oui B-reponse
+pour O
+
+trois B-nombre
+
+euh O
+une B-nombre-chambre
+chambre I-nombre-chambre
+avec B-chambre-equipement
+douche I-chambre-equipement
+chambre B-objet
+avec B-chambre-equipement
+douche I-chambre-equipement
+
+pour B-sejour-nbCouple
+pour I-sejour-nbCouple
+un I-sejour-nbCouple
+couple I-sejour-nbCouple
+pour I-sejour-nbCouple
+euh I-sejour-nbCouple
+pour I-sejour-nbCouple
+couple I-sejour-nbCouple
+
+oui B-reponse
+
+oui B-reponse
+merci O
+
+euh O
+ben O
+euh O
+le O
+euh O
+comment O
+je O
+vais O
+dire O
+l' B-nom-hotel
+hôtel I-nom-hotel
+Mystic I-nom-hotel
+est-il O
+en B-localisation-lieuRelatif
+au I-localisation-lieuRelatif
+centre I-localisation-lieuRelatif
+
+oui B-reponse
+c' O
+est O
+parfait O
+alors O
+hôtel B-nom-hotel
+Mystic I-nom-hotel
+et B-connectProp
+il O
+fait O
+quel O
+prix B-objet
+
+oui B-reponse
+avec B-hotel-services
+petit I-hotel-services
+déjeuner I-hotel-services
+ou O
+sans O
+déjeuner O
+
+ah B-reponse
+bon I-reponse
+d'accord I-reponse
+non O
+inclus O
+bon O
+et O
+bien O
+écoutez O
+je B-command-tache
+vous I-command-tache
+retiens I-command-tache
+ce B-objetBD
+cet I-objetBD
+hôtel I-objetBD
+alors O
+donc O
+l' B-nom-hotel
+hôtel I-nom-hotel
+Mystic I-nom-hotel
+du B-temps-date
+quinze I-temps-date
+au B-temps-date
+dix I-temps-date
+huit I-temps-date
+mars I-temps-date
+pour B-sejour-nbNuit
+trois I-sejour-nbNuit
+nuits I-sejour-nbNuit
+à B-localisation-ville
+Marseille I-localisation-ville
+
+oui B-reponse
+merci O
+
+alors O
+je B-command-tache
+réserve I-command-tache
+dans O
+un B-nombre-hotel
+autre B-lienRef-coDom
+hôtel B-objetBD
+alors O
+
+oui B-reponse
+
+oui B-reponse
+alors O
+cinquante B-paiement-montant-entier
+euros B-paiement-monnaie
+et O
+euh O
+petit B-hotel-services
+déjeuner I-hotel-services
+s I-hotel-services
+ave I-hotel-services
+en I-hotel-services
+inclus I-hotel-services
+non O
+
+le O
+petit O
+
+non O
+inclus O
+bon O
+et O
+bien O
+écoutez O
+oui B-reponse
+je B-command-tache
+vais I-command-tache
+prendre I-command-tache
+ce B-nom-hotel
+ce I-nom-hotel
+cet I-nom-hotel
+hôtel I-nom-hotel
+Callelongue I-nom-hotel
+
+oui B-reponse
+merci O
+
+d'accord B-reponse
+
+zéro B-nombre
+trente I-nombre
+sept I-nombre
+cent I-nombre
+cinquante I-nombre
+cinq I-nombre
+
+merci O
+beaucoup O
+
+oui B-reponse
+j' B-command-tache
+aimerais I-command-tache
+avoir I-command-tache
+aussi I-command-tache
+réserver I-command-tache
+euh O
+du B-temps-date
+quinze I-temps-date
+du I-temps-date
+dix I-temps-date
+huit I-temps-date
+au B-temps-date
+vingt I-temps-date
+mars I-temps-date
+deux B-sejour-nbNuit
+nuits I-sejour-nbNuit
+à B-localisation-ville
+Roanne I-localisation-ville
+pour B-sejour-nbCouple
+deux I-sejour-nbCouple
+couples I-sejour-nbCouple
+dont B-sejour-nbEnfant
+un I-sejour-nbEnfant
+couple I-sejour-nbEnfant
+avec I-sejour-nbEnfant
+un I-sejour-nbEnfant
+enfant I-sejour-nbEnfant
+
+voilà O
+
+de B-temps-jour-mois
+dix I-temps-jour-mois
+huit I-temps-jour-mois
+au B-temps-jour-mois
+vingt I-temps-jour-mois
+
+po O
+euh O
+
+oui B-reponse
+
+deux B-sejour-nbNuit
+nuits I-sejour-nbNuit
+
+oui B-reponse
+
+alors O
+écoutez O
+
+alors O
+à O
+condition O
+j' O
+aimerais O
+euh O
+d O
+il O
+y O
+a O
+euh O
+d O
+un B-sejour-nbCouple
+couple I-sejour-nbCouple
+est O
+avec B-sejour-nbEnfant
+un I-sejour-nbEnfant
+enfant I-sejour-nbEnfant
+et B-connectProp
+euh O
+le O
+l O
+ce O
+couple O
+aimerait O
+qu' O
+il O
+y O
+ait O
+une B-hotel-services
+salle I-hotel-services
+de I-hotel-services
+jeux I-hotel-services
+pour B-sejour-nbEnfant
+l' I-sejour-nbEnfant
+enfant I-sejour-nbEnfant
+et B-connectProp
+que O
+l' B-lienRef-coRef
+hôtel B-objetBD
+soit O
+situé O
+près B-localisation-distanceRelative
+d' I-localisation-distanceRelative
+un B-localisation-lieuRelatif
+parc I-localisation-lieuRelatif
+est-ce O
+possible O
+
+merci O
+
+oui B-reponse
+
+oui B-reponse
+quel O
+prix B-objet
+fait- O
+il B-lienRef-coRef
+
+oui B-reponse
+oui I-reponse
+alors O
+je O
+suis O
+d'accord B-reponse
+pour B-command-tache
+réserver I-command-tache
+à B-nom-hotel
+l' I-nom-hotel
+hôtel I-nom-hotel
+du I-nom-hotel
+parc I-nom-hotel
+et B-connectProp
+il O
+est O
+situé O
+euh O
+près B-localisation-distanceRelative
+d' I-localisation-distanceRelative
+un B-localisation-lieuRelatif
+parc I-localisation-lieuRelatif
+également I-localisation-lieuRelatif
+un I-localisation-lieuRelatif
+parc I-localisation-lieuRelatif
+ou I-localisation-lieuRelatif
+un I-localisation-lieuRelatif
+square I-localisation-lieuRelatif
+peut-être O
+
+ah O
+ben O
+c' O
+est O
+parfait O
+
+voilà O
+c' O
+est O
+ça O
+c' O
+est O
+à B-localisation-ville
+Roanne I-localisation-ville
+bon B-reponse
+m I-reponse
+d'accord I-reponse
+d'accord I-reponse
+pour O
+cet B-lienRef-coRef
+hôtel B-objetBD
+et O
+alors O
+euh O
+donc B-connectProp
+et O
+vous B-command-tache
+retenez I-command-tache
+une B-nombre-chambre
+chambre I-nombre-chambre
+donc O
+avec O
+un B-sejour-nbCouple
+couple I-sejour-nbCouple
+pour B-sejour-nbEnfant
+enfant I-sejour-nbEnfant
+et B-connectProp
+une B-nombre-chambre
+autre B-lienRef-coDom
+chambre B-objet
+euh O
+avec O
+un B-sejour-nbCouple
+couple I-sejour-nbCouple
+sans B-sejour-nbEnfant
+enfant I-sejour-nbEnfant
+dans B-objetBD
+le I-objetBD
+même I-objetBD
+hôtel I-objetBD
+
+d'accord B-reponse
+
+d'accord B-reponse
+
+zéro B-nombre
+trente I-nombre
+sept I-nombre
+
+non B-reponse
+merci O
+beaucoup O
+
+ça O
+va O
+merci O
+
+merci O
+au O
+revoir O
+
+deux B-nombre
+cent I-nombre
+quarante I-nombre
+huit I-nombre
+
+une B-command-tache
+réservation I-command-tache
+d' B-objetBD
+hôtel I-objetBD
+
+Auxerre B-localisation-ville
+le B-temps-axeTps
+dernier I-temps-axeTps
+week-end B-temps-unite
+de B-temps-mois
+septembre I-temps-mois
+
+des B-chambre-type
+chambres I-chambre-type
+doubles I-chambre-type
+
+trois B-nombre
+
+oui B-reponse
+
+oui B-reponse
+
+Beauséjour B-nom
+
+oui B-reponse
+
+oui B-reponse
+
+si O
+l' B-nom-hotel
+hôtel I-nom-hotel
+Beauséjour I-nom-hotel
+est O
+près B-localisation-distanceRelative
+du I-localisation-distanceRelative
+stade B-localisation-lieuRelatif
+du I-localisation-lieuRelatif
+football I-localisation-lieuRelatif
+
+oui B-reponse
+précisez O
+qu' O
+il O
+s' O
+agit O
+bien O
+du O
+dernier B-temps-axeTps
+week-end B-temps-unite
+de B-temps-mois
+septembre I-temps-mois
+
+non B-reponse
+merci O
+
+au O
+revoir O
+
+je B-command-tache
+souhaite I-command-tache
+réserver I-command-tache
+euh O
+une B-nombre-chambre
+chambre I-nombre-chambre
+à B-localisation-ville
+Paris I-localisation-ville
+le B-temps-axeTps
+premier I-temps-axeTps
+j I-temps-axeTps
+le I-temps-axeTps
+premier I-temps-axeTps
+jeudi B-temps-jour-semaine
+de B-temps-mois
+décembre I-temps-mois
+près B-localisation-distanceRelative
+de I-localisation-distanceRelative
+l' B-localisation-lieuRelatif
+hôtel I-localisation-lieuRelatif
+de I-localisation-lieuRelatif
+ville I-localisation-lieuRelatif
+trois B-nombre-chambre
+chambres B-chambre-type
+individuelles I-chambre-type
+de B-chambre-standing
+bon I-chambre-standing
+standing I-chambre-standing
+maximum B-comparatif-paiement
+deux B-paiement-montant-entier
+cents I-paiement-montant-entier
+euros B-paiement-monnaie
+près B-localisation-distanceRelative
+du I-localisation-distanceRelative
+cinéma B-localisation-lieuRelatif
+UGC I-localisation-lieuRelatif
+vers B-localisation-distanceRelative
+les B-localisation-quartier
+halles I-localisation-quartier
+
+oui B-reponse
+
+oui B-reponse
+
+hôtel B-nom-hotel
+Amadeus I-nom-hotel
+
+réserver B-command-tache
+dans O
+un B-nombre-hotel
+autre B-lienRef-coDom
+hôtel B-objetBD
+
+oui B-reponse
+
+non B-reponse
+
+non B-reponse
+
+oui B-reponse
+
+changer B-command-dial
+de B-lienRef-coRef
+jour B-temps-unite
+
+oui B-reponse
+
+le B-rang-temps
+deuxième I-rang-temps
+jeudi B-temps-jour-semaine
+de B-rang-temps
+des I-rang-temps
+deuxième I-rang-temps
+jour B-temps-unite
+de B-temps-mois
+décembre I-temps-mois
+
+oui B-reponse
+
+oui B-reponse
+
+un B-localisation-lieuRelatif
+cinéma I-localisation-lieuRelatif
+UGC I-localisation-lieuRelatif
+
+oui B-reponse
+
+non B-reponse
+merci O
+
+au O
+revoir O
+merci O
+
+alors B-command-tache
+je I-command-tache
+voudrais I-command-tache
+réserver I-command-tache
+du B-temps-date
+vingt I-temps-date
+sept I-temps-date
+au B-temps-date
+trente I-temps-date
+et I-temps-date
+un I-temps-date
+janvier I-temps-date
+à B-localisation-ville
+Alès I-localisation-ville
+et B-connectProp
+du B-temps-date
+trente I-temps-date
+et I-temps-date
+un I-temps-date
+au B-temps-date
+deux I-temps-date
+février I-temps-date
+à B-localisation-ville
+Carcassonne I-localisation-ville
+deux B-nombre-chambre
+chambres B-chambre-type
+doubles I-chambre-type
+et B-connectProp
+une B-nombre-chambre
+chambre B-chambre-type
+simple I-chambre-type
+
+Alès B-localisation-ville
+Alès I-localisation-ville
+
+oui B-reponse
+
+oui B-reponse
+
+oui B-reponse
+
+pas B-localisation-ville
+à I-localisation-ville
+Campelonne I-localisation-ville
+à B-localisation-ville
+Carcassonne I-localisation-ville
+
+alors O
+du B-temps-date
+trente I-temps-date
+et I-temps-date
+un I-temps-date
+au B-temps-date
+deux I-temps-date
+février I-temps-date
+à B-localisation-ville
+Carcassonne I-localisation-ville
+deux B-nombre-chambre
+chambres B-chambre-type
+doubles I-chambre-type
+et B-connectProp
+une B-nombre-chambre
+chambre B-chambre-type
+simple I-chambre-type
+environ B-comparatif-paiement
+soixante B-paiement-montant-entier
+quinze I-paiement-montant-entier
+euros B-paiement-monnaie
+près B-localisation-distanceRelative
+d' I-localisation-distanceRelative
+un B-localisation-lieuRelatif
+parc I-localisation-lieuRelatif
+
+oui B-reponse
+
+la B-lienRef-elsEns
+deuxième B-rang
+la B-lienRef-elsEns
+deuxième B-rang
+
+dans O
+un B-nombre-hotel
+autre B-lienRef-coDom
+hôtel B-objetBD
+alors O
+
+oui B-reponse
+c' O
+est O
+bon O
+
+très O
+bien O
+
+non B-reponse
+
+au O
+revoir O
+merci O
+
+euh O
+je B-command-tache
+souhaite I-command-tache
+réserver I-command-tache
+euh O
+un B-objetBD
+hôtel I-objetBD
+pour O
+les O
+pour O
+la O
+période O
+de O
+Noël B-temps-jourFerie
+s' O
+il O
+vous O
+plaît O
+
+voilà O
+donc O
+euh O
+je B-command-dial
+reformule I-command-dial
+donc O
+euh O
+l' O
+intitulé O
+donc O
+je B-command-tache
+souhaite I-command-tache
+euh I-command-tache
+réserver I-command-tache
+à B-localisation-ville
+Istres I-localisation-ville
+les B-localisation-departement
+Bouches-du-Rhône I-localisation-departement
+euh O
+durant B-temps-axeTps
+les B-temps-jourFerie
+vacances I-temps-jourFerie
+de I-temps-jourFerie
+Noël I-temps-jourFerie
+pour B-nombre-temps
+une I-nombre-temps
+semaine B-temps-unite
+quatre B-nombre-chambre
+chambres B-chambre-type
+doubles I-chambre-type
+quatre B-nombre-chambre
+chambres B-chambre-type
+donc I-chambre-type
+pour I-chambre-type
+deux I-chambre-type
+personnes I-chambre-type
+et B-connectProp
+euh O
+je O
+souhaite O
+également O
+euh O
+je O
+souhaiterais O
+qu' O
+il O
+y O
+ait O
+un B-localisation-lieuRelatif
+casino I-localisation-lieuRelatif
+à B-localisation-distanceRelative
+proximité I-localisation-distanceRelative
+
+oui B-reponse
+
+euh O
+oui B-reponse
+j' O
+ai O
+un B-objet
+budget I-objet
+qui O
+me O
+permettrait O
+euh O
+de O
+euh O
+de O
+réserver B-command-tache
+pour O
+le B-rang
+s I-rang
+le I-rang
+la I-rang
+seconde I-rang
+formule B-objet
+à O
+quatre B-paiement-montant-entier
+vingt I-paiement-montant-entier
+dix I-paiement-montant-entier
+euros B-paiement-monnaie
+s' O
+il O
+vous O
+plaît O
+
+hôtel B-nom-hotel
+confort I-nom-hotel
+oui B-reponse
+
+euh O
+hum O
+je O
+fais O
+un O
+calcul O
+rapide O
+donc O
+ça O
+fait O
+quatre B-nombre
+cent I-nombre
+soixante I-nombre
+attendez O
+quatre B-nombre
+fois B-unknown
+neuf B-nombre
+euh O
+trois B-nombre
+je O
+je O
+fais O
+un O
+calcul O
+rapide O
+pour O
+voir O
+s' O
+il O
+n' O
+y O
+a O
+pas O
+eu O
+d' O
+erreur O
+de O
+euh O
+de O
+au O
+niveau O
+du O
+total O
+donc B-connectProp
+quatre B-nombre
+par B-unknown
+quatre B-nombre
+vingt I-nombre
+dix I-nombre
+multiplié B-unknown
+par B-nombre
+sept I-nombre
+attendez O
+je O
+recalcule O
+quatre B-nombre
+multiplié B-unknown
+par B-nombre
+quatre I-nombre
+quatre B-paiement-montant-entier
+vingt I-paiement-montant-entier
+dix I-paiement-montant-entier
+euros B-paiement-monnaie
+multiplié B-unknown
+par I-unknown
+quatre B-nombre-chambre
+chambres I-nombre-chambre
+multiplié B-unknown
+par I-unknown
+sept B-sejour-nbNuit
+jours I-sejour-nbNuit
+oui B-reponse
+absolument I-reponse
+a O
+priori O
+c' O
+est O
+bon O
+il O
+n' O
+y O
+a O
+pas O
+de O
+problème O
+
+vous B-command-dial
+pouvez I-command-dial
+donc I-command-dial
+confirmer I-command-dial
+
+absolument B-reponse
+merci O
+
+merci O
+madame O
+au O
+revoir O
+à O
+bientôt O
+
+voilà O
+bonjour O
+madame O
+tout O
+d'abord O
+je B-command-tache
+souhaite I-command-tache
+réserver I-command-tache
+pour O
+la O
+période O
+du B-temps-date
+douze I-temps-date
+quatorze B-temps-date
+octobre I-temps-date
+à B-temps-axeTps
+venir I-temps-axeTps
+euh O
+à B-localisation-ville
+Paris I-localisation-ville
+ou O
+plutôt O
+euh O
+Paris B-localisation-ville
+nord B-localisation-cardinal
+euh O
+intra B-localisation-lieuRelatif
+extra-muros I-localisation-lieuRelatif
+donc B-connectProp
+au B-localisation-distanceRelative
+niveau I-localisation-distanceRelative
+de I-localisation-distanceRelative
+euh I-localisation-distanceRelative
+porte B-localisation-lieuRelatif
+Clignancourt I-localisation-lieuRelatif
+porte B-localisation-lieuRelatif
+de I-localisation-lieuRelatif
+Saint-Cloud I-localisation-lieuRelatif
+etc O
+pour B-sejour-nbNuit
+deux I-sejour-nbNuit
+nuits I-sejour-nbNuit
+euh O
+il O
+s' O
+agit O
+donc O
+de O
+d' O
+un B-sejour-nbCouple
+couple I-sejour-nbCouple
+avec B-sejour-nbEnfant
+enfant I-sejour-nbEnfant
+et B-connectProp
+je O
+souhaiterais O
+également O
+que O
+le B-hotel-parking
+parking I-hotel-parking
+soit I-hotel-parking
+surveillé I-hotel-parking
+euh O
+je O
+ne O
+voudrais O
+pas B-comparatif-paiement
+dépasser I-comparatif-paiement
+cent B-paiement-montant-entier
+cinquante I-paiement-montant-entier
+euros B-paiement-monnaie
+s' O
+il O
+vous O
+plaît O
+
+oui B-reponse
+
+euh O
+pouvez-vous B-command-dial
+répéter I-command-dial
+ce O
+que O
+vous O
+venez O
+d' O
+énoncer O
+s' O
+il O
+vous O
+plaît O
+
+euh O
+je B-command-tache
+souhaite I-command-tache
+réserver I-command-tache
+pour O
+le B-lienRef-elsEns
+premier B-rang
+euh O
+ça O
+correspond O
+à O
+mon B-objet
+budget I-objet
+que O
+je O
+ne O
+voudrais O
+pas B-comparatif-paiement
+dépasser I-comparatif-paiement
+les B-paiement-montant-entier
+cent I-paiement-montant-entier
+cinquante I-paiement-montant-entier
+euros B-paiement-monnaie
+s' O
+il O
+vous O
+plaît O
+donc B-connectProp
+pourriez-vous B-command-tache
+faire I-command-tache
+la I-command-tache
+réservation I-command-tache
+s' O
+il O
+vous O
+plaît O
+
+oui B-reponse
+
+euh O
+non B-reponse
+comme O
+je O
+suis O
+vraiment O
+intéressé O
+pour O
+la O
+période O
+du B-temps-jour-mois
+douze I-temps-jour-mois
+au B-temps-jour-mois
+quatorze I-temps-jour-mois
+et B-connectProp
+je O
+souhaite O
+par B-connectProp
+conséquent I-connectProp
+euh B-command-tache
+que I-command-tache
+vous I-command-tache
+me I-command-tache
+proposiez I-command-tache
+le I-command-tache
+autre I-command-tache
+chose I-command-tache
+éventuellement O
+s O
+le B-lienRef-elsEns
+second B-rang-hotel
+hôtel B-objetBD
+que O
+vous O
+vouliez O
+me O
+proposer O
+qui O
+était O
+du O
+reste O
+un B-comparatif-paiement
+peu I-comparatif-paiement
+moins I-comparatif-paiement
+cher I-comparatif-paiement
+
+écoutez O
+vous O
+pouvez O
+effectuer O
+la O
+réservation O
+donc O
+pour O
+la B-lienRef-coRef
+période B-objet
+que O
+je O
+vous O
+ai O
+indiquée O
+et B-connectProp
+vous O
+n' O
+omettez O
+pas O
+de O
+euh O
+le O
+donc O
+la O
+caractéristique O
+suivante O
+que O
+le B-hotel-parking
+parking I-hotel-parking
+soit I-hotel-parking
+surveillé I-hotel-parking
+s' O
+il O
+vous O
+plaît O
+merci O
+madame O
+
+euh O
+a O
+priori O
+c' O
+est O
+parfait O
+je O
+vous O
+remercie O
+infiniment O
+donc O
+je O
+vais O
+relever O
+le B-objet
+numéro I-objet
+de I-objet
+dossier I-objet
+le B-nombre-reservation
+zéro I-nombre-reservation
+quarante I-nombre-reservation
+et I-nombre-reservation
+un I-nombre-reservation
+cent I-nombre-reservation
+quarante I-nombre-reservation
+neuf I-nombre-reservation
+merci O
+madame O
+
+à O
+bientôt O
+j' O
+espère O
+au O
+revoir O
+
+merci O
+madame O
+au O
+revoir O
+
