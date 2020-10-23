@@ -5,8 +5,8 @@ New data readers was created to manage MEDIA data, and to handill the different 
 
 
 ## Experiments 
--- In exemples/MEDIA you can find all the mash scripts used to run all the expriments mentionned in the paper. 
+- In exemples/MEDIA you can find all the mash scripts used to run all the expriments mentionned in the paper. 
 
 
 ## Installation
-Dependencies: Numpy (version >= 11.1.0) Scipy (version >= 0.17.0) Pytorch (version >- 0.2.0_3) Gensim (version >= 0.12.0)
+- Dependencies: Numpy (version >= 11.1.0) Scipy (version >= 0.17.0) Pytorch (version >- 0.2.0_3) Gensim (version >= 0.12.0)
