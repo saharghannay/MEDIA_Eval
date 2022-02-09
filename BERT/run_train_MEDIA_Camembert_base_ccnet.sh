@@ -3,7 +3,7 @@ export BERT_MODEL=BERT_models/camembert-base-ccnet
 export data_dir=../data/MEDIA_inv
 cat $data_dir"/train.txt" $data_dir"/dev.txt" $data_dir"/test.txt" | cut -d " " -f 2 | grep -v "^$"| sort | uniq > $data_dir"/labels.txt"
 export OUTPUT_DIR=FineTune_CamemBERT/MEDIA_camembert-base_ccnet
-export BATCH_SIZE=16
+export BATCH_SIZE=32
 export NUM_EPOCHS=100
 export SAVE_STEPS=1500
 export SEED=1
