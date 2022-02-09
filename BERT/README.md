@@ -1,6 +1,6 @@
 # Spoken language understanding
 
-run_slu.py used for SLU task, it is based on the hugging face script [`run_ner.py`](https://github.com/huggingface/transformers/blob/master/examples/ner/run_ner.py) for Pytorch.
+run_slu.py used for SLU task, it is based on the hugging face script [`run_ner.py`](https://github.com/huggingface/transformers/tree/master/examples/pytorch/token-classification/run_ner.py) for Pytorch.
 This example fine-tune Bert (Camembert or Flaubert) base models on MEDIA task.
 
 ## Experiments 
